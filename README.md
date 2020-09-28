@@ -6,11 +6,11 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 I'm a 3rd year Computer Science student, and I will be graduating in May 2021 😎
+- 🏫 I'm a Computer Science student. 😎
 
-- 🔭 I’m currently working on my final year project
+- 🔭 I’m currently working on my personal Real Estate Project
 
-- 🌱 I’m currently learning Serverless, Progressive Web Apps and UX Design
+- 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Vue, GoLang, etc.
 
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/aetherwebdev" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/aetherwebdev)
