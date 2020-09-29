@@ -52,6 +52,4 @@
 </code>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=cobalt" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=cobalt" />
 
