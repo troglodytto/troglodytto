@@ -49,11 +49,13 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=tokyonight" />
+
 </code>
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=tokyonight" />
 
 
