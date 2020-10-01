@@ -17,7 +17,7 @@
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
 
-<h1 align="left">Technologies</h1>
+<h1 align="left">Technologies that I use</h1>
 
 <p align="left">
 <code>
