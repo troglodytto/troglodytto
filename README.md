@@ -52,8 +52,8 @@
 </p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=dark" />
 
 
 
