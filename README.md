@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my personal Real Estate Project
 
-- 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Vue, GoLang, etc.
+- 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
 
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/aetherwebdev" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/aetherwebdev)
