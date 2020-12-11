@@ -22,7 +22,7 @@
     <!-- Sass -->
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
     <!-- HTML -->
-    <img height="48" margin-left="5px" width="48" src="https://cutt.ly/ThUXFQm"/>
+    <img height="48" margin-left="50px" width="48" src="https://cutt.ly/ThUXFQm"/>
     <!-- Bootstrap -->
     <img height="48" width="48" src="https://cutt.ly/NhUXXHT" />
     <!-- Typescript -->
