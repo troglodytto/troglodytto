@@ -20,7 +20,7 @@
 
 <p align="center">
     <!-- HTML -->
-    <img height="48" width="48" src="https://cutt.ly/ThUXFQm"/>
+    <img height="48" margin-left="5px" width="48" src="https://cutt.ly/ThUXFQm"/>
     <!-- Sass -->
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
     <!-- Bootstrap -->
