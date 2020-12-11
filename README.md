@@ -19,7 +19,7 @@
 
 <h1 align="left">Technologies that I use</h1>
 
-<p align="left">
+<p align="center">
 <code>
  <img height="48" width="48" src="https://cutt.ly/chUZlxx"/>
 <img height="48" width="48" src="https://cutt.ly/BhUZn6H" />
