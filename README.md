@@ -24,7 +24,7 @@
  <img height="48" width="48" src="https://cutt.ly/chUZlxx"/>
 <img height="48" width="48" src="https://cutt.ly/BhUZn6H" />
 <img height="48" width="48" src="https://cutt.ly/jhUZW0h" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="48" width="48" src="https://cutt.ly/AhUZYtq" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
