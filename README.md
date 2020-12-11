@@ -14,7 +14,7 @@
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/aetherwebdev" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/aetherwebdev)
 
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile"><img width="32" height="32" src="https://cutt.ly/HhUChro"> LinkedIn</a></code>
+- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile"><img width="16"" src="https://cutt.ly/HhUChro"> LinkedIn</a></code>
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
