@@ -20,20 +20,21 @@
 <h1 align="left">Technologies that I use</h1>
 
 <p align="center">
-<code>
- <img height="48" width="48" src="https://cutt.ly/chUZlxx"/>
-<img height="48" width="48" src="https://cutt.ly/BhUZn6H" />
-<img height="48" width="48" src="https://cutt.ly/jhUZW0h" />
-<img height="48" width="48" src="https://cutt.ly/AhUZYtq" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
-<img height="32" width="32" src="https://camo.githubusercontent.com/954b12e2c77ee76845b4b769855f79fa626f7974/68747470733a2f2f64657669636f6e2e6465762f64657669636f6e2e6769742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-</code>
+    <img height="48" width="48" src="https://cutt.ly/chUZlxx"/>
+    <img height="48" width="48" src="https://cutt.ly/BhUZn6H" />
+    <img height="48" width="48" src="https://cutt.ly/jhUZW0h" />
+    <img height="48" width="48" src="https://cutt.ly/AhUZYtq" />
+    <img height="48" width="48" src="https://cutt.ly/DhUZHKh" />
+    <img height="48" width="48" src="https://cutt.ly/lhUZBum" />
+    <img height="48" width="48" src="https://cutt.ly/8hUZMyX" />
+    <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
+    <img height="48" width="48" src="https://cutt.ly/xhUZ7if" />
+    <img height="48" width="48" src="https://cutt.ly/6hUXuOo" />
+    <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
+    <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
+    <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
+    <img height="48" width="48" src="https://cutt.ly/yhUXvtD" />
+    <img height="48" width="48" src="https://cutt.ly/FhUXQuD" />
 </p>
 
 
