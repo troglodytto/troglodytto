@@ -11,10 +11,9 @@
 
 - # 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
 
-- # 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/aetherwebdev" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
-[](https://github.com/aetherwebdev)
+- # 👨‍💻 Some of my projects are available <a href="https://github.com/aetherwebdev" title="GitHub Profile"><img width="24" src="https://cutt.ly/thUCZIY"> here</a>
 
-- # 📫 Let's <a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile">Connect! <img width="20" src="https://cutt.ly/HhUChro"></a>
+- # 📫 Let's <a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile">Connect! <img width="24" src="https://cutt.ly/HhUChro"></a>
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
