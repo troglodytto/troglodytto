@@ -19,10 +19,10 @@
 <h1 align="left">Technologies that I use</h1>
 
 <p align="center">
+    <!-- HTML -->
+    <img height="48" width="48" src="https://cutt.ly/ThUXFQm"/>
     <!-- Sass -->
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
-    <!-- HTML -->
-    <img height="48" margin-left="50px" width="48" src="https://cutt.ly/ThUXFQm"/>
     <!-- Bootstrap -->
     <img height="48" width="48" src="https://cutt.ly/NhUXXHT" />
     <!-- Typescript -->
