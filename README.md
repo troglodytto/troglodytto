@@ -7,7 +7,7 @@
 
 - ## 🏫 I'm a Computer Science student. 😎
 
-- ## 🔭 I’m currently working on a Facebook Clone Project
+- ## 🔭 I’m currently working on a Fullstack Social Media Project based on Facebook
 
 - ## 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
 
