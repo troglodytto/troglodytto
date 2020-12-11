@@ -20,20 +20,35 @@
 <h1 align="left">Technologies that I use</h1>
 
 <p align="center">
-    <img height="48" width="48" src="https://cutt.ly/chUZlxx"/>
-    <img height="48" width="48" src="https://cutt.ly/BhUZn6H" />
-    <img height="48" width="48" src="https://cutt.ly/jhUZW0h" />
-    <img height="48" width="48" src="https://cutt.ly/AhUZYtq" />
-    <img height="48" width="48" src="https://cutt.ly/DhUZHKh" />
-    <img height="48" width="48" src="https://cutt.ly/lhUZBum" />
-    <img height="48" width="48" src="https://cutt.ly/8hUZMyX" />
+    <!-- HTML -->
+    <img height="48" width="48" src="https://cutt.ly/ThUXFQm"/>
+    <!-- Sass -->
+    <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
+    <!-- Bootstrap -->
+    <img height="48" width="48" src="https://cutt.ly/NhUXXHT" />
+    <!-- Typescript -->
+    <img height="48" width="48" src="https://cutt.ly/phUXVJx" />
+    <!-- React -->
+    <img height="48" width="48" src="https://cutt.ly/1hUX1az" />
+    <!-- Angular -->
+    <img height="48" width="48" src="https://cutt.ly/chUX9vG" />
+    <!-- Django -->
+    <img height="48" width="48" src="https://cutt.ly/DhUX4hd" />
+    <!-- Haskell -->
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
-    <img height="48" width="48" src="https://cutt.ly/xhUZ7if" />
-    <img height="48" width="48" src="https://cutt.ly/6hUXuOo" />
+    <!-- Java -->
+    <img height="48" width="48" src="https://cutt.ly/LhUCwLi" />
+    <!-- Python -->
+    <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
+    <!-- Rust -->
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
+    <!-- Clojure -->
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
+    <!-- Flutter -->
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
+    <!-- Postgres -->
     <img height="48" width="48" src="https://cutt.ly/yhUXvtD" />
+    <!-- Spring -->
     <img height="48" width="48" src="https://cutt.ly/FhUXQuD" />
 </p>
 
