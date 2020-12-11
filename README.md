@@ -5,15 +5,15 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- # 🏫 I'm a Computer Science student. 😎
+- ## 🏫 I'm a Computer Science student. 😎
 
-- # 🔭 I’m currently working on a Facebook Clone Project
+- ## 🔭 I’m currently working on a Facebook Clone Project
 
-- # 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
+- ## 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
 
-- # 👨‍💻 Some of my projects are available <a href="https://github.com/aetherwebdev" title="GitHub Profile"> here <img width="32" src="https://cutt.ly/thUCZIY"></a>
+- ## 👨‍💻 Some of my projects are available <a href="https://github.com/aetherwebdev" title="GitHub Profile"> here <img width="32" src="https://cutt.ly/thUCZIY"></a>
 
-- # 📫 Let's <a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile">Connect! <img width="32" src="https://cutt.ly/HhUChro"></a>
+- ## 📫 Let's <a href="https://www.linkedin.com/in/aetherwebdev/" title="LinkedIn Profile">Connect! <img width="32" src="https://cutt.ly/HhUChro"></a>
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
