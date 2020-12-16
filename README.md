@@ -33,14 +33,14 @@
     <img height="48" width="48" src="https://cutt.ly/chUX9vG" />
     <!-- Django -->
     <img height="48" width="48" src="https://cutt.ly/DhUX4hd" />
-    <!-- Haskell -->
-    <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
-    <!-- Java -->
-    <img height="48" width="48" src="https://cutt.ly/LhUCwLi" />
     <!-- Python -->
     <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
+    <!-- Java -->
+    <img height="48" width="48" src="https://cutt.ly/LhUCwLi" />
     <!-- Rust -->
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
+    <!-- Haskell -->
+    <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
     <!-- Clojure -->
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <!-- Flutter -->
