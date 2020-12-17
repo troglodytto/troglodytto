@@ -16,7 +16,7 @@
 - ## 📫 Let's <a href="https://www.linkedin.com/in/aether-webdev/" title="LinkedIn Profile">Connect! <img width="32" src="https://cutt.ly/HhUChro"></a>
 
 - ## Read some of My articles here
-    - [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
+    - [<img height="12" width="12" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
