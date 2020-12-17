@@ -17,6 +17,7 @@
 
 - ## 📖 Read some of My articles here
     - ### [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
+    ![](https://cutt.ly/1hUX1az =24x)
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
