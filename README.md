@@ -13,8 +13,6 @@
 
 - ## 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aetherwebdev)
 
-- ## 📫 Let's [Connect! <img width="28" src="https://cutt.ly/HhUChro">](https://www.linkedin.com/in/aether-webdev/)
-
 - ## 📖 Read some of My articles here
     - ### [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 <br><br>
