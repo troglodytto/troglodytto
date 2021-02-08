@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aetherwebdev&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -53,8 +53,8 @@
 </p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aetherwebdev&show_icons=true&hide=contribs,issues&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherwebdev&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true&hide=contribs,issues&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb&theme=tokyonight" />
 
 
 
