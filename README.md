@@ -11,12 +11,7 @@
 
 - ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
 
-- ### 🌱 Learning to build Fullstack Web Apps using 
-    - #### Angular 🔴 
-    - #### Vue 🌲 
-    - #### Nuxt 🏳️
-    - #### Django ◼️ 
-    - #### Phoenix 💜 etc.
+- ### 🌱 Learning to build Fullstack Web Apps using Angular 🔴 Vue 🌲 Nuxt 🏳️ Django ◼️ Phoenix 💜 etc.
 
 - ### 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aetherwebdev)
 
