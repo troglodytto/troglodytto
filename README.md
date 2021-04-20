@@ -7,9 +7,11 @@
 
 - ## 🏫 I'm a Computer Science student. 😎
 
-- ## 🔭 I’m currently working on a Fullstack Social Media Project based on Facebook
+- ## ⚡ Frontend Engineer at [Rivi](https://rivi.co/)
 
-- ## 🌱 I’m currently learning Serverless, Progressive Web Apps using React, Angular, Django, Spring etc.
+- ## 🦄 Working on a Top Secret Fire/Vue Project 🤫
+
+- ## 🌱 Learning to build Fullstack Web Apps using Angular 🔴 Vue 🌲 Nuxt ◼️ Django 💜 Phoenix etc.
 
 - ## 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aetherwebdev)
 
