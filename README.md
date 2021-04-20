@@ -22,18 +22,20 @@
 <h1 align="left">Technologies that I use</h1>
 
 <p align="center">
-    <!-- HTML -->
-    <img height="48" width="48" src="https://cutt.ly/ThUXFQm"/>
     <!-- Sass -->
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
-    <!-- Bootstrap -->
-    <img height="48" width="48" src="https://cutt.ly/NhUXXHT" />
     <!-- Typescript -->
     <img height="48" width="48" src="https://cutt.ly/phUXVJx" />
     <!-- React -->
     <img height="48" width="48" src="https://cutt.ly/1hUX1az" />
     <!-- Angular -->
     <img height="48" width="48" src="https://cutt.ly/chUX9vG" />
+    <!-- Vue -->
+    <img height="48" width="48" src="https://cutt.ly/BvOKUon">
+    <!-- Nuxt -->
+    <img height="48" width="48" src="https://cutt.ly/kvOLjhg">
+    <!-- Tailwind -->
+    <img height="48" width="48" src="https://cutt.ly/0vOK6Xf">
     <!-- Django -->
     <img height="48" width="48" src="https://cutt.ly/DhUX4hd" />
     <!-- Python -->
@@ -48,10 +50,6 @@
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <!-- Flutter -->
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
-    <!-- Postgres -->
-    <img height="48" width="48" src="https://cutt.ly/yhUXvtD" />
-    <!-- Spring -->
-    <img height="48" width="48" src="https://cutt.ly/FhUXQuD" />
 </p>
 
 
