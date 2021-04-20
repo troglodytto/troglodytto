@@ -5,18 +5,18 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- ## 🏫 I'm a Computer Science student. 😎
+- ### 🏫 I'm a Computer Science student. 😎
 
-- ## ⚡ Frontend Engineer at [Rivi](https://rivi.co/)
+- ### ⚡ Frontend Engineer at [Rivi](https://rivi.co/)
 
-- ## 🦄 Working on a Top Secret Fire/Vue Project 🤫
+- ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
 
-- ## 🌱 Learning to build Fullstack Web Apps using Angular 🔴 Vue 🌲 Nuxt ◼️ Django 💜 Phoenix etc.
+- ### 🌱 Learning to build Fullstack Web Apps using Angular 🔴 Vue 🌲 Nuxt ◼️ Django 💜 Phoenix etc.
 
-- ## 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aetherwebdev)
+- ### 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aetherwebdev)
 
-- ## 📖 Read some of My articles here
-    - ### [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
+- ### 📖 Read some of My articles here
+    - #### [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 <br><br>
 
 <h1 align="left">Technologies that I use</h1>
