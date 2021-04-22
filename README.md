@@ -53,8 +53,8 @@
 </p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true&hide=contribs,issues&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb" />
 
 
 
