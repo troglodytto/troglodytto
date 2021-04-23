@@ -7,7 +7,7 @@
 
 - ### 🏫 I'm a Computer Science student.
 
-- ### ⚡ Frontend Engineer at [Rivi](https://rivi.co/)
+- ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 
 - ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
 
