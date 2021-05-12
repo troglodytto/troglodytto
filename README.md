@@ -52,14 +52,12 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
 </p>
 
-
-<img align="right" src="![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb&theme=vue" />)
+![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDE0MDA4MF19
+eyJoaXN0b3J5IjpbLTUxOTkyOTk0M119
 -->
