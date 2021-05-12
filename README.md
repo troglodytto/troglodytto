@@ -13,13 +13,12 @@
 
 - ### 🌱 Learning to build Fullstack Web Apps using Angular 🔺 Vue 🌲 Nuxt ▪️ Django 🥬 Phoenix 💜 etc.
 
-- ### 💻 Some of my projects are available [here <img width="28" src="https://cutt.ly/thUCZIY">](https://github.com/aether-devweb?tab=repositories)
+- ### 💻 Some of my projects are available [![Github](https://cutt.ly/thUCZIY =24x)](https://github.com/aether-devweb?tab=repositories)
 
 - ### 📖 Articles
-    - #### [<img height="24" width="24" src="https://cutt.ly/1hUX1az" /> How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
-<br><br>
+    - #### [![React](https://cutt.ly/1hUX1az =24x) How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 
-<h1 align="left">Pandora's Box 🔥 </h1>
+# Pandora's Box 🔥
 
 <p align="center">
     <!-- Sass -->
@@ -59,5 +58,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTkyOTk0M119
+eyJoaXN0b3J5IjpbLTE3MzExMDkxMzddfQ==
 -->
