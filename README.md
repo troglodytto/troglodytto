@@ -13,7 +13,7 @@
 
 - ### 🌱 Learning to build Fullstack Web Apps using Angular 🔺 Vue 🌲 Nuxt ▪️ Django 🥬 Phoenix 💜 etc.
 
-- ### 💻 Some of my projects are available [![Github](https://cutt.ly/thUCZIY =24x)](https://github.com/aether-devweb?tab=repositories)
+- ### 💻 Some of my projects are available [here](https://github.com/aether-devweb?tab=repositories)
 
 - ### 📖 Articles
     - #### [![React](https://cutt.ly/1hUX1az =24x) How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
@@ -58,5 +58,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzExMDkxMzddfQ==
+eyJoaXN0b3J5IjpbMTU1NTU1MDQ2MF19
 -->
