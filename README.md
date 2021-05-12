@@ -53,10 +53,13 @@
 </p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb&theme=vue" />
+<img align="right" src="![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aether-devweb&theme=vue" />)
 
 
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyNDE0MDA4MF19
+-->
