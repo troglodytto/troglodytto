@@ -16,7 +16,7 @@
 - ### 💻 Some of my projects are available [here](https://github.com/aether-devweb?tab=repositories)
 
 - ### 📖 Articles
-    - #### [![React](https://cutt.ly/1hUX1az =24x) How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
+    - #### [How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 
 # Pandora's Box 🔥
 
