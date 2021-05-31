@@ -19,11 +19,11 @@
 
 ![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
 
-![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+![Ethereum](https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg)
 
-![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+![Ripple](https://www.vectorlogo.zone/logos/ripple/ripple-icon.svg)
 
-![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+![Tron](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
 
 # Pandora's Box 🔥
 
@@ -65,6 +65,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MjgyMzU0LDcyMDAxMTg0MywxNTU1NT
-UwNDYwXX0=
+eyJoaXN0b3J5IjpbLTQ3MzM4Njk3NCw3MjAwMTE4NDMsMTU1NT
+U1MDQ2MF19
 -->
