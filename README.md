@@ -8,7 +8,8 @@
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
-- ### Here are my articles
+- ### Connect 
+	- ![Twitter](https://img.shields.io/twitter/follow/troglodytto?logo=twitter&style=for-the-badge)
 
 # Pandora's Box 🔥
 
@@ -47,8 +48,8 @@
 
 <h1 align="center">Hi 👋, I'm Piyush</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
-  
-<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" /></a> </p>  
+    
+![Twitter](https://img.shields.io/twitter/follow/troglodytto?logo=twitter&style=for-the-badge)
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -70,7 +71,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg5OTEwNzksNzIwMDExODQzLDU3Nj
-Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
-XX0=
+eyJoaXN0b3J5IjpbNzE4NTM3NzY0LDcyMDAxMTg0Myw1NzY2OT
+gzMTMsMTAzMjAwNDczNSw3MjAwMTE4NDMsMTU1NTU1MDQ2MF19
+
 -->
