@@ -17,10 +17,13 @@
 - ### 📖 Articles
     - #### [How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 
-<p align="center">
-    <!-- Sass -->
-    <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
-</p>
+![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+
+![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+
+![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
+
+![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg)
 
 # Pandora's Box 🔥
 
@@ -62,6 +65,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODc4OTk4OCw3MjAwMTE4NDMsMTU1NT
-U1MDQ2MF19
+eyJoaXN0b3J5IjpbNTg1MjgyMzU0LDcyMDAxMTg0MywxNTU1NT
+UwNDYwXX0=
 -->
