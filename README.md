@@ -9,19 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <a href="https://twitter.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
-  </a>
-  <a href="https://instagram.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
-  </a>
-  <a href="https://medium.com/@aether-devweb" target="blank">
-    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
-  </a>
-</p>
-
-# Pandora's Box 🔥
+## Pandora's Box 🔥
 
 <p align="center">
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
@@ -38,13 +26,28 @@
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true" />
+</p>
+
+<p align='center'>
+	<img src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true"/>
+</p>
+
+## Connect
+<p align="center">
+  <a href="https://twitter.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://instagram.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://medium.com/@aether-devweb" target="blank">
+    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
+  </a>
 </p>
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDUzMTUyNyw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbMTMyMTA1MjM3NCw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
