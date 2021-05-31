@@ -1,14 +1,17 @@
-
-# 👋 Hi, I'm Piyush
-
-<p>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif =230x)
+<h1 align="center">Hi 👋</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
 </p>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 - ### 🏫 I'm a Computer Science student.
 
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 
-- ### 🦄 Working on a Minimal Rust Kernel
+- ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
+
+- ### 🌱 Learning to build Fullstack Web Apps using Angular 🔺 Vue 🌲 Nuxt ▪️ Django 🥬 Phoenix 💜 etc.
 
 - ### 💻 Some of my projects are available [here](https://github.com/aether-devweb?tab=repositories)
 
@@ -50,8 +53,12 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjYzNTAzOCw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbLTU2OTQ5NDMwOCw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
