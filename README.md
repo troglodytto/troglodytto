@@ -1,13 +1,13 @@
 # Hi, I'm Piyush 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
+<img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 📖 Blogs posts
-	<!-- BLOG-POST-LIST:START -->  
-	<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://twitter.com/troglodytto" target="blank">
@@ -48,9 +48,7 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <!-- Haskell -->
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
-    <!-- Clojure -->
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
-    <!-- Flutter -->
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
 </p>
 
@@ -60,7 +58,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzQ0NjQwNiw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbLTY1MzU3MTY3NSw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
