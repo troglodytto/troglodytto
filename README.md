@@ -6,20 +6,20 @@
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 📖 Blogs posts
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->
+	<!-- BLOG-POST-LIST:START -->  
+	<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-	<a href="https://twitter.com/troglodytto" target="blank">
-		<img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
-	</a>
-	<a href="https://instagram.com/troglodytto" target="blank">
-		<img src="" alt="troglodytto" width="48" />
-	</a> 
-	<a href="https://medium.com/@aether-devweb" target="blank">
-		<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" />
-	</a>
-</p>  
+  <a href="https://twitter.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://instagram.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://medium.com/@aether-devweb" target="blank">
+    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
+  </a>
+</p>
 
 # Pandora's Box 🔥
 
@@ -60,7 +60,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ5ODg4OTcsNzIwMDExODQzLDU3Nj
-Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
-XX0=
+eyJoaXN0b3J5IjpbMTg4NzQ0NjQwNiw3MjAwMTE4NDMsNTc2Nj
+k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
+fQ==
 -->
