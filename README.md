@@ -8,8 +8,12 @@
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
-- ### Connect 
-	- ![Twitter](https://img.shields.io/twitter/follow/troglodytto?logo=twitter&style=for-the-badge)
+- <h3 align="left">Connect</h3>  
+<p align="center">
+<a href="https://twitter.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>  
+<a href="https://instagram.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" /></a> 
+<a href="https://medium.com/@aether-devweb" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" /></a>
+</p>  
 
 # Pandora's Box 🔥
 
@@ -48,22 +52,13 @@
 
 <h1 align="center">Hi 👋, I'm Piyush</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
-    
-![Twitter](https://img.shields.io/twitter/follow/troglodytto?logo=twitter&style=for-the-badge)
+ 
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
   
-<h3 align="left">Connect with me:</h3>  
-<p align="center">
-<a href="https://twitter.com/troglodytto" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>  
 
-<a href="https://instagram.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" /></a> 
- 
-<a href="https://medium.com/@aether-devweb" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" /></a>
-
-</p>  
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact" alt="aether-devweb" /></p>  
   
@@ -74,7 +69,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEwNzU0OTMsNzIwMDExODQzLDU3Nj
-Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
-XX0=
+eyJoaXN0b3J5IjpbNzc0NTM1NDA0LDcyMDAxMTg0Myw1NzY2OT
+gzMTMsMTAzMjAwNDczNSw3MjAwMTE4NDMsMTU1NTU1MDQ2MF19
+
 -->
