@@ -3,17 +3,21 @@
 <img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
 
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
-- ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
-- <h3 align="left">Connect</h3>  
+- ### 🦄 Working on a Minmal Rust Kernel 
+
 <p align="center">
 <a href="https://twitter.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>  
 <a href="https://instagram.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" /></a> 
 <a href="https://medium.com/@aether-devweb" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" /></a>
 </p>  
+
+- ### Blogs posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->
 
 # Pandora's Box 🔥
 
@@ -53,11 +57,6 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
  
-  
-### Blogs posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-  
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact" alt="aether-devweb" /></p>  
@@ -69,7 +68,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTM1NDA0LDcyMDAxMTg0Myw1NzY2OT
-gzMTMsMTAzMjAwNDczNSw3MjAwMTE4NDMsMTU1NTU1MDQ2MF19
-
+eyJoaXN0b3J5IjpbMTgzNDIyMTM1OCw3MjAwMTE4NDMsNTc2Nj
+k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
+fQ==
 -->
