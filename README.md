@@ -1,14 +1,11 @@
-<h1 align="center">Hi, I'm Piyush 👋</h1>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
-</p>
+# Hi, I'm Piyush 👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
 
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
-- ###  Blogs posts  
+- ### 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->
 
@@ -57,7 +54,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDEyMjgyMyw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbLTYxMzY3NzMxNyw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
