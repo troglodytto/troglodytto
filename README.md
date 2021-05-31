@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center"> 👋 Hi, I'm Piyush</h1>
+<h3 align="center">A Computer Science</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
 </p>
@@ -50,10 +51,24 @@
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
-
-
+<h3 align="center">A passionate frontend developer from India</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile%20views&color=0e75b6&style=flat" alt="aether-devweb" /> </p>  
+  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://twitter.com/troglodytto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="troglodytto" height="30" width="40" /></a>  
+<a href="https://instagram.com/troglodytto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="troglodytto" height="30" width="40" /></a>  
+<a href="https://medium.com/@aether-devweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@aether-devweb" height="30" width="40" /></a>  
+</p>  
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact" alt="aether-devweb" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true&locale=en" alt="aether-devweb" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aether-devweb&" alt="aether-devweb" /></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjA4NjY3LDcyMDAxMTg0Myw1NzY2OT
-gzMTMsMTAzMjAwNDczNSw3MjAwMTE4NDMsMTU1NTU1MDQ2MF19
-
+eyJoaXN0b3J5IjpbLTc5NDU4ODUyMSw3MjAwMTE4NDMsNTc2Nj
+k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
+fQ==
 -->
