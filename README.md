@@ -1,23 +1,6 @@
 # Hi, I'm Piyush 👋
 
-
-
-<p align="right">
-  <img src="https://cutt.ly/lnfmbqL" width="240"><br/>
-  <p align="center">
-  <a href="https://twitter.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
-  </a>
-  <a href="https://instagram.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
-  </a>
-  <a href="https://medium.com/@aether-devweb" target="blank">
-    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
-  </a>
-  </p>
-</p>
-
-
+<img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
@@ -47,8 +30,22 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
+## Connect
+<p align="center">
+  <a href="https://twitter.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://instagram.com/troglodytto" target="blank">
+    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
+  </a>
+  <a href="https://medium.com/@aether-devweb" target="blank">
+    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
+  </a>
+</p>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NzMzOTMzLC0xODE4OTk2Mjk1LDEzMj
-EwNTIzNzQsNzIwMDExODQzLDU3NjY5ODMxMywxMDMyMDA0NzM1
-LDcyMDAxMTg0MywxNTU1NTUwNDYwXX0=
+eyJoaXN0b3J5IjpbLTE4MTg5OTYyOTUsLTE4MTg5OTYyOTUsMT
+MyMTA1MjM3NCw3MjAwMTE4NDMsNTc2Njk4MzEzLDEwMzIwMDQ3
+MzUsNzIwMDExODQzLDE1NTU1NTA0NjBdfQ==
 -->
