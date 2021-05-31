@@ -43,9 +43,3 @@
   </a>
 </p>
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE4MzI2MzgsLTE4MTg5OTYyOTUsMT
-MyMTA1MjM3NCw3MjAwMTE4NDMsNTc2Njk4MzEzLDEwMzIwMDQ3
-MzUsNzIwMDExODQzLDE1NTU1NTA0NjBdfQ==
--->
