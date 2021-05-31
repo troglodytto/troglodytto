@@ -48,9 +48,7 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile%20views&color=0e75b6&style=flat" alt="aether-devweb" /> </p>  
-  
-<p align="left"> <a href="https://twitter.com/troglodytto" target="blank"><img src="https://img.shields.io/twitter/follow/troglodytto?logo=twitter&style=for-the-badge" alt="troglodytto" /></a> </p>  
+<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" /></a> </p>  
   
 ### Blogs posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -72,7 +70,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM3OTA3MjIsNzIwMDExODQzLDU3Nj
+eyJoaXN0b3J5IjpbLTEyMTg5OTEwNzksNzIwMDExODQzLDU3Nj
 Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
 XX0=
 -->
