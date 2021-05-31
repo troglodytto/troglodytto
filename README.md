@@ -17,7 +17,6 @@
 - ### 📖 Articles
     - #### [How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
 
-![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg =48x)
 ![Ethereum](https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg  =48x)
 ![Ripple](https://i.pinimg.com/originals/e6/9d/92/e69d92c8f36c37c84ecf8104e1fc386d.png =48x) 
 ![Tron](https://cryptologos.cc/logos/tron-trx-logo.png =48x)
@@ -62,6 +61,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTYxOTc0NSwxMDMyMDA0NzM1LDcyMD
-AxMTg0MywxNTU1NTUwNDYwXX0=
+eyJoaXN0b3J5IjpbNTc2Njk4MzEzLDEwMzIwMDQ3MzUsNzIwMD
+ExODQzLDE1NTU1NTA0NjBdfQ==
 -->
