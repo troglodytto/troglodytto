@@ -9,9 +9,7 @@
 
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 
-- ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
-
-- ### 🌱 Learning to build Fullstack Web Apps using Angular 🔺 Vue 🌲 Nuxt ▪️ Django 🥬 Phoenix 💜 etc.
+- ### 🦄 Working on a Minimal Rust Kernel
 
 - ### 💻 Some of my projects are available [here](https://github.com/aether-devweb?tab=repositories)
 
@@ -54,10 +52,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMDExODQzLDU3NjY5ODMxMywxMDMyMD
-A0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYwXX0=
+eyJoaXN0b3J5IjpbNDczNjA4NjY3LDcyMDAxMTg0Myw1NzY2OT
+gzMTMsMTAzMjAwNDczNSw3MjAwMTE4NDMsMTU1NTU1MDQ2MF19
+
 -->
