@@ -7,17 +7,16 @@
 
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
-- ### 🦄 Working on a Minmal Rust Kernel 
+- ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
+- ###  Blogs posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<a href="https://twitter.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>  
+<a href="https://twitter.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>
 <a href="https://instagram.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" /></a> 
 <a href="https://medium.com/@aether-devweb" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" /></a>
 </p>  
-
-- ### Blogs posts  
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->
 
 # Pandora's Box 🔥
 
@@ -54,21 +53,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
-<h1 align="center">Hi 👋, I'm Piyush</h1>  
-<h3 align="center">A passionate frontend developer from India</h3>  
- 
-
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact" alt="aether-devweb" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true&locale=en" alt="aether-devweb" /></p>
-
-
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDIyMTM1OCw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbMTY4NDEyMjgyMyw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
