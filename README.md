@@ -1,22 +1,14 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi, I'm Piyush 👋</h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 - ### 🏫 I'm a Computer Science student.
-
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
-
 - ### 🦄 Working on a Top Secret Firebase/Vue Project 🤫
-
-- ### 🌱 Learning to build Fullstack Web Apps using Angular 🔺 Vue 🌲 Nuxt ▪️ Django 🥬 Phoenix 💜 etc.
-
-- ### 💻 Some of my projects are available [here](https://github.com/aether-devweb?tab=repositories)
-
-- ### 📖 Articles
-    - #### [How to Build a To-Do App using React](https://medium.com/javascript-in-plain-english/building-a-to-do-application-using-react-c6899b986d6c)
+- ### Here are my articles
 
 # Pandora's Box 🔥
 
@@ -58,7 +50,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTQ5NDMwOCw3MjAwMTE4NDMsNTc2Nj
+eyJoaXN0b3J5IjpbMTExNDM2MzgyNiw3MjAwMTE4NDMsNTc2Nj
 k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
 fQ==
 -->
