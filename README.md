@@ -1,10 +1,9 @@
+
 # 👋 Hi, I'm Piyush
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aether-devweb&label=Profile+Views" />
+
+<p>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif =230x)
 </p>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 - ### 🏫 I'm a Computer Science student.
 
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
@@ -52,7 +51,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTExMDg2NzIsNzIwMDExODQzLDU3Nj
-Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
-XX0=
+eyJoaXN0b3J5IjpbLTM0NjYzNTAzOCw3MjAwMTE4NDMsNTc2Nj
+k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
+fQ==
 -->
