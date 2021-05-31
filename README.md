@@ -28,9 +28,7 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
 </p>
 
-<p align='center'>
-	<img src="https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=aether-devweb&show_icons=true)
 
 ## Connect
 <p align="center">
@@ -47,7 +45,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA1MjM3NCw3MjAwMTE4NDMsNTc2Nj
-k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
-fQ==
+eyJoaXN0b3J5IjpbLTE4MTg5OTYyOTUsMTMyMTA1MjM3NCw3Mj
+AwMTE4NDMsNTc2Njk4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQz
+LDE1NTU1NTA0NjBdfQ==
 -->
