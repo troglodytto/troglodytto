@@ -10,9 +10,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<a href="https://twitter.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48" /></a>
-<a href="https://instagram.com/troglodytto" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" /></a> 
-<a href="https://medium.com/@aether-devweb" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" /></a>
+	<a href="https://twitter.com/troglodytto" target="blank">
+		<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="troglodytto" width="48"/>
+	</a>
+	<a href="https://instagram.com/troglodytto" target="blank">
+		<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="troglodytto" width="48" />
+	</a> 
+	<a href="https://medium.com/@aether-devweb" target="blank">
+		<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@aether-devweb" width="48" />
+	</a>
 </p>  
 
 # Pandora's Box 🔥
@@ -54,7 +60,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzY3NzMxNyw3MjAwMTE4NDMsNTc2Nj
-k4MzEzLDEwMzIwMDQ3MzUsNzIwMDExODQzLDE1NTU1NTA0NjBd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMjE4MTkxNTMsNzIwMDExODQzLDU3Nj
+Y5ODMxMywxMDMyMDA0NzM1LDcyMDAxMTg0MywxNTU1NTUwNDYw
+XX0=
 -->
