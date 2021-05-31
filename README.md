@@ -5,7 +5,7 @@
 - ### 🏫 I'm a Computer Science student.
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
-- ### 📖 Blogs posts
+<!-- - ### 📖 Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -45,7 +45,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg5OTYyOTUsLTE4MTg5OTYyOTUsMT
+eyJoaXN0b3J5IjpbLTEwMDE4MzI2MzgsLTE4MTg5OTYyOTUsMT
 MyMTA1MjM3NCw3MjAwMTE4NDMsNTc2Njk4MzEzLDEwMzIwMDQ3
 MzUsNzIwMDExODQzLDE1NTU1NTA0NjBdfQ==
 -->
