@@ -6,18 +6,18 @@
 - ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 🎵 Some music that I like
-<!-- BLOG-POST-LIST:START -->
-- [ILLENIUM & Nurko - Sideways (ft. Valerie Broussard) [Official Lyric Video]](https://www.youtube.com/watch?v=XUf_vDsWcuw)
-- [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
-- [ILLENIUM and Iann Dior- First Time (Official Lyric Video)](https://www.youtube.com/watch?v=mUlRDt23BWY)
-- [Justin Bieber - Anyone (nvmex remix)](https://www.youtube.com/watch?v=wpqWputB3rw)
-- [8 Graves x Unlike Pluto - The Underground](https://www.youtube.com/watch?v=ruYPkxoFkiE)
-- [Dan Henig | Eternal Garden](https://www.youtube.com/watch?v=Psw0IM8YxcA)
-- [mohit chahuhan - ye dooriyan (slowed & reverbed)](https://www.youtube.com/watch?v=uycXJYW3Low)
-- [KK - Beetein Lamhein (Slowed to perfection + Reverbed)](https://www.youtube.com/watch?v=vAKxe99D0Ww)
-- [Porter Robinson - Get Your Wish (Essenger Cover) [Synthwave]](https://www.youtube.com/watch?v=Twc3c_9Wg6o)
-- [Essenger & Kazukii - Erased](https://www.youtube.com/watch?v=dSRerBpL-4c)
-<!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START -->
+    - [ILLENIUM & Nurko - Sideways (ft. Valerie Broussard) [Official Lyric Video]](https://www.youtube.com/watch?v=XUf_vDsWcuw)
+    - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
+    - [ILLENIUM and Iann Dior- First Time (Official Lyric Video)](https://www.youtube.com/watch?v=mUlRDt23BWY)
+    - [Justin Bieber - Anyone (nvmex remix)](https://www.youtube.com/watch?v=wpqWputB3rw)
+    - [8 Graves x Unlike Pluto - The Underground](https://www.youtube.com/watch?v=ruYPkxoFkiE)
+    - [Dan Henig | Eternal Garden](https://www.youtube.com/watch?v=Psw0IM8YxcA)
+    - [mohit chahuhan - ye dooriyan (slowed & reverbed)](https://www.youtube.com/watch?v=uycXJYW3Low)
+    - [KK - Beetein Lamhein (Slowed to perfection + Reverbed)](https://www.youtube.com/watch?v=vAKxe99D0Ww)
+    - [Porter Robinson - Get Your Wish (Essenger Cover) [Synthwave]](https://www.youtube.com/watch?v=Twc3c_9Wg6o)
+    - [Essenger & Kazukii - Erased](https://www.youtube.com/watch?v=dSRerBpL-4c)
+    <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
 
