@@ -7,17 +7,17 @@
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 🎵 Some music that I like
     <!-- BLOG-POST-LIST:START -->
-    - [ILLENIUM & Nurko - Sideways (ft. Valerie Broussard) [Official Lyric Video]](https://www.youtube.com/watch?v=XUf_vDsWcuw)
-    - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
-    - [ILLENIUM and Iann Dior- First Time (Official Lyric Video)](https://www.youtube.com/watch?v=mUlRDt23BWY)
-    - [Justin Bieber - Anyone (nvmex remix)](https://www.youtube.com/watch?v=wpqWputB3rw)
-    - [8 Graves x Unlike Pluto - The Underground](https://www.youtube.com/watch?v=ruYPkxoFkiE)
-    - [Dan Henig | Eternal Garden](https://www.youtube.com/watch?v=Psw0IM8YxcA)
-    - [mohit chahuhan - ye dooriyan (slowed & reverbed)](https://www.youtube.com/watch?v=uycXJYW3Low)
-    - [KK - Beetein Lamhein (Slowed to perfection + Reverbed)](https://www.youtube.com/watch?v=vAKxe99D0Ww)
-    - [Porter Robinson - Get Your Wish (Essenger Cover) [Synthwave]](https://www.youtube.com/watch?v=Twc3c_9Wg6o)
-    - [Essenger & Kazukii - Erased](https://www.youtube.com/watch?v=dSRerBpL-4c)
-    <!-- BLOG-POST-LIST:END -->
+- [The Weeknd - Blinding Lights (Official Audio)](https://www.youtube.com/watch?v=fHI8X4OXluQ)
+- [ILLENIUM, Jon Bellion - Good Things Fall Apart (Lyric Video)](https://www.youtube.com/watch?v=J9Zjgb03FMQ)
+- [Alan Walker, K-391 & Emelie Hollow - Lily (Lyrics)](https://www.youtube.com/watch?v=kTJbE3sfvlI)
+- [Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)](https://www.youtube.com/watch?v=ApXoWvfEYVU)
+- [Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix)](https://www.youtube.com/watch?v=WNeLUngb-Xg)
+- [Snail's House - Pixel Galaxy (Official MV)](https://www.youtube.com/watch?v=3nlSDxvt6JU)
+- [Alan Walker ft. Gavin James - Tired](https://www.youtube.com/watch?v=g4hGRvs6HHU)
+- [Illenium - Fractures (feat. Nevve)](https://www.youtube.com/watch?v=ZCu2gwLj9ok)
+- [Porter Robinson & Madeon - Shelter (Official Video) (Short Film with A-1 Pictures & Crunchyroll)](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
+- [The Chainsmokers - All We Know (Audio) ft. Phoebe Ryan](https://www.youtube.com/watch?v=lEi_XBg2Fpk)
+<!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
 
