@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=16"></img>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact&hide=cmake,html&theme=vue&border_color=41b883&border_radius=16"></img>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aether-devweb&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=18"></img>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aether-devweb&show_icons=true&locale=en&layout=compact&hide=cmake,html&theme=vue&border_color=41b883&border_radius=18"></img>
 </p>
 
 ## Connect
