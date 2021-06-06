@@ -7,17 +7,17 @@
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 🎵 Some music that I like
     <!-- BLOG-POST-LIST:START -->
-    - [The Weeknd - Blinding Lights (Official Audio)](https://www.youtube.com/watch?v=fHI8X4OXluQ)
-    - [ILLENIUM, Jon Bellion - Good Things Fall Apart (Lyric Video)](https://www.youtube.com/watch?v=J9Zjgb03FMQ)
-    - [Alan Walker, K-391 & Emelie Hollow - Lily (Lyrics)](https://www.youtube.com/watch?v=kTJbE3sfvlI)
-    - [Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)](https://www.youtube.com/watch?v=ApXoWvfEYVU)
-    - [Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix)](https://www.youtube.com/watch?v=WNeLUngb-Xg)
-    - [Snail's House - Pixel Galaxy (Official MV)](https://www.youtube.com/watch?v=3nlSDxvt6JU)
-    - [Alan Walker ft. Gavin James - Tired](https://www.youtube.com/watch?v=g4hGRvs6HHU)
-    - [Illenium - Fractures (feat. Nevve)](https://www.youtube.com/watch?v=ZCu2gwLj9ok)
-    - [Porter Robinson & Madeon - Shelter (Official Video) (Short Film with A-1 Pictures & Crunchyroll)](https://www.youtube.com/watch?v=fzQ6gRAEoy0)
-    - [The Chainsmokers - All We Know (Audio) ft. Phoebe Ryan](https://www.youtube.com/watch?v=lEi_XBg2Fpk)
-    <!-- BLOG-POST-LIST:END -->
+- [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
+- [INFEKT - Orgalorg 2021](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
+- [Topi - Back From The Future](https://www.youtube.com/watch?v=saH7hwrQIPM)
+- [Ganja White Night - Dirty Girl | Music Video | Animation](https://www.youtube.com/watch?v=OKa3Ly1egQ4)
+- [GET LEMON 3?? Disciple - How We Roll Megacollab [LYRIC VIDEO]](https://www.youtube.com/watch?v=8wsc673F6h0)
+- [Space Laces - Phone Tap (Virtual Riot Remix)](https://www.youtube.com/watch?v=eePSKlHTqhM)
+- [Leotrix - Hive Bounce VIP](https://www.youtube.com/watch?v=b8bh6dmm4Ak)
+- [MONXX & AUTOMHATE - ID](https://www.youtube.com/watch?v=MGD-kKomEPI)
+- [GET LEMON 2?? [Disciple - We Don't Play Megacollab Lyric Video]](https://www.youtube.com/watch?v=tXxFPYZWpA4)
+- [Virtual Riot & INFEKT -  Das Riddim](https://www.youtube.com/watch?v=qIMrsPIgeZg)
+<!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
 
