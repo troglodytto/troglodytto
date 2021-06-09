@@ -13,7 +13,7 @@
 - [Ganja White Night - Dirty Girl | Music Video | Animation](https://www.youtube.com/watch?v=OKa3Ly1egQ4)
 - [GET LEMON 3?? Disciple - How We Roll Megacollab [LYRIC VIDEO]](https://www.youtube.com/watch?v=8wsc673F6h0)
 - [Space Laces - Phone Tap (Virtual Riot Remix)](https://www.youtube.com/watch?v=eePSKlHTqhM)
-- [Leotrix - Hive Bounce VIP](https://www.youtube.com/watch?v=b8bh6dmm4Ak)
+- [Max Brhon - The Future  [NCS Release]](https://www.youtube.com/watch?v=dRe_rS19E04)
 - [GET LEMON 2?? [Disciple - We Don't Play Megacollab Lyric Video]](https://www.youtube.com/watch?v=tXxFPYZWpA4)
 - [Virtual Riot & INFEKT -  Das Riddim](https://www.youtube.com/watch?v=qIMrsPIgeZg)
 - [Rail Spot](https://www.youtube.com/watch?v=NCRx7ZQjos8)
