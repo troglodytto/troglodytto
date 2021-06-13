@@ -1,4 +1,4 @@
-# Hi, I'm Piyush 👋
+# Hi 👋
 
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
