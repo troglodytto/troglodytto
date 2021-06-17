@@ -3,7 +3,7 @@
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### 🏫 I'm a Computer Science student.
-- ### ⚡ Frontend Engineering Intern at [Rivi](https://rivi.co/)
+- ### ⚡ Software Engineer at [Rivi](https://rivi.co/)
 - ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
 - ### 🎵 Some music that I like
     <!-- BLOG-POST-LIST:START -->
