@@ -26,20 +26,28 @@
     <img height="48" width="48" src="https://cutt.ly/phUXVJx" />
     <img height="48" width="48" src="https://cutt.ly/1hUX1az" />
     <img height="48" width="48" src="https://cutt.ly/chUX9vG" />
-    <img height="48" width="48" src="https://cutt.ly/BvOKUon">
-    <img height="48" width="48" src="https://cutt.ly/kvOLjhg">
-    <img height="48" width="48" src="https://cutt.ly/0vOK6Xf">
+    <img height="48" width="48" src="https://cutt.ly/BvOKUon" />
+    <img height="48" width="48" src="https://cutt.ly/0vOK6Xf" />
     <img height="48" width="48" src="https://cutt.ly/DhUX4hd" />
     <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
     <img height="48" width="48" src="https://cutt.ly/LhUCwLi" />
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
+</p>
+
+
+## Learning goals 👓
+
+<p align="center">
+    <img height="48" width="48" src="https://cutt.ly/kvOLjhg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
 </p>
 
+
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=troglodytto&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=14"></img>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=troglodytto&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=15"></img>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=troglodytto&show_icons=true&locale=en&layout=compact&hide=cmake,html&theme=vue&border_color=41b883&border_radius=15"></img>
 </p>
 
