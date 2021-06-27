@@ -43,6 +43,8 @@
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
 </p>
 
 
@@ -54,12 +56,15 @@
 ## Connect
 <p align="center">
   <a href="https://twitter.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" width="48" />
+    <img src="https://cutt.ly/mnfmrxh" alt="troglodytto" height="48" />
   </a>
   <a href="https://instagram.com/troglodytto" target="blank">
-    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" width="48" />
+    <img src="https://cutt.ly/CnfmoSv" alt="troglodytto" height="48" />
   </a>
-  <a href="https://medium.com/@aether-devweb" target="blank">
-    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" width="48" />
+  <a href="https://medium.com/@troglodytto" target="blank">
+    <img src="https://cutt.ly/gnfmabL" alt="@aether-devweb" height="48" />
   </a>
+  <a href="https://dev.to/troglodytto">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" height="48" />
+  <a/>
 </p>
