@@ -67,4 +67,7 @@
   <a href="https://dev.to/troglodytto">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" height="48" />
   <a/>
+  <a href="https://gitlab.com/troglodytto">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="48" />
+  <a/>
 </p>
