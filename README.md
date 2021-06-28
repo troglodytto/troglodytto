@@ -25,14 +25,15 @@
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
     <img height="48" width="48" src="https://cutt.ly/phUXVJx" />
     <img height="48" width="48" src="https://cutt.ly/1hUX1az" />
-    <img height="48" width="48" src="https://cutt.ly/chUX9vG" />
     <img height="48" width="48" src="https://cutt.ly/BvOKUon" />
     <img height="48" width="48" src="https://cutt.ly/0vOK6Xf" />
     <img height="48" width="48" src="https://cutt.ly/DhUX4hd" />
     <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
-    <img height="48" width="48" src="https://cutt.ly/LhUCwLi" />
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" />    
 </p>
 
 
@@ -45,6 +46,7 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 </p>
 
 
