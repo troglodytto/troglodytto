@@ -42,6 +42,7 @@
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
     <img height="48" width="48" src="https://cutt.ly/ohUXkQ6" />
+    <img height="48" width="48" src="https://cutt.ly/jmyM6jn" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
