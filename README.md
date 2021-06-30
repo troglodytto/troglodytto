@@ -51,7 +51,7 @@
     <img height="48" width="48" src="/Phoenix.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-    <img height="48" width="48" src="https://raw.githubusercontent.com/hasura/graphql-engine/master/assets/brand/hasura_icon_black.svg" />
+    <img height="48" width="48" src="https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 </p>
 
