@@ -31,6 +31,12 @@
     <img height="48" width="48" src="https://cutt.ly/xhUCyFt" />
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
+    <img height="48" width="48" src="/Docker.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" />    
 </p>
 
