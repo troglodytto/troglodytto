@@ -9,14 +9,14 @@
     <!-- BLOG-POST-LIST:START -->
     - [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
     - [INFEKT - Orgalorg](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
-    - [Topi - Back From The Future](https://www.youtube.com/watch?v=saH7hwrQIPM)
+    - [Wubbaduck - Lies](https://youtu.be/nirjV5Fe8L0)
     - [Disciple - How We Roll Megacollab](https://www.youtube.com/watch?v=8wsc673F6h0)
     - [Disciple - We Don't Play Megacollab](https://www.youtube.com/watch?v=tXxFPYZWpA4)
     - [Space Laces - Phone Tap (Virtual Riot Remix)](https://www.youtube.com/watch?v=eePSKlHTqhM)
-    - [Max Brhon - The Future](https://www.youtube.com/watch?v=dRe_rS19E04)
+    - [Wubbaduck - Dead Signal](https://youtu.be/AYlXMDJGI5Y)
     - [Virtual Riot & INFEKT -  Das Riddim](https://www.youtube.com/watch?v=qIMrsPIgeZg)
-    - [Subdocta - Rail Spot](https://www.youtube.com/watch?v=NCRx7ZQjos8)
-    - [REZZ - Insomnia](https://www.youtube.com/watch?v=uZiBQbqdRVY)
+    - [Subdocta - Rail Spot](https://youtu.be/W0Y0sCRnq1g)
+    - [Wubbaduck - Robot Dance](https://www.youtube.com/watch?v=uZiBQbqdRVY)
     <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
