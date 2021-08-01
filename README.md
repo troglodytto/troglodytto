@@ -3,9 +3,13 @@
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### 🏫 I'm a Computer Science student.
-- ### ⚡ Software Engineer at [Rivi](https://rivi.co/)
-- ### 🦄 Working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
-- ### 🎵 Some music that I like
+- ### ⚡ I work as a Software Engineer at [Rivi](https://rivi.co/)
+- ### 🤔 I'm interested in
+    - &nbsp;**λ**&nbsp; Computer Science
+    - &nbsp;**∮**&nbsp; Math
+    - 🧠 Biology
+- ### 🦄 I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)
+- ### 🎵 Here's some music that I like
     <!-- BLOG-POST-LIST:START -->
     - [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
     - [INFEKT - Orgalorg](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
