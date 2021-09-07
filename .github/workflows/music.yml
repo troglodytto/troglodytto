@@ -1,11 +1,10 @@
-
-name: Latest blog post workflow
+name: Latest Music
 on: 
     schedule:
         - cron: '0 0 * * *'
 jobs: 
     update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+        name: Update this repo's README with Updated YT Playlist
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
