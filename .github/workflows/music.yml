@@ -1,7 +1,7 @@
 name: Latest Music
 on: 
     schedule:
-        - cron: '0 0 * * *'
+        - cron: '6 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with Updated YT Playlist
