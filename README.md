@@ -11,17 +11,22 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some music that I like**
     <!-- BLOG-POST-LIST:START -->
-    - [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
-    - [INFEKT - Orgalorg](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
-    - [Wubbaduck - Lies](https://youtu.be/nirjV5Fe8L0)
-    - [Disciple - How We Roll Megacollab](https://www.youtube.com/watch?v=8wsc673F6h0)
-    - [Disciple - We Don't Play Megacollab](https://www.youtube.com/watch?v=tXxFPYZWpA4)
-    - [Space Laces - Phone Tap (Virtual Riot Remix)](https://www.youtube.com/watch?v=eePSKlHTqhM)
-    - [Wubbaduck - Dead Signal](https://youtu.be/AYlXMDJGI5Y)
-    - [Virtual Riot & INFEKT -  Das Riddim](https://www.youtube.com/watch?v=qIMrsPIgeZg)
-    - [Subdocta - Rail Spot](https://youtu.be/W0Y0sCRnq1g)
-    - [Wubbaduck - Robot Dance](https://www.youtube.com/watch?v=uZiBQbqdRVY)
-    <!-- BLOG-POST-LIST:END -->
+- [D-Jahsta & Code: Pandorum - Blasphemy](https://www.youtube.com/watch?v=TngnJcka3T8)
+- [PhaseOne - Kung Fu (feat. Virtual Riot)](https://www.youtube.com/watch?v=bsFpJGSeCxU)
+- [Herobust - Vertebreaker](https://www.youtube.com/watch?v=x2Ja0OU4fJk)
+- [Slander & YOOKiE - After All (feat. Jinzo) (PhaseOne Edit)](https://www.youtube.com/watch?v=YC80o6TlPWk)
+- [Herobust - Dirty Work (MONXX Remix)](https://www.youtube.com/watch?v=dMKICU4zP9U)
+- [Slander & YOOKiE - After All (ft. Jinzo) (Habstrakt Remix)](https://www.youtube.com/watch?v=La4LhsXZkts)
+- [CHIBS - SHARINGAN](https://www.youtube.com/watch?v=CIrRhU5kwGc)
+- [BadKlaat - Fright Night](https://www.youtube.com/watch?v=e-5E0Kgu9iI)
+- [Trampa & BadKlaat - Just Like Me](https://www.youtube.com/watch?v=4LDvLdvNmzk)
+- [Herobust - Dirty Work](https://www.youtube.com/watch?v=gs9DPxTg4lU)
+- [INFEKT x JAM P R D - Laboratory](https://www.youtube.com/watch?v=Q6cd6-TX-cc)
+- [Wubbaduck & MONXX - Sleepless Nights](https://www.youtube.com/watch?v=5iuKGMTHqyE)
+- [[Drumstep] - Pegboard Nerds - Try This [Monstercat Release]](https://www.youtube.com/watch?v=ggqI-HH8yXc)
+- [Eclypz](https://www.youtube.com/watch?v=fbkp-la7mO4)
+- [BadKlaat - Head Crush](https://www.youtube.com/watch?v=JTdbnIvw8hk)
+<!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
 
