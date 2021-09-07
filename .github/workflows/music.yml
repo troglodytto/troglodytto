@@ -2,6 +2,7 @@ name: Latest Music
 on: 
     schedule:
         - cron: '6 * * * *'
+    workflow_dispatch:
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with Updated YT Playlist
