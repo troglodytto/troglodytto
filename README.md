@@ -12,6 +12,9 @@
 - ### 🎵 **Here's some music that I like**
     <!-- BLOG-POST-LIST:START -->
 - [D-Jahsta & Code: Pandorum - Blasphemy](https://www.youtube.com/watch?v=TngnJcka3T8)
+- [Herobust - Move Mint (VIP)](https://www.youtube.com/watch?v=ohEBGH4RRLk)
+- [GANK - Resurrection](https://www.youtube.com/watch?v=b_IBZ34xlis)
+- [Hydrize - Kernel Panic [DUBSTEP]](https://www.youtube.com/watch?v=U9tbfNBl7v0)
 - [PhaseOne - Kung Fu (feat. Virtual Riot)](https://www.youtube.com/watch?v=bsFpJGSeCxU)
 - [Herobust - Vertebreaker](https://www.youtube.com/watch?v=x2Ja0OU4fJk)
 - [Slander & YOOKiE - After All (feat. Jinzo) (PhaseOne Edit)](https://www.youtube.com/watch?v=YC80o6TlPWk)
@@ -19,12 +22,9 @@
 - [Slander & YOOKiE - After All (ft. Jinzo) (Habstrakt Remix)](https://www.youtube.com/watch?v=La4LhsXZkts)
 - [CHIBS - SHARINGAN](https://www.youtube.com/watch?v=CIrRhU5kwGc)
 - [BadKlaat - Fright Night](https://www.youtube.com/watch?v=e-5E0Kgu9iI)
-- [Trampa & BadKlaat - Just Like Me](https://www.youtube.com/watch?v=4LDvLdvNmzk)
 - [Herobust - Dirty Work](https://www.youtube.com/watch?v=gs9DPxTg4lU)
-- [INFEKT x JAM P R D - Laboratory](https://www.youtube.com/watch?v=Q6cd6-TX-cc)
 - [Wubbaduck & MONXX - Sleepless Nights](https://www.youtube.com/watch?v=5iuKGMTHqyE)
 - [[Drumstep] - Pegboard Nerds - Try This [Monstercat Release]](https://www.youtube.com/watch?v=ggqI-HH8yXc)
-- [Eclypz](https://www.youtube.com/watch?v=fbkp-la7mO4)
 - [BadKlaat - Head Crush](https://www.youtube.com/watch?v=JTdbnIvw8hk)
 <!-- BLOG-POST-LIST:END -->
 
