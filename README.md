@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some music that I like**
     <!-- BLOG-POST-LIST:START -->
-- [D-Jahsta & Code: Pandorum - Blasphemy](https://www.youtube.com/watch?v=TngnJcka3T8)
-- [Herobust - Move Mint (VIP)](https://www.youtube.com/watch?v=ohEBGH4RRLk)
-- [GANK - Resurrection](https://www.youtube.com/watch?v=b_IBZ34xlis)
-- [Hydrize - Kernel Panic [DUBSTEP]](https://www.youtube.com/watch?v=U9tbfNBl7v0)
-- [PhaseOne - Kung Fu (feat. Virtual Riot)](https://www.youtube.com/watch?v=bsFpJGSeCxU)
-- [Herobust - Vertebreaker](https://www.youtube.com/watch?v=x2Ja0OU4fJk)
-- [Slander & YOOKiE - After All (feat. Jinzo) (PhaseOne Edit)](https://www.youtube.com/watch?v=YC80o6TlPWk)
-- [Herobust - Dirty Work (MONXX Remix)](https://www.youtube.com/watch?v=dMKICU4zP9U)
-- [Slander & YOOKiE - After All (ft. Jinzo) (Habstrakt Remix)](https://www.youtube.com/watch?v=La4LhsXZkts)
-- [CHIBS - SHARINGAN](https://www.youtube.com/watch?v=CIrRhU5kwGc)
-- [BadKlaat - Fright Night](https://www.youtube.com/watch?v=e-5E0Kgu9iI)
-- [Herobust - Dirty Work](https://www.youtube.com/watch?v=gs9DPxTg4lU)
-- [Wubbaduck & MONXX - Sleepless Nights](https://www.youtube.com/watch?v=5iuKGMTHqyE)
-- [[Drumstep] - Pegboard Nerds - Try This [Monstercat Release]](https://www.youtube.com/watch?v=ggqI-HH8yXc)
-- [BadKlaat - Head Crush](https://www.youtube.com/watch?v=JTdbnIvw8hk)
+- [Kompany & Vastive - Composer](https://www.youtube.com/watch?v=CmvM-qcNpn8)
+- [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
+- [MONXX - ON YOU (Syzy Remix)](https://www.youtube.com/watch?v=R3vAQTTR74U)
+- [BadKlaat - WYLD](https://www.youtube.com/watch?v=2tA99u5nv8s)
+- [Trinergy - Miss Ya](https://www.youtube.com/watch?v=suIt06pcLRc)
+- [Kompany & Jiqui - CUT THROAT](https://www.youtube.com/watch?v=FFiFBMQhDPM)
+- [IVORY x Bizo x The Arcturians - Beast [Lyric Video]](https://www.youtube.com/watch?v=ZOvYKlbjrzg)
+- [Marshmello & PEEKABOO - Pushin Stacks](https://www.youtube.com/watch?v=YO9CY1YUYkY)
+- [Skrillex, Noisia, josh pan & Dylan Brady - Supersonic (My Existence) [Official Audio]](https://www.youtube.com/watch?v=U41bONK2V-U)
+- [ATMOSPHERE](https://www.youtube.com/watch?v=KKOPcpCAQX8)
+- [Marshmello & Subtronics - House Party](https://www.youtube.com/watch?v=v5Bwv59Z0Bk)
+- [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
+- [Versa - Uninstaller](https://www.youtube.com/watch?v=oc0Qf319FBk)
+- [INFEKT - Orgalorg 2021](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
+- [Topi - Back From The Future](https://www.youtube.com/watch?v=saH7hwrQIPM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
