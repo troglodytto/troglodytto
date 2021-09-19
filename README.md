@@ -14,7 +14,6 @@
 - [Kompany & Vastive - Composer](https://www.youtube.com/watch?v=CmvM-qcNpn8)
 - [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
 - [MONXX - ON YOU (Syzy Remix)](https://www.youtube.com/watch?v=R3vAQTTR74U)
-- [BadKlaat - WYLD](https://www.youtube.com/watch?v=2tA99u5nv8s)
 - [KROWW - GOD IS DEAD](https://www.youtube.com/watch?v=7gHnkeKh-Fg)
 - [SYN - RIOT (ft. KOU)](https://www.youtube.com/watch?v=rSRR1ONMU60)
 - [Serhat Durmus - Hislerim ( Bass Boosted )](https://www.youtube.com/watch?v=JkuUUMJWe_s)
@@ -25,6 +24,7 @@
 - [Slipknot - Psychosocial (SYN Remix)](https://www.youtube.com/watch?v=n3cu2kgkNTU)
 - [Astomi - Genesis](https://www.youtube.com/watch?v=FJE8jwGWNjI)
 - [D-Jahsta & Code: Pandorum - Blasphemy](https://www.youtube.com/watch?v=TngnJcka3T8)
+- [Astomi - Forsaken VIP [DUBSTEP]](https://www.youtube.com/watch?v=lyhQ5QVuBbI)
 - [Diskirz - Battle Of Gods](https://www.youtube.com/watch?v=taJWCXQRye0)
 <!-- BLOG-POST-LIST:END -->
 
