@@ -9,7 +9,7 @@
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
-- ### 🎵 **Here's some music that I like**
+- ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Kompany & Vastive - Composer](https://www.youtube.com/watch?v=CmvM-qcNpn8)
 - [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
