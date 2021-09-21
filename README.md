@@ -11,20 +11,20 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Kompany & Vastive - Composer](https://www.youtube.com/watch?v=CmvM-qcNpn8)
-- [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
-- [MONXX - ON YOU (Syzy Remix)](https://www.youtube.com/watch?v=R3vAQTTR74U)
+- [Aweminus & UBUR & YAKZ - Party Starter](https://www.youtube.com/watch?v=veyfo7ASZOI)
 - [KROWW - GOD IS DEAD](https://www.youtube.com/watch?v=7gHnkeKh-Fg)
 - [SYN - RIOT (ft. KOU)](https://www.youtube.com/watch?v=rSRR1ONMU60)
 - [Serhat Durmus - Hislerim ( Bass Boosted )](https://www.youtube.com/watch?v=JkuUUMJWe_s)
+- [Omar Varela - Wrong](https://www.youtube.com/watch?v=gu0OLf4Sdx0)
 - [KROWW - HYSTERIA](https://www.youtube.com/watch?v=FjKdAPiMY5w)
 - [KROWW - Disasterpiece](https://www.youtube.com/watch?v=byXWEzI7QWE)
 - [KROWW - Biomechanik](https://www.youtube.com/watch?v=J8xiaONjheQ)
 - [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
 - [Slipknot - Psychosocial (SYN Remix)](https://www.youtube.com/watch?v=n3cu2kgkNTU)
 - [Astomi - Genesis](https://www.youtube.com/watch?v=FJE8jwGWNjI)
-- [D-Jahsta & Code: Pandorum - Blasphemy](https://www.youtube.com/watch?v=TngnJcka3T8)
+- [JuJu - Ju Gold (Aweminus Remix)](https://www.youtube.com/watch?v=-B33kEVfKMI)
 - [Astomi - Forsaken VIP [DUBSTEP]](https://www.youtube.com/watch?v=lyhQ5QVuBbI)
+- [Ganon x Ivory - Drunk Zelda (Ivory 'Drunkzuo' Flip)](https://www.youtube.com/watch?v=0iRYFV0OEFA)
 - [Diskirz - Battle Of Gods](https://www.youtube.com/watch?v=taJWCXQRye0)
 <!-- BLOG-POST-LIST:END -->
 
