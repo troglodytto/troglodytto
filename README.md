@@ -11,16 +11,16 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Oddprophet - British Gas (feat. Illaman)](https://www.youtube.com/watch?v=I9mzy0oOL1g)
 - [Aweminus & UBUR & YAKZ - Party Starter](https://www.youtube.com/watch?v=veyfo7ASZOI)
+- [Kill Feed - Forsaken](https://www.youtube.com/watch?v=DlefXCmFasY)
+- [PEEKABOO - Black Hole](https://www.youtube.com/watch?v=C8A9MIV4pAs)
+- [voljum - components](https://www.youtube.com/watch?v=xkDMozwRgzY)
+- [IVORY & Nitti Gritti - The Fall](https://www.youtube.com/watch?v=jAOH1V_3igU)
+- [INFEKT - NFK-137](https://www.youtube.com/watch?v=1OJfcdcf4Cw)
 - [KROWW - GOD IS DEAD](https://www.youtube.com/watch?v=7gHnkeKh-Fg)
-- [SYN - RIOT (ft. KOU)](https://www.youtube.com/watch?v=rSRR1ONMU60)
 - [Omar Varela - Wrong](https://www.youtube.com/watch?v=gu0OLf4Sdx0)
-- [KROWW - HYSTERIA](https://www.youtube.com/watch?v=FjKdAPiMY5w)
-- [KROWW - Disasterpiece](https://www.youtube.com/watch?v=byXWEzI7QWE)
 - [KROWW - Oh My Gore](https://www.youtube.com/watch?v=oywe6X7L7Hc)
-- [KROWW - Biomechanik](https://www.youtube.com/watch?v=J8xiaONjheQ)
-- [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
-- [Slipknot - Psychosocial (SYN Remix)](https://www.youtube.com/watch?v=n3cu2kgkNTU)
 - [Astomi - Genesis](https://www.youtube.com/watch?v=FJE8jwGWNjI)
 - [JuJu - Ju Gold (Aweminus Remix)](https://www.youtube.com/watch?v=-B33kEVfKMI)
 - [Astomi - Forsaken VIP [DUBSTEP]](https://www.youtube.com/watch?v=lyhQ5QVuBbI)
