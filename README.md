@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Oddprophet - Absolute Power](https://www.youtube.com/watch?v=9B3FLMD51RI)
 - [Oddprophet - British Gas (feat. Illaman)](https://www.youtube.com/watch?v=I9mzy0oOL1g)
-- [Aweminus & UBUR & YAKZ - Party Starter](https://www.youtube.com/watch?v=veyfo7ASZOI)
 - [Kill Feed - Forsaken](https://www.youtube.com/watch?v=DlefXCmFasY)
 - [PEEKABOO - Black Hole](https://www.youtube.com/watch?v=C8A9MIV4pAs)
 - [voljum - components](https://www.youtube.com/watch?v=xkDMozwRgzY)
 - [IVORY & Nitti Gritti - The Fall](https://www.youtube.com/watch?v=jAOH1V_3igU)
 - [INFEKT - NFK-137](https://www.youtube.com/watch?v=1OJfcdcf4Cw)
-- [KROWW - GOD IS DEAD](https://www.youtube.com/watch?v=7gHnkeKh-Fg)
 - [Omar Varela - Wrong](https://www.youtube.com/watch?v=gu0OLf4Sdx0)
+- [Graphyt - Outer Space](https://www.youtube.com/watch?v=64vrWdlZR44)
+- [Kayzo & Subtronics - Braincase](https://www.youtube.com/watch?v=hFoaeSs3XTs)
 - [KROWW - Oh My Gore](https://www.youtube.com/watch?v=oywe6X7L7Hc)
-- [Astomi - Genesis](https://www.youtube.com/watch?v=FJE8jwGWNjI)
+- [SVDDEN DEATH - Behemoth](https://www.youtube.com/watch?v=mJBhjNR7WBc)
+- [MONXX - XO RIDDIM Llif3](https://www.youtube.com/watch?v=cVeAum1Amf4)
 - [JuJu - Ju Gold (Aweminus Remix)](https://www.youtube.com/watch?v=-B33kEVfKMI)
-- [Astomi - Forsaken VIP [DUBSTEP]](https://www.youtube.com/watch?v=lyhQ5QVuBbI)
 - [Ganon x Ivory - Drunk Zelda (Ivory 'Drunkzuo' Flip)](https://www.youtube.com/watch?v=0iRYFV0OEFA)
-- [Diskirz - Battle Of Gods](https://www.youtube.com/watch?v=taJWCXQRye0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
