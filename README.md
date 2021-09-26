@@ -18,13 +18,13 @@
 - [voljum - components](https://www.youtube.com/watch?v=xkDMozwRgzY)
 - [IVORY & Nitti Gritti - The Fall](https://www.youtube.com/watch?v=jAOH1V_3igU)
 - [INFEKT - NFK-137](https://www.youtube.com/watch?v=1OJfcdcf4Cw)
+- [phonon - polyriddim](https://www.youtube.com/watch?v=MF_ANz_hTzE)
 - [Omar Varela - Wrong](https://www.youtube.com/watch?v=gu0OLf4Sdx0)
 - [Graphyt - Outer Space](https://www.youtube.com/watch?v=64vrWdlZR44)
 - [Kayzo & Subtronics - Braincase](https://www.youtube.com/watch?v=hFoaeSs3XTs)
 - [KROWW - Oh My Gore](https://www.youtube.com/watch?v=oywe6X7L7Hc)
 - [SVDDEN DEATH - Behemoth](https://www.youtube.com/watch?v=mJBhjNR7WBc)
 - [MONXX - XO RIDDIM Llif3](https://www.youtube.com/watch?v=cVeAum1Amf4)
-- [JuJu - Ju Gold (Aweminus Remix)](https://www.youtube.com/watch?v=-B33kEVfKMI)
 - [Ganon x Ivory - Drunk Zelda (Ivory 'Drunkzuo' Flip)](https://www.youtube.com/watch?v=0iRYFV0OEFA)
 <!-- BLOG-POST-LIST:END -->
 
