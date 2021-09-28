@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Oddprophet - Absolute Power](https://www.youtube.com/watch?v=9B3FLMD51RI)
-- [Oddprophet - British Gas (feat. Illaman)](https://www.youtube.com/watch?v=I9mzy0oOL1g)
-- [Kill Feed - Forsaken](https://www.youtube.com/watch?v=DlefXCmFasY)
-- [PEEKABOO - Black Hole](https://www.youtube.com/watch?v=C8A9MIV4pAs)
-- [voljum - components](https://www.youtube.com/watch?v=xkDMozwRgzY)
-- [IVORY & Nitti Gritti - The Fall](https://www.youtube.com/watch?v=jAOH1V_3igU)
-- [INFEKT - NFK-137](https://www.youtube.com/watch?v=1OJfcdcf4Cw)
+- [PEEKABOO - Here With Me](https://www.youtube.com/watch?v=SN3cym3r1Xs)
 - [phonon - polyriddim](https://www.youtube.com/watch?v=MF_ANz_hTzE)
-- [Omar Varela - Wrong](https://www.youtube.com/watch?v=gu0OLf4Sdx0)
 - [Graphyt - Outer Space](https://www.youtube.com/watch?v=64vrWdlZR44)
+- [PEEKABOO - Nut Case](https://www.youtube.com/watch?v=OTR6gOZTIzI)
 - [Kayzo & Subtronics - Braincase](https://www.youtube.com/watch?v=hFoaeSs3XTs)
-- [KROWW - Oh My Gore](https://www.youtube.com/watch?v=oywe6X7L7Hc)
+- [PEEKABOO - Hypnotendiez](https://www.youtube.com/watch?v=ujqSKRVmiZI)
+- [PEEKABOO - Whistleblower](https://www.youtube.com/watch?v=hx7cRrLQj5I)
+- [PEEKABOO & G-REX - Babatunde](https://www.youtube.com/watch?v=zn7Z1RoGQZk)
 - [SVDDEN DEATH - Behemoth](https://www.youtube.com/watch?v=mJBhjNR7WBc)
+- [PEEKABOO - Work of the Devil](https://www.youtube.com/watch?v=LuYrxhZLGqI)
+- [PEEKABOO - Maniac](https://www.youtube.com/watch?v=qnD7YesuaoA)
+- [Peekaboo - B.T.F.U.](https://www.youtube.com/watch?v=hsAb1B5BAec)
+- [PEEKABOO - Aliens](https://www.youtube.com/watch?v=lM7mjQUc_Qw)
+- [PEEKABOO - Invasion](https://www.youtube.com/watch?v=fccCCeHC1e4)
 - [MONXX - XO RIDDIM Llif3](https://www.youtube.com/watch?v=cVeAum1Amf4)
-- [Ganon x Ivory - Drunk Zelda (Ivory 'Drunkzuo' Flip)](https://www.youtube.com/watch?v=0iRYFV0OEFA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
