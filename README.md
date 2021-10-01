@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [PEEKABOO - Here With Me](https://www.youtube.com/watch?v=SN3cym3r1Xs)
-- [phonon - polyriddim](https://www.youtube.com/watch?v=MF_ANz_hTzE)
-- [PEEKABOO - Nut Case](https://www.youtube.com/watch?v=OTR6gOZTIzI)
-- [PEEKABOO - Hypnotendiez](https://www.youtube.com/watch?v=ujqSKRVmiZI)
-- [PEEKABOO - Whistleblower](https://www.youtube.com/watch?v=hx7cRrLQj5I)
-- [PEEKABOO & G-REX - Babatunde](https://www.youtube.com/watch?v=zn7Z1RoGQZk)
-- [SVDDEN DEATH - Behemoth](https://www.youtube.com/watch?v=mJBhjNR7WBc)
-- [PEEKABOO - Work of the Devil](https://www.youtube.com/watch?v=LuYrxhZLGqI)
-- [PEEKABOO - Maniac](https://www.youtube.com/watch?v=qnD7YesuaoA)
-- [Peekaboo - B.T.F.U.](https://www.youtube.com/watch?v=hsAb1B5BAec)
-- [PEEKABOO - Aliens](https://www.youtube.com/watch?v=lM7mjQUc_Qw)
-- [PEEKABOO - Invasion](https://www.youtube.com/watch?v=fccCCeHC1e4)
-- [ATLiens - Witch Doctor (G-REX & PEEKABOO Remix)](https://www.youtube.com/watch?v=c98NhKz52kY)
-- [Virtual Riot - Purple Dragons (Dragons VIP)](https://www.youtube.com/watch?v=JZCo7ZWqFmE)
-- [MONXX - XO RIDDIM Llif3](https://www.youtube.com/watch?v=cVeAum1Amf4)
+- [MUST DIE! - DELETE IT ALL (feat. Ducky) (Oolacile & Aweminus Remix)](https://www.youtube.com/watch?v=qeTPLCUCY8o)
+- [RIOT - Juggernaut](https://www.youtube.com/watch?v=y0C9FtT_3No)
+- [MUST DIE! - FUCK UR STYLE (Syzy Remix)](https://www.youtube.com/watch?v=vFukYklg7pE)
+- [SLANDER & Subtronics - Gravity (feat. JT Roach)](https://www.youtube.com/watch?v=UA76BQ92NcM)
+- [Sullivan King & Subtronics - Take Flight](https://www.youtube.com/watch?v=k1_OgMGIOt0)
+- [REAPER - IMY (feat. Bella Renee)](https://www.youtube.com/watch?v=DYSjtz7FKbU)
+- [Barely Alive & Control Freak - Tick Tock](https://www.youtube.com/watch?v=GfnNpJZRR6Y)
+- [VOLT & Slushii - Rattle Your Bones](https://www.youtube.com/watch?v=wMdRClWrPFE)
+- [Kill Feed - Without You](https://www.youtube.com/watch?v=HZ-UAWwIk4w)
+- [HOL! & HE$H - Cybernetic Organism](https://www.youtube.com/watch?v=sXRLijBwUdI)
+- [INFEKT - MORPH (VIP)](https://www.youtube.com/watch?v=kwlNZVTR5LU)
+- [Champagne Drip & G Rex - Cold Case](https://www.youtube.com/watch?v=W7jwYjfd-sY)
+- [GRiZ - Astro Funk](https://www.youtube.com/watch?v=LS38l6MBwCQ)
+- [Subtronics - Tractor Beam (Official Visual)](https://www.youtube.com/watch?v=3pdaI0v_JUM)
+- [Buku - I Don't Think So](https://www.youtube.com/watch?v=oTuxYE_FE4E)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
