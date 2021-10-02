@@ -11,7 +11,7 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [MUST DIE! - DELETE IT ALL (feat. Ducky) (Oolacile & Aweminus Remix)](https://www.youtube.com/watch?v=qeTPLCUCY8o)
+- [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
 - [RIOT - Juggernaut](https://www.youtube.com/watch?v=y0C9FtT_3No)
 - [MUST DIE! - FUCK UR STYLE (Syzy Remix)](https://www.youtube.com/watch?v=vFukYklg7pE)
 - [SLANDER & Subtronics - Gravity (feat. JT Roach)](https://www.youtube.com/watch?v=UA76BQ92NcM)
