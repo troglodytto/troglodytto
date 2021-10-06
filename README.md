@@ -12,20 +12,20 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
-- [RIOT - Juggernaut](https://www.youtube.com/watch?v=y0C9FtT_3No)
-- [MUST DIE! - FUCK UR STYLE (Syzy Remix)](https://www.youtube.com/watch?v=vFukYklg7pE)
-- [SLANDER & Subtronics - Gravity (feat. JT Roach)](https://www.youtube.com/watch?v=UA76BQ92NcM)
-- [Sullivan King & Subtronics - Take Flight](https://www.youtube.com/watch?v=k1_OgMGIOt0)
-- [REAPER - IMY (feat. Bella Renee)](https://www.youtube.com/watch?v=DYSjtz7FKbU)
-- [Barely Alive & Control Freak - Tick Tock](https://www.youtube.com/watch?v=GfnNpJZRR6Y)
-- [VOLT & Slushii - Rattle Your Bones](https://www.youtube.com/watch?v=wMdRClWrPFE)
-- [Kill Feed - Without You](https://www.youtube.com/watch?v=HZ-UAWwIk4w)
 - [HOL! & HE$H - Cybernetic Organism](https://www.youtube.com/watch?v=sXRLijBwUdI)
 - [INFEKT - MORPH (VIP)](https://www.youtube.com/watch?v=kwlNZVTR5LU)
 - [Champagne Drip & G Rex - Cold Case](https://www.youtube.com/watch?v=W7jwYjfd-sY)
 - [GRiZ - Astro Funk](https://www.youtube.com/watch?v=LS38l6MBwCQ)
 - [Subtronics - Tractor Beam (Official Visual)](https://www.youtube.com/watch?v=3pdaI0v_JUM)
 - [Buku - I Don't Think So](https://www.youtube.com/watch?v=oTuxYE_FE4E)
+- [Eliminate - Weeble Wobble VIP [FREE DOWNLOAD]](https://www.youtube.com/watch?v=hSduBrvs_8U)
+- [Bandlez - Space Bubblez](https://www.youtube.com/watch?v=Qrcb1kBGb-g)
+- [Bandlez - Together Again](https://www.youtube.com/watch?v=UPrk8Awv6P8)
+- [PhaseOne - Break Em](https://www.youtube.com/watch?v=GOEN50f-VCE)
+- [Eliminate - Cyber Whale](https://www.youtube.com/watch?v=7nvOLR1QLnk)
+- [Excision & Space Laces - Throwin Elbows (TYNAN Flip)](https://www.youtube.com/watch?v=N38X3dK_2OA)
+- [PhaseOne - Welcome To Mayhem ft. In Hearts Wake (VIP)](https://www.youtube.com/watch?v=f2QUuIfgh2c)
+- [Wooli & Kompany - Briddim Bomb](https://www.youtube.com/watch?v=ro3wB7Uzypg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
