@@ -12,7 +12,7 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
-- [INFEKT - MORPH (VIP)](https://www.youtube.com/watch?v=kwlNZVTR5LU)
+- [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
 - [Champagne Drip & G Rex - Cold Case](https://www.youtube.com/watch?v=W7jwYjfd-sY)
 - [GRiZ - Astro Funk](https://www.youtube.com/watch?v=LS38l6MBwCQ)
 - [Subtronics - Tractor Beam (Official Visual)](https://www.youtube.com/watch?v=3pdaI0v_JUM)
