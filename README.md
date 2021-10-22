@@ -11,9 +11,9 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Jaenga - Refraction](https://www.youtube.com/watch?v=0W3gH8mBgI4)
 - [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
 - [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
-- [Champagne Drip & G Rex - Cold Case](https://www.youtube.com/watch?v=W7jwYjfd-sY)
 - [GRiZ - Astro Funk](https://www.youtube.com/watch?v=LS38l6MBwCQ)
 - [Subtronics - Tractor Beam (Official Visual)](https://www.youtube.com/watch?v=3pdaI0v_JUM)
 - [Buku - I Don't Think So](https://www.youtube.com/watch?v=oTuxYE_FE4E)
