@@ -14,7 +14,6 @@
 - [Jaenga - Refraction](https://www.youtube.com/watch?v=0W3gH8mBgI4)
 - [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
 - [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
-- [Subtronics - Tractor Beam (Official Visual)](https://www.youtube.com/watch?v=3pdaI0v_JUM)
 - [Buku - I Don't Think So](https://www.youtube.com/watch?v=oTuxYE_FE4E)
 - [F.O.O.L - Criminals [Monstercat EP Release]](https://www.youtube.com/watch?v=ox4vE9LrIG4)
 - [Eliminate - Weeble Wobble VIP [FREE DOWNLOAD]](https://www.youtube.com/watch?v=hSduBrvs_8U)
@@ -24,6 +23,7 @@
 - [Eliminate - Cyber Whale](https://www.youtube.com/watch?v=7nvOLR1QLnk)
 - [Excision & Space Laces - Throwin Elbows (TYNAN Flip)](https://www.youtube.com/watch?v=N38X3dK_2OA)
 - [PhaseOne - Welcome To Mayhem ft. In Hearts Wake (VIP)](https://www.youtube.com/watch?v=f2QUuIfgh2c)
+- [Eliminate - Walls](https://www.youtube.com/watch?v=l1N2rWL99sk)
 - [Wooli & Kompany - Briddim Bomb](https://www.youtube.com/watch?v=ro3wB7Uzypg)
 - [NextRO - Asaya (Original Mix)](https://www.youtube.com/watch?v=McMK_-dKlBQ)
 <!-- BLOG-POST-LIST:END -->
