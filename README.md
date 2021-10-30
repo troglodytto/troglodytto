@@ -11,8 +11,8 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [MONXX - FCK IT UP](https://www.youtube.com/watch?v=YRYpj6dYDf8)
 - [Jaenga - Refraction](https://www.youtube.com/watch?v=0W3gH8mBgI4)
-- [Oliverse - Inside The Ride](https://www.youtube.com/watch?v=9CmBxPPaqTE)
 - [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
 - [F.O.O.L - Criminals [Monstercat EP Release]](https://www.youtube.com/watch?v=ox4vE9LrIG4)
 - [Eliminate - Weeble Wobble VIP [FREE DOWNLOAD]](https://www.youtube.com/watch?v=hSduBrvs_8U)
