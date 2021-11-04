@@ -23,8 +23,8 @@
 - [Eliminate - Cyber Whale](https://www.youtube.com/watch?v=7nvOLR1QLnk)
 - [PhaseOne - Welcome To Mayhem ft. In Hearts Wake (VIP)](https://www.youtube.com/watch?v=f2QUuIfgh2c)
 - [Eliminate - Walls](https://www.youtube.com/watch?v=l1N2rWL99sk)
-- [Wooli & Kompany - Briddim Bomb](https://www.youtube.com/watch?v=ro3wB7Uzypg)
 - [Krimer - Damage (feat. Mikey Ceaser)](https://www.youtube.com/watch?v=HMBp1MTnNlI)
+- [Gillionaire x JKD x Trashy - Qatar Drift (Retwerked version)](https://www.youtube.com/watch?v=c2P4fGvLxkc)
 - [NextRO - Asaya (Original Mix)](https://www.youtube.com/watch?v=McMK_-dKlBQ)
 <!-- BLOG-POST-LIST:END -->
 
