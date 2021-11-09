@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [DKKAY & STVG - Sacrilege](https://www.youtube.com/watch?v=rdaLJqrFqRY)
-- [Effin & Oddprophet - Take Away](https://www.youtube.com/watch?v=2YcIGHtaOQE)
+- [Evaluation &amp; Steller - FL Sound](https://www.youtube.com/watch?v=8qKvb8V5DJA)
+- [DKKAY &amp; STVG - Sacrilege](https://www.youtube.com/watch?v=rdaLJqrFqRY)
+- [Effin &amp; Oddprophet - Take Away](https://www.youtube.com/watch?v=2YcIGHtaOQE)
 - [MONXX - FCK IT UP](https://www.youtube.com/watch?v=YRYpj6dYDf8)
 - [Jaenga - Refraction](https://www.youtube.com/watch?v=0W3gH8mBgI4)
 - [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
 - [F.O.O.L - Criminals [Monstercat EP Release]](https://www.youtube.com/watch?v=ox4vE9LrIG4)
-- [Joyner Lucas ft. Logic - ISIS (ADHD)](https://www.youtube.com/watch?v=hTDb0ebFh8E)
-- [Bandlez - Space Bubblez](https://www.youtube.com/watch?v=Qrcb1kBGb-g)
+- [Joyner Lucas ft. Logic - ISIS &lpar;ADHD&rpar;](https://www.youtube.com/watch?v=hTDb0ebFh8E)
 - [Eliminate - Cyber Whale](https://www.youtube.com/watch?v=7nvOLR1QLnk)
 - [ECRAZE - Shotta](https://www.youtube.com/watch?v=asHyhJq3TOg)
-- [PhaseOne - Welcome To Mayhem ft. In Hearts Wake (VIP)](https://www.youtube.com/watch?v=f2QUuIfgh2c)
+- [PhaseOne - Welcome To Mayhem ft. In Hearts Wake &lpar;VIP&rpar;](https://www.youtube.com/watch?v=f2QUuIfgh2c)
 - [Eliminate - Walls](https://www.youtube.com/watch?v=l1N2rWL99sk)
-- [Krimer - Damage (feat. Mikey Ceaser)](https://www.youtube.com/watch?v=HMBp1MTnNlI)
-- [Gillionaire x JKD x Trashy - Qatar Drift (Retwerked version)](https://www.youtube.com/watch?v=c2P4fGvLxkc)
-- [NextRO - Asaya (Original Mix)](https://www.youtube.com/watch?v=McMK_-dKlBQ)
+- [Krimer - Damage &lpar;feat. Mikey Ceaser&rpar;](https://www.youtube.com/watch?v=HMBp1MTnNlI)
+- [Gillionaire x JKD x Trashy - Qatar Drift &lpar;Retwerked version&rpar;](https://www.youtube.com/watch?v=c2P4fGvLxkc)
+- [NextRO - Asaya &lpar;Original Mix&rpar;](https://www.youtube.com/watch?v=McMK_-dKlBQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
