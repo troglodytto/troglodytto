@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
 - [Flyysoulja - I&#39;m An Island Boy &lpar;Mport Remix&rpar;](https://www.youtube.com/watch?v=hccALFcVstw)
 - [Evaluation &amp; Steller - FL Sound](https://www.youtube.com/watch?v=8qKvb8V5DJA)
+- [The Living Proof - Control](https://www.youtube.com/watch?v=ugU6a4Hgnt4)
+- [The Living Proof - 2112](https://www.youtube.com/watch?v=4tUXuSrXd38)
 - [DKKAY &amp; STVG - Sacrilege](https://www.youtube.com/watch?v=rdaLJqrFqRY)
 - [Effin &amp; Oddprophet - Take Away](https://www.youtube.com/watch?v=2YcIGHtaOQE)
-- [MONXX - FCK IT UP](https://www.youtube.com/watch?v=YRYpj6dYDf8)
-- [Jaenga - Refraction](https://www.youtube.com/watch?v=0W3gH8mBgI4)
-- [Gillionaire - Snake Charmer](https://www.youtube.com/watch?v=_UCrIVnkpiU)
+- [The Living Proof - End of Days](https://www.youtube.com/watch?v=1K9fSt2g5Qg)
 - [Zeds Dead &amp; Subtronics - Bumpy Teeth](https://www.youtube.com/watch?v=HeNbENl1P7Q)
-- [Joyner Lucas ft. Logic - ISIS &lpar;ADHD&rpar;](https://www.youtube.com/watch?v=hTDb0ebFh8E)
+- [The Living Proof - Boujee](https://www.youtube.com/watch?v=vheaKPsn5P0)
 - [ECRAZE - Shotta](https://www.youtube.com/watch?v=asHyhJq3TOg)
-- [Eliminate - Walls](https://www.youtube.com/watch?v=l1N2rWL99sk)
+- [Bukez Finezt - Under Control &lpar;VIP&rpar;](https://www.youtube.com/watch?v=DS3yudzEXiE)
 - [Krimer - Damage &lpar;feat. Mikey Ceaser&rpar;](https://www.youtube.com/watch?v=HMBp1MTnNlI)
 - [Gillionaire x JKD x Trashy - Qatar Drift &lpar;Retwerked version&rpar;](https://www.youtube.com/watch?v=c2P4fGvLxkc)
 - [INFEKT - Glock Dance](https://www.youtube.com/watch?v=0LedKlUydqs)
-- [NextRO - Asaya &lpar;Original Mix&rpar;](https://www.youtube.com/watch?v=McMK_-dKlBQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
