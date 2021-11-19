@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
-- [MONXX - ON YOU &lpar;Syzy Remix&rpar;](https://www.youtube.com/watch?v=R3vAQTTR74U)
-- [BadKlaat - WYLD](https://www.youtube.com/watch?v=2tA99u5nv8s)
-- [Trinergy - Miss Ya](https://www.youtube.com/watch?v=suIt06pcLRc)
-- [Kompany &amp; Jiqui - CUT THROAT](https://www.youtube.com/watch?v=FFiFBMQhDPM)
-- [IVORY x Bizo x The Arcturians - Beast [Lyric Video]](https://www.youtube.com/watch?v=ZOvYKlbjrzg)
-- [Marshmello &amp; PEEKABOO - Pushin Stacks](https://www.youtube.com/watch?v=YO9CY1YUYkY)
-- [Skrillex, Noisia, josh pan &amp; Dylan Brady - Supersonic &lpar;My Existence&rpar; [Official Audio]](https://www.youtube.com/watch?v=U41bONK2V-U)
-- [ATMOSPHERE](https://www.youtube.com/watch?v=KKOPcpCAQX8)
-- [Marshmello &amp; Subtronics - House Party](https://www.youtube.com/watch?v=v5Bwv59Z0Bk)
-- [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
-- [Versa - Uninstaller](https://www.youtube.com/watch?v=oc0Qf319FBk)
-- [INFEKT - Orgalorg 2021](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
-- [Topi - Back From The Future](https://www.youtube.com/watch?v=saH7hwrQIPM)
-- [Oliverse - Play With Fire &lpar;Extended Mix&rpar;](https://www.youtube.com/watch?v=gLmMsI-B--c)
+- [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
+- [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
+- [Flyysoulja - I&#39;m An Island Boy &lpar;Mport Remix&rpar;](https://www.youtube.com/watch?v=hccALFcVstw)
+- [Evaluation &amp; Steller - FL Sound](https://www.youtube.com/watch?v=8qKvb8V5DJA)
+- [The Living Proof - Control](https://www.youtube.com/watch?v=ugU6a4Hgnt4)
+- [The Living Proof - 2112](https://www.youtube.com/watch?v=4tUXuSrXd38)
+- [DKKAY &amp; STVG - Sacrilege](https://www.youtube.com/watch?v=rdaLJqrFqRY)
+- [Effin &amp; Oddprophet - Take Away](https://www.youtube.com/watch?v=2YcIGHtaOQE)
+- [The Living Proof - End of Days](https://www.youtube.com/watch?v=1K9fSt2g5Qg)
+- [Zeds Dead &amp; Subtronics - Bumpy Teeth](https://www.youtube.com/watch?v=HeNbENl1P7Q)
+- [The Living Proof - Boujee](https://www.youtube.com/watch?v=vheaKPsn5P0)
+- [ECRAZE - Shotta](https://www.youtube.com/watch?v=asHyhJq3TOg)
+- [Bukez Finezt - Under Control &lpar;VIP&rpar;](https://www.youtube.com/watch?v=DS3yudzEXiE)
+- [Gillionaire x JKD x Trashy - Qatar Drift &lpar;Retwerked version&rpar;](https://www.youtube.com/watch?v=c2P4fGvLxkc)
+- [INFEKT - Glock Dance](https://www.youtube.com/watch?v=0LedKlUydqs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
