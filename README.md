@@ -11,20 +11,20 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [GRiZ &amp; Subtronics - Griztronics II &lpar;Another Level&rpar;](https://www.youtube.com/watch?v=ggKg17gUmm0)
+- [Versa - Press Play To Die Instantly](https://www.youtube.com/watch?v=IGEDcOdUjw4)
 - [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
 - [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
 - [Flyysoulja - I&#39;m An Island Boy &lpar;Mport Remix&rpar;](https://www.youtube.com/watch?v=hccALFcVstw)
 - [Evaluation &amp; Steller - FL Sound](https://www.youtube.com/watch?v=8qKvb8V5DJA)
 - [The Living Proof - Control](https://www.youtube.com/watch?v=ugU6a4Hgnt4)
 - [The Living Proof - 2112](https://www.youtube.com/watch?v=4tUXuSrXd38)
-- [DKKAY &amp; STVG - Sacrilege](https://www.youtube.com/watch?v=rdaLJqrFqRY)
 - [Effin &amp; Oddprophet - Take Away](https://www.youtube.com/watch?v=2YcIGHtaOQE)
 - [The Living Proof - End of Days](https://www.youtube.com/watch?v=1K9fSt2g5Qg)
 - [Zeds Dead &amp; Subtronics - Bumpy Teeth](https://www.youtube.com/watch?v=HeNbENl1P7Q)
 - [The Living Proof - Boujee](https://www.youtube.com/watch?v=vheaKPsn5P0)
 - [ECRAZE - Shotta](https://www.youtube.com/watch?v=asHyhJq3TOg)
 - [Bukez Finezt - Under Control &lpar;VIP&rpar;](https://www.youtube.com/watch?v=DS3yudzEXiE)
-- [Gillionaire x JKD x Trashy - Qatar Drift &lpar;Retwerked version&rpar;](https://www.youtube.com/watch?v=c2P4fGvLxkc)
 - [INFEKT - Glock Dance](https://www.youtube.com/watch?v=0LedKlUydqs)
 <!-- BLOG-POST-LIST:END -->
 
