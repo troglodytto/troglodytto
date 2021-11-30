@@ -11,6 +11,7 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Killin&#39; Void - Happy Riddim](https://www.youtube.com/watch?v=z66w5b3zjHQ)
 - [Star Monster - GAME OVER](https://www.youtube.com/watch?v=MMs1hw_fvmQ)
 - [Oolacile &amp; Canna - Memory Cleanser](https://www.youtube.com/watch?v=ttp7FPQGTLY)
 - [GRiZ &amp; Subtronics - Griztronics II &lpar;Another Level&rpar;](https://www.youtube.com/watch?v=ggKg17gUmm0)
@@ -18,7 +19,6 @@
 - [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
 - [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
 - [Flyysoulja - I&#39;m An Island Boy &lpar;Mport Remix&rpar;](https://www.youtube.com/watch?v=hccALFcVstw)
-- [Evaluation &amp; Steller - FL Sound](https://www.youtube.com/watch?v=8qKvb8V5DJA)
 - [The Living Proof - Control](https://www.youtube.com/watch?v=ugU6a4Hgnt4)
 - [The Living Proof - 2112](https://www.youtube.com/watch?v=4tUXuSrXd38)
 - [The Living Proof - End of Days](https://www.youtube.com/watch?v=1K9fSt2g5Qg)
