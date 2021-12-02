@@ -11,6 +11,7 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Oolacile - Cognition &lpar;Grime Riddim&rpar;](https://www.youtube.com/watch?v=xfR5Fx9o3wE)
 - [Killin&#39; Void - Happy Riddim](https://www.youtube.com/watch?v=z66w5b3zjHQ)
 - [Star Monster - GAME OVER](https://www.youtube.com/watch?v=MMs1hw_fvmQ)
 - [Oolacile &amp; Canna - Memory Cleanser](https://www.youtube.com/watch?v=ttp7FPQGTLY)
@@ -25,7 +26,6 @@
 - [Zeds Dead &amp; Subtronics - Bumpy Teeth](https://www.youtube.com/watch?v=HeNbENl1P7Q)
 - [The Living Proof - Boujee](https://www.youtube.com/watch?v=vheaKPsn5P0)
 - [Bukez Finezt - Under Control &lpar;VIP&rpar;](https://www.youtube.com/watch?v=DS3yudzEXiE)
-- [INFEKT - Glock Dance](https://www.youtube.com/watch?v=0LedKlUydqs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
