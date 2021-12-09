@@ -16,16 +16,16 @@
 - [Killin&#39; Void - Happy Riddim](https://www.youtube.com/watch?v=z66w5b3zjHQ)
 - [Star Monster - GAME OVER](https://www.youtube.com/watch?v=MMs1hw_fvmQ)
 - [Oolacile &amp; Canna - Memory Cleanser](https://www.youtube.com/watch?v=ttp7FPQGTLY)
-- [GRiZ &amp; Subtronics - Griztronics II &lpar;Another Level&rpar;](https://www.youtube.com/watch?v=ggKg17gUmm0)
-- [Versa - Press Play To Die Instantly](https://www.youtube.com/watch?v=IGEDcOdUjw4)
-- [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
 - [NF - CLOUDS](https://www.youtube.com/watch?v=fibYknUCIU4)
 - [NF - The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM)
 - [MONXX - I D G A F](https://www.youtube.com/watch?v=WSxFrLqOJ1c)
 - [Blurface - Lost | Indian Trap | glitch hop](https://www.youtube.com/watch?v=rZ4bA3YJA4U)
 - [INFEKT - Journey To Mars](https://www.youtube.com/watch?v=HZow8ZxVIlo)
+- [Dubloadz - Fight Music 2017](https://www.youtube.com/watch?v=imdWkgN0_cg)
+- [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
 - [Infekt - Double Arcade](https://www.youtube.com/watch?v=XeVA1vyytcg)
 - [INFEKT - Prismo](https://www.youtube.com/watch?v=tY_S3zF2gus)
+- [Dubloadz - Fight Music VIP](https://www.youtube.com/watch?v=54qWaAphYco)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
