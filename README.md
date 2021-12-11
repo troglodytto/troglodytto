@@ -11,19 +11,19 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
 - [Neonix - Hi 5](https://www.youtube.com/watch?v=kk5So7Bg7es)
-- [Oolacile - Cognition &lpar;Grime Riddim&rpar;](https://www.youtube.com/watch?v=xfR5Fx9o3wE)
-- [Killin&#39; Void - Happy Riddim](https://www.youtube.com/watch?v=z66w5b3zjHQ)
-- [Star Monster - GAME OVER](https://www.youtube.com/watch?v=MMs1hw_fvmQ)
 - [NF - CLOUDS](https://www.youtube.com/watch?v=fibYknUCIU4)
 - [Galactic Effect- AUGMNTR &lpar;From The Midnight Gospel&rpar;](https://www.youtube.com/watch?v=CqrhEVJLqzs)
 - [NF - The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM)
 - [MONXX - I D G A F](https://www.youtube.com/watch?v=WSxFrLqOJ1c)
 - [Blurface - Lost | Indian Trap | glitch hop](https://www.youtube.com/watch?v=rZ4bA3YJA4U)
 - [INFEKT - Journey To Mars](https://www.youtube.com/watch?v=HZow8ZxVIlo)
+- [YOOKiE &amp; Wooli - Voodoo](https://www.youtube.com/watch?v=aEzIt0Z5skw)
 - [Dubloadz - Fight Music 2017](https://www.youtube.com/watch?v=imdWkgN0_cg)
 - [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
 - [Infekt - Double Arcade](https://www.youtube.com/watch?v=XeVA1vyytcg)
+- [Bommer x Crowell - Yasuo &lpar;Ivory &#39;Wizuo&#39; Remix&rpar;](https://www.youtube.com/watch?v=kuWlAoUeKeI)
 - [INFEKT - Prismo](https://www.youtube.com/watch?v=tY_S3zF2gus)
 - [Dubloadz - Fight Music VIP](https://www.youtube.com/watch?v=54qWaAphYco)
 <!-- BLOG-POST-LIST:END -->
