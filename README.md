@@ -12,12 +12,12 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
-- [Neonix - Hi 5](https://www.youtube.com/watch?v=kk5So7Bg7es)
-- [NF - CLOUDS](https://www.youtube.com/watch?v=fibYknUCIU4)
-- [Galactic Effect- AUGMNTR &lpar;From The Midnight Gospel&rpar;](https://www.youtube.com/watch?v=CqrhEVJLqzs)
+- [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
+- [Bandlez - Karate Killer](https://www.youtube.com/watch?v=1E239QGi37U)
 - [NF - The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM)
 - [MONXX - I D G A F](https://www.youtube.com/watch?v=WSxFrLqOJ1c)
 - [Blurface - Lost | Indian Trap | glitch hop](https://www.youtube.com/watch?v=rZ4bA3YJA4U)
+- [Datsik - Scum &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=fAcZEOMKlH0)
 - [INFEKT - Journey To Mars](https://www.youtube.com/watch?v=HZow8ZxVIlo)
 - [YOOKiE &amp; Wooli - Voodoo](https://www.youtube.com/watch?v=aEzIt0Z5skw)
 - [Dubloadz - Fight Music 2017](https://www.youtube.com/watch?v=imdWkgN0_cg)
