@@ -13,7 +13,7 @@
     <!-- BLOG-POST-LIST:START -->
 - [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
 - [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
-- [Bandlez - Karate Killer](https://www.youtube.com/watch?v=1E239QGi37U)
+- [NF - CLOUDS](https://www.youtube.com/watch?v=fibYknUCIU4)
 - [NF - The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM)
 - [MONXX - I D G A F](https://www.youtube.com/watch?v=WSxFrLqOJ1c)
 - [Blurface - Lost | Indian Trap | glitch hop](https://www.youtube.com/watch?v=rZ4bA3YJA4U)
