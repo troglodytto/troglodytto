@@ -11,20 +11,20 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
 - [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
 - [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
-- [NF - CLOUDS](https://www.youtube.com/watch?v=fibYknUCIU4)
-- [NF - The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM)
-- [MONXX - I D G A F](https://www.youtube.com/watch?v=WSxFrLqOJ1c)
-- [Blurface - Lost | Indian Trap | glitch hop](https://www.youtube.com/watch?v=rZ4bA3YJA4U)
+- [INFEKT - Introspection](https://www.youtube.com/watch?v=HX_CNSuex60)
+- [INFEKT - My Name Is [DOWNLOAD]](https://www.youtube.com/watch?v=Im_Xh79a1O4)
+- [INFEKT &amp; Griefer - Cold Cut &lpar;INFEKT Remix&rpar;](https://www.youtube.com/watch?v=HO8VZDU5QNw)
 - [Datsik - Scum &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=fAcZEOMKlH0)
 - [INFEKT - Journey To Mars](https://www.youtube.com/watch?v=HZow8ZxVIlo)
 - [YOOKiE &amp; Wooli - Voodoo](https://www.youtube.com/watch?v=aEzIt0Z5skw)
 - [Dubloadz - Fight Music 2017](https://www.youtube.com/watch?v=imdWkgN0_cg)
 - [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
-- [Infekt - Double Arcade](https://www.youtube.com/watch?v=XeVA1vyytcg)
 - [Bommer x Crowell - Yasuo &lpar;Ivory &#39;Wizuo&#39; Remix&rpar;](https://www.youtube.com/watch?v=kuWlAoUeKeI)
 - [INFEKT - Prismo](https://www.youtube.com/watch?v=tY_S3zF2gus)
+- [Crowell x Bommer - Yasuo VIP](https://www.youtube.com/watch?v=BSEbqr6QKSM)
 - [Dubloadz - Fight Music VIP](https://www.youtube.com/watch?v=54qWaAphYco)
 <!-- BLOG-POST-LIST:END -->
 
