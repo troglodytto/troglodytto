@@ -17,6 +17,7 @@
 - [INFEKT - Introspection](https://www.youtube.com/watch?v=HX_CNSuex60)
 - [INFEKT - My Name Is [DOWNLOAD]](https://www.youtube.com/watch?v=Im_Xh79a1O4)
 - [SVDDEN DEATH - Behemoth &lpar;Blaize Xmas Remix&rpar; [DUBSTEP]](https://www.youtube.com/watch?v=fwxErzilLek)
+- [INFEKT - Ice Cream](https://www.youtube.com/watch?v=k7B8nHKDKUI)
 - [INFEKT – SECTUMSEMPRA](https://www.youtube.com/watch?v=oOejxbJJvog)
 - [INFEKT &amp; Griefer - Cold Cut &lpar;INFEKT Remix&rpar;](https://www.youtube.com/watch?v=HO8VZDU5QNw)
 - [Datsik - Scum &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=fAcZEOMKlH0)
@@ -25,7 +26,6 @@
 - [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
 - [Bommer x Crowell - Yasuo &lpar;Ivory &#39;Wizuo&#39; Remix&rpar;](https://www.youtube.com/watch?v=kuWlAoUeKeI)
 - [Crowell x Bommer - Yasuo VIP](https://www.youtube.com/watch?v=BSEbqr6QKSM)
-- [Dubloadz - Fight Music VIP](https://www.youtube.com/watch?v=54qWaAphYco)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
