@@ -22,9 +22,9 @@
 - [INFEKT &amp; Griefer - Cold Cut &lpar;INFEKT Remix&rpar;](https://www.youtube.com/watch?v=HO8VZDU5QNw)
 - [Datsik - Scum &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=fAcZEOMKlH0)
 - [YOOKiE &amp; Wooli - Voodoo](https://www.youtube.com/watch?v=aEzIt0Z5skw)
-- [Dubloadz - Fight Music 2017](https://www.youtube.com/watch?v=imdWkgN0_cg)
 - [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
 - [Bommer x Crowell - Yasuo &lpar;Ivory &#39;Wizuo&#39; Remix&rpar;](https://www.youtube.com/watch?v=kuWlAoUeKeI)
+- [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
 - [Crowell x Bommer - Yasuo VIP](https://www.youtube.com/watch?v=BSEbqr6QKSM)
 <!-- BLOG-POST-LIST:END -->
 
