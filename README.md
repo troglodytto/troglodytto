@@ -12,7 +12,6 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
-- [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
 - [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
 - [INFEKT - Introspection](https://www.youtube.com/watch?v=HX_CNSuex60)
 - [INFEKT - My Name Is [DOWNLOAD]](https://www.youtube.com/watch?v=Im_Xh79a1O4)
@@ -22,10 +21,11 @@
 - [INFEKT &amp; Griefer - Cold Cut &lpar;INFEKT Remix&rpar;](https://www.youtube.com/watch?v=HO8VZDU5QNw)
 - [Datsik - Scum &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=fAcZEOMKlH0)
 - [YOOKiE &amp; Wooli - Voodoo](https://www.youtube.com/watch?v=aEzIt0Z5skw)
-- [Dubloadz - For Fucks Sakè](https://www.youtube.com/watch?v=LxcLJfnWRlE)
 - [Bommer x Crowell - Yasuo &lpar;Ivory &#39;Wizuo&#39; Remix&rpar;](https://www.youtube.com/watch?v=kuWlAoUeKeI)
 - [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
+- [Eptic - Jurassic](https://www.youtube.com/watch?v=P0m7gY-I2ZI)
 - [Crowell x Bommer - Yasuo VIP](https://www.youtube.com/watch?v=BSEbqr6QKSM)
+- [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
