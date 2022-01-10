@@ -12,7 +12,7 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
-- [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
+- [Rezz, Metric - Paper Walls &lpar;Audio&rpar;](https://www.youtube.com/watch?v=U8viwfH5-nQ)
 - [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
 - [INFEKT - Introspection](https://www.youtube.com/watch?v=HX_CNSuex60)
 - [Cyberpunk 2077 OST - Maelstrom Gang](https://www.youtube.com/watch?v=DCHwMsTlLxo)
