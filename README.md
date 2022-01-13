@@ -20,11 +20,11 @@
 - [INFEKT - My Name Is [DOWNLOAD]](https://www.youtube.com/watch?v=Im_Xh79a1O4)
 - [SVDDEN DEATH - Behemoth &lpar;Blaize Xmas Remix&rpar; [DUBSTEP]](https://www.youtube.com/watch?v=fwxErzilLek)
 - [INFEKT - Ice Cream](https://www.youtube.com/watch?v=k7B8nHKDKUI)
+- [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
 - [INFEKT – SECTUMSEMPRA](https://www.youtube.com/watch?v=oOejxbJJvog)
 - [INFEKT &amp; Griefer - Cold Cut &lpar;INFEKT Remix&rpar;](https://www.youtube.com/watch?v=HO8VZDU5QNw)
 - [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
 - [Eptic - Jurassic](https://www.youtube.com/watch?v=P0m7gY-I2ZI)
-- [Crowell x Bommer - Yasuo VIP](https://www.youtube.com/watch?v=BSEbqr6QKSM)
 - [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
 <!-- BLOG-POST-LIST:END -->
 
