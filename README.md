@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
-- [Rezz, Metric - Paper Walls &lpar;Audio&rpar;](https://www.youtube.com/watch?v=U8viwfH5-nQ)
-- [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
-- [INFEKT - Introspection](https://www.youtube.com/watch?v=HX_CNSuex60)
-- [Cyberpunk 2077 OST - Maelstrom Gang](https://www.youtube.com/watch?v=DCHwMsTlLxo)
-- [Cyberpunk 2077 Unreleased OST – The Rebel Path &lpar;Cello Version&rpar;](https://www.youtube.com/watch?v=AGsjA1pXajk)
-- [K/DA - MORE ft. Madison Beer, &lpar;G&rpar;I-DLE, Lexie Liu, Jaira Burns, Seraphine &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=3VTkBuxU4yk)
-- [INFEKT - My Name Is [DOWNLOAD]](https://www.youtube.com/watch?v=Im_Xh79a1O4)
-- [SVDDEN DEATH - Behemoth &lpar;Blaize Xmas Remix&rpar; [DUBSTEP]](https://www.youtube.com/watch?v=fwxErzilLek)
-- [INFEKT - Ice Cream](https://www.youtube.com/watch?v=k7B8nHKDKUI)
-- [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
-- [INFEKT – SECTUMSEMPRA](https://www.youtube.com/watch?v=oOejxbJJvog)
-- [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
-- [Eptic - Jurassic](https://www.youtube.com/watch?v=P0m7gY-I2ZI)
-- [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
+- [Marauda - That Marauda Song](https://www.youtube.com/watch?v=XRmTMH97iVg)
+- [MONXX - ON YOU &lpar;Syzy Remix&rpar;](https://www.youtube.com/watch?v=R3vAQTTR74U)
+- [BadKlaat - WYLD](https://www.youtube.com/watch?v=2tA99u5nv8s)
+- [Trinergy - Miss Ya](https://www.youtube.com/watch?v=suIt06pcLRc)
+- [Kompany &amp; Jiqui - CUT THROAT](https://www.youtube.com/watch?v=FFiFBMQhDPM)
+- [IVORY x Bizo x The Arcturians - Beast [Lyric Video]](https://www.youtube.com/watch?v=ZOvYKlbjrzg)
+- [Marshmello &amp; PEEKABOO - Pushin Stacks](https://www.youtube.com/watch?v=YO9CY1YUYkY)
+- [Skrillex, Noisia, josh pan &amp; Dylan Brady - Supersonic &lpar;My Existence&rpar; [Official Audio]](https://www.youtube.com/watch?v=U41bONK2V-U)
+- [ATMOSPHERE](https://www.youtube.com/watch?v=KKOPcpCAQX8)
+- [Marshmello &amp; Subtronics - House Party](https://www.youtube.com/watch?v=v5Bwv59Z0Bk)
+- [HOL! - Somewhere](https://www.youtube.com/watch?v=2X-nY2ykXio)
+- [Versa - Uninstaller](https://www.youtube.com/watch?v=oc0Qf319FBk)
+- [INFEKT - Orgalorg 2021](https://www.youtube.com/watch?v=Fxh0FQFTk3A)
+- [Topi - Back From The Future](https://www.youtube.com/watch?v=saH7hwrQIPM)
+- [Oliverse - Play With Fire &lpar;Extended Mix&rpar;](https://www.youtube.com/watch?v=gLmMsI-B--c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
