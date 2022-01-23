@@ -11,6 +11,7 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [NGHTMRE &amp; DEADLYFT - Ring The Alarm](https://www.youtube.com/watch?v=zbc8eiYWvJM)
 - [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
 - [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
 - [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
@@ -25,7 +26,6 @@
 - [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
 - [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
 - [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
-- [Flyysoulja - I&#39;m An Island Boy &lpar;Mport Remix&rpar;](https://www.youtube.com/watch?v=hccALFcVstw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
