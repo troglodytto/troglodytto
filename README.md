@@ -12,20 +12,20 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [NGHTMRE &amp; DEADLYFT - Ring The Alarm](https://www.youtube.com/watch?v=zbc8eiYWvJM)
-- [Oliverse - Don&#39;t Trip](https://www.youtube.com/watch?v=ItQbTeg7R0Q)
-- [Kompany &amp; Vastive - Composer &lpar;Dr. Ozi Remix&rpar;](https://www.youtube.com/watch?v=zEIWhsJ2t_4)
-- [INFEKT - Monkey Dance](https://www.youtube.com/watch?v=SljQ1Es7T9w)
-- [Neonix - Hi 5](https://www.youtube.com/watch?v=kk5So7Bg7es)
-- [Oolacile - Cognition &lpar;Grime Riddim&rpar;](https://www.youtube.com/watch?v=xfR5Fx9o3wE)
-- [Killin&#39; Void - Happy Riddim](https://www.youtube.com/watch?v=z66w5b3zjHQ)
-- [Star Monster - GAME OVER](https://www.youtube.com/watch?v=MMs1hw_fvmQ)
-- [Oolacile &amp; Canna - Memory Cleanser](https://www.youtube.com/watch?v=ttp7FPQGTLY)
 - [Rezz, Metric - Paper Walls &lpar;Audio&rpar;](https://www.youtube.com/watch?v=U8viwfH5-nQ)
-- [GRiZ &amp; Subtronics - Griztronics II &lpar;Another Level&rpar;](https://www.youtube.com/watch?v=ggKg17gUmm0)
-- [Versa - Press Play To Die Instantly](https://www.youtube.com/watch?v=IGEDcOdUjw4)
 - [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
-- [Bukez Finezt &amp; Yunis - WANDHYDRANT](https://www.youtube.com/watch?v=bCKhE3kc-BE)
-- [Essenger - Divine Virus &lpar;WARNING: INFOHAZARD&rpar;](https://www.youtube.com/watch?v=U0xis9Imedw)
+- [Cyberpunk 2077 OST - Maelstrom Gang](https://www.youtube.com/watch?v=DCHwMsTlLxo)
+- [Cyberpunk 2077 Unreleased OST – The Rebel Path &lpar;Cello Version&rpar;](https://www.youtube.com/watch?v=AGsjA1pXajk)
+- [K/DA - MORE ft. Madison Beer, &lpar;G&rpar;I-DLE, Lexie Liu, Jaira Burns, Seraphine &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=3VTkBuxU4yk)
+- [Sleep is Just Death Being Shy](https://www.youtube.com/watch?v=-mu780uB7mI)
+- [INFEKT - Ice Cream](https://www.youtube.com/watch?v=k7B8nHKDKUI)
+- [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
+- [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
+- [Machine Gun Kelly &quot;Rap Devil&quot; &lpar;Eminem Diss&rpar; &lpar;WSHH Exclusive - Official Music Video&rpar;](https://www.youtube.com/watch?v=Fp0BScQSSvg)
+- [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
+- [Eptic - Jurassic](https://www.youtube.com/watch?v=P0m7gY-I2ZI)
+- [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
+- [Vanic x K.Flay - Make Me Fade](https://www.youtube.com/watch?v=8Er6l7UOnbI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
