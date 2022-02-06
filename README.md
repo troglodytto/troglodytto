@@ -11,21 +11,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [REZZ - Relax](https://www.youtube.com/watch?v=Z1PT-i2n9mY)
-- [Herobust - Move Mint &lpar;VIP&rpar;](https://www.youtube.com/watch?v=ohEBGH4RRLk)
-- [GANK - Resurrection](https://www.youtube.com/watch?v=b_IBZ34xlis)
-- [Hydrize - Kernel Panic [DUBSTEP]](https://www.youtube.com/watch?v=U9tbfNBl7v0)
-- [PhaseOne - Kung Fu &lpar;feat. Virtual Riot&rpar;](https://www.youtube.com/watch?v=bsFpJGSeCxU)
-- [Herobust - Vertebreaker](https://www.youtube.com/watch?v=x2Ja0OU4fJk)
-- [Slander &amp; YOOKiE - After All &lpar;feat. Jinzo&rpar; &lpar;PhaseOne Edit&rpar;](https://www.youtube.com/watch?v=YC80o6TlPWk)
-- [Herobust - Dirty Work &lpar;MONXX Remix&rpar;](https://www.youtube.com/watch?v=dMKICU4zP9U)
-- [Slander &amp; YOOKiE - After All &lpar;ft. Jinzo&rpar; &lpar;Habstrakt Remix&rpar;](https://www.youtube.com/watch?v=La4LhsXZkts)
-- [CHIBS - SHARINGAN](https://www.youtube.com/watch?v=CIrRhU5kwGc)
-- [BadKlaat - Fright Night](https://www.youtube.com/watch?v=e-5E0Kgu9iI)
-- [Herobust - Dirty Work](https://www.youtube.com/watch?v=gs9DPxTg4lU)
-- [Wubbaduck &amp; MONXX - Sleepless Nights](https://www.youtube.com/watch?v=5iuKGMTHqyE)
-- [[Drumstep] - Pegboard Nerds - Try This [Monstercat Release]](https://www.youtube.com/watch?v=ggqI-HH8yXc)
-- [BadKlaat - Head Crush](https://www.youtube.com/watch?v=JTdbnIvw8hk)
+- [NGHTMRE &amp; DEADLYFT - Ring The Alarm](https://www.youtube.com/watch?v=zbc8eiYWvJM)
+- [Rezz, Metric - Paper Walls &lpar;Audio&rpar;](https://www.youtube.com/watch?v=U8viwfH5-nQ)
+- [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
+- [Cyberpunk 2077 OST - Maelstrom Gang](https://www.youtube.com/watch?v=DCHwMsTlLxo)
+- [Cyberpunk 2077 Unreleased OST – The Rebel Path &lpar;Cello Version&rpar;](https://www.youtube.com/watch?v=AGsjA1pXajk)
+- [K/DA - MORE ft. Madison Beer, &lpar;G&rpar;I-DLE, Lexie Liu, Jaira Burns, Seraphine &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=3VTkBuxU4yk)
+- [SVDDEN DEATH - Behemoth &lpar;Blaize Xmas Remix&rpar; [DUBSTEP]](https://www.youtube.com/watch?v=fwxErzilLek)
+- [INFEKT - Ice Cream](https://www.youtube.com/watch?v=k7B8nHKDKUI)
+- [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
+- [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
+- [Machine Gun Kelly &quot;Rap Devil&quot; &lpar;Eminem Diss&rpar; &lpar;WSHH Exclusive - Official Music Video&rpar;](https://www.youtube.com/watch?v=Fp0BScQSSvg)
+- [Norse Viking Music - Úlfhéðnar](https://www.youtube.com/watch?v=sTPDmZx3gKk)
+- [Eptic - Jurassic](https://www.youtube.com/watch?v=P0m7gY-I2ZI)
+- [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
+- [Vanic x K.Flay - Make Me Fade](https://www.youtube.com/watch?v=8Er6l7UOnbI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
