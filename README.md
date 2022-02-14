@@ -24,7 +24,7 @@
 - [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
 - [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
 - [Machine Gun Kelly &quot;Rap Devil&quot; &lpar;Eminem Diss&rpar; &lpar;WSHH Exclusive - Official Music Video&rpar;](https://www.youtube.com/watch?v=Fp0BScQSSvg)
-- [50 Carrot x Coffi x Soloman - New Presidents &lpar;feat. Watson&rpar;](https://www.youtube.com/watch?v=mPsBDECfxGM)
+- [Dubloadz x Midnight Tyrannosaurus - Wolf Pit](https://www.youtube.com/watch?v=fJM7Vvngf5k)
 - [Vanic x K.Flay - Make Me Fade](https://www.youtube.com/watch?v=8Er6l7UOnbI)
 <!-- BLOG-POST-LIST:END -->
 
