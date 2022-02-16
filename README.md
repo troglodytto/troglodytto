@@ -8,6 +8,7 @@
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
+    - 🔑 Crypto - `ETH 0xe003F480Ed5977E6b6AC141cbDf9d9E482200D9D`
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
