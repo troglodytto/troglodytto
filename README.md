@@ -8,7 +8,12 @@
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
-    - 🔑 Crypto - `ETH 0xe003F480Ed5977E6b6AC141cbDf9d9E482200D9D`
+    - 🔑 Crypto 
+        - ETH **`0xe003F480Ed5977E6b6AC141cbDf9d9E482200D9D`**
+        - BTC **`bc1qekmaw59z9myelk522z8c08gz5zat944d50j3qk`**
+        - XRP **`rJheEwhMsgY5qzEs8aUFNf5SLkWXHxMztb`**
+        - ADA **`addr1q9unnx5xp0j6ncat9y9lm6japljedcqh2ugwllh6r9zdw4re8xdgvzl94836k2gtlh496rl9jmspw4csall05x2y6a2qx76srh`**
+        - SOL **`5TwEHjqaUAKvsEeajdbCmpfNHZpx7MvzDAqgNe9j49fe`**
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
