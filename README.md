@@ -24,12 +24,12 @@
 - [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
 - [Imagine Dragons, JID - Enemy &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=QOQlBgKxc5w)
 - [Kylof Söze - GOD DAMN](https://www.youtube.com/watch?v=gB5jHsOg8PI)
-- [Cyberpunk 2077 OST - Maelstrom Gang](https://www.youtube.com/watch?v=DCHwMsTlLxo)
 - [Cyberpunk 2077 Unreleased OST – The Rebel Path &lpar;Cello Version&rpar;](https://www.youtube.com/watch?v=AGsjA1pXajk)
 - [K/DA - MORE ft. Madison Beer, &lpar;G&rpar;I-DLE, Lexie Liu, Jaira Burns, Seraphine &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=3VTkBuxU4yk)
 - [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
 - [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
 - [Machine Gun Kelly &quot;Rap Devil&quot; &lpar;Eminem Diss&rpar; &lpar;WSHH Exclusive - Official Music Video&rpar;](https://www.youtube.com/watch?v=Fp0BScQSSvg)
+- [My Ordinary Life-The Living Tombstone](https://www.youtube.com/watch?v=9Zj0JOHJR-s)
 - [Dubloadz x Midnight Tyrannosaurus - Wolf Pit](https://www.youtube.com/watch?v=fJM7Vvngf5k)
 - [Vanic x K.Flay - Make Me Fade](https://www.youtube.com/watch?v=8Er6l7UOnbI)
 <!-- BLOG-POST-LIST:END -->
