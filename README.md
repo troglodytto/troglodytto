@@ -17,6 +17,7 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [AVEON - DONT LET ME GO &lpar;OFFICIAL VISUAL&rpar;](https://www.youtube.com/watch?v=RKxJp57GANg)
 - [Black Tiger Sex Machine &amp; ATLiens - Front Man](https://www.youtube.com/watch?v=06t-xFodC9k)
 - [GRiZ &amp; CloZee - Color Of Your Soul](https://www.youtube.com/watch?v=vgSVHDNG_Ug)
 - [NGHTMRE &amp; DEADLYFT - Ring The Alarm](https://www.youtube.com/watch?v=zbc8eiYWvJM)
@@ -24,7 +25,6 @@
 - [Sahara](https://www.youtube.com/watch?v=kvHvxKHYMBA)
 - [Imagine Dragons, JID - Enemy &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=QOQlBgKxc5w)
 - [Kylof Söze - GOD DAMN](https://www.youtube.com/watch?v=gB5jHsOg8PI)
-- [Cyberpunk 2077 Unreleased OST – The Rebel Path &lpar;Cello Version&rpar;](https://www.youtube.com/watch?v=AGsjA1pXajk)
 - [K/DA - MORE ft. Madison Beer, &lpar;G&rpar;I-DLE, Lexie Liu, Jaira Burns, Seraphine &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=3VTkBuxU4yk)
 - [K/DA - POP/STARS &lpar;ft. Madison Beer, &lpar;G&rpar;I-DLE, Jaira Burns&rpar; | Music Video - League of Legends](https://www.youtube.com/watch?v=UOxkGD8qRB4)
 - [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
