@@ -17,7 +17,6 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Wooli - The Core &lpar;Caster Remix&rpar;](https://www.youtube.com/watch?v=DoSwn_LE-0Y)
 - [BAINBRIDGE - Raver&#39;s Anthem](https://www.youtube.com/watch?v=1aULNaN2YNA)
 - [AVEON - DONT LET ME GO &lpar;OFFICIAL VISUAL&rpar;](https://www.youtube.com/watch?v=RKxJp57GANg)
 - [Black Tiger Sex Machine &amp; ATLiens - Front Man](https://www.youtube.com/watch?v=06t-xFodC9k)
@@ -26,6 +25,7 @@
 - [Kylof Söze - GOD DAMN](https://www.youtube.com/watch?v=gB5jHsOg8PI)
 - [Slipknot - Pulse Of The Maggots &lpar;SWARM Remix&rpar;](https://www.youtube.com/watch?v=nZeJw44ZwYg)
 - [Disturbed - Down With The Sickness &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=WELjsTlTnX4)
+- [KILLSHOT [Official Audio]](https://www.youtube.com/watch?v=FxQTY-W6GIo)
 - [My Ordinary Life-The Living Tombstone](https://www.youtube.com/watch?v=9Zj0JOHJR-s)
 - [Dirtyphonics &amp; Sullivan King - Hammer](https://www.youtube.com/watch?v=L1nLE7xjBCg)
 - [Dion Timmer - Berzerk &lpar;feat. MagMag&rpar;](https://www.youtube.com/watch?v=P4iwB8KeTbw)
