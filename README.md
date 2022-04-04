@@ -20,7 +20,7 @@
 - [BAINBRIDGE - Raver&#39;s Anthem](https://www.youtube.com/watch?v=1aULNaN2YNA)
 - [AVEON - DONT LET ME GO &lpar;OFFICIAL VISUAL&rpar;](https://www.youtube.com/watch?v=RKxJp57GANg)
 - [Black Tiger Sex Machine &amp; ATLiens - Front Man](https://www.youtube.com/watch?v=06t-xFodC9k)
-- [GRiZ &amp; CloZee - Color Of Your Soul](https://www.youtube.com/watch?v=vgSVHDNG_Ug)
+- [Connor Price &amp; 4Korners - Marathon [Lyric Video]](https://www.youtube.com/watch?v=uhteUu2Cn_k)
 - [Imagine Dragons, JID - Enemy &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=QOQlBgKxc5w)
 - [Kylof Söze - GOD DAMN](https://www.youtube.com/watch?v=gB5jHsOg8PI)
 - [COACH - Business](https://www.youtube.com/watch?v=7ljsMxZwuuA)
