@@ -15,18 +15,18 @@
     <!-- BLOG-POST-LIST:START -->
 - [BAINBRIDGE - Raver&#39;s Anthem](https://www.youtube.com/watch?v=1aULNaN2YNA)
 - [AVEON - DONT LET ME GO &lpar;OFFICIAL VISUAL&rpar;](https://www.youtube.com/watch?v=RKxJp57GANg)
-- [Black Tiger Sex Machine &amp; ATLiens - Front Man](https://www.youtube.com/watch?v=06t-xFodC9k)
 - [Connor Price &amp; 4Korners - Marathon [Lyric Video]](https://www.youtube.com/watch?v=uhteUu2Cn_k)
-- [Imagine Dragons, JID - Enemy &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=QOQlBgKxc5w)
-- [Kylof Söze - GOD DAMN](https://www.youtube.com/watch?v=gB5jHsOg8PI)
 - [COACH - Business](https://www.youtube.com/watch?v=7ljsMxZwuuA)
 - [Slipknot - Pulse Of The Maggots &lpar;SWARM Remix&rpar;](https://www.youtube.com/watch?v=nZeJw44ZwYg)
+- [Eliminate - Them &lpar;feat. Virus Syndicate&rpar;](https://www.youtube.com/watch?v=pKgmhUlOF3k)
 - [Disturbed - Down With The Sickness &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=WELjsTlTnX4)
-- [My Ordinary Life-The Living Tombstone](https://www.youtube.com/watch?v=9Zj0JOHJR-s)
 - [Dirtyphonics &amp; Sullivan King - Hammer](https://www.youtube.com/watch?v=L1nLE7xjBCg)
 - [Dion Timmer - Berzerk &lpar;feat. MagMag&rpar;](https://www.youtube.com/watch?v=P4iwB8KeTbw)
+- [Excision &amp; Space Laces - Throwin’ Elbows &lpar;Getter &amp; Virtual Riot Remix&rpar;](https://www.youtube.com/watch?v=O2tKErtXQJY)
+- [Excision - G Shit &lpar;feat. Sam King&rpar; &lpar;BadKlaat Remix&rpar;](https://www.youtube.com/watch?v=vqiWcgaLNYY)
+- [Excision - G Shit feat Sam King [Official Video]](https://www.youtube.com/watch?v=sWJpG83pk5s)
+- [Excision - Virus [Official Video]](https://www.youtube.com/watch?v=AvUQ2Qjm8uM)
 - [Bommer x Crowell - Olde English](https://www.youtube.com/watch?v=-Tjiz7GfJps)
-- [Dubloadz x Midnight Tyrannosaurus - Wolf Pit](https://www.youtube.com/watch?v=fJM7Vvngf5k)
 - [Bommer x Crowell - Nah Nah &lpar;Aweminus Remix&rpar;](https://www.youtube.com/watch?v=vdNTfwcC7Gg)
 <!-- BLOG-POST-LIST:END -->
 
