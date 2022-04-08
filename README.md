@@ -14,11 +14,11 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [BAINBRIDGE - Raver&#39;s Anthem](https://www.youtube.com/watch?v=1aULNaN2YNA)
-- [AVEON - DONT LET ME GO &lpar;OFFICIAL VISUAL&rpar;](https://www.youtube.com/watch?v=RKxJp57GANg)
 - [Connor Price &amp; 4Korners - Marathon [Lyric Video]](https://www.youtube.com/watch?v=uhteUu2Cn_k)
 - [COACH - Business](https://www.youtube.com/watch?v=7ljsMxZwuuA)
-- [Slipknot - Pulse Of The Maggots &lpar;SWARM Remix&rpar;](https://www.youtube.com/watch?v=nZeJw44ZwYg)
+- [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
 - [Eliminate - Them &lpar;feat. Virus Syndicate&rpar;](https://www.youtube.com/watch?v=pKgmhUlOF3k)
+- [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
 - [Disturbed - Down With The Sickness &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=WELjsTlTnX4)
 - [Dirtyphonics &amp; Sullivan King - Hammer](https://www.youtube.com/watch?v=L1nLE7xjBCg)
 - [Dion Timmer - Berzerk &lpar;feat. MagMag&rpar;](https://www.youtube.com/watch?v=P4iwB8KeTbw)
