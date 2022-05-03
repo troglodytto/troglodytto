@@ -14,12 +14,11 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
-- [BAINBRIDGE - Raver&#39;s Anthem](https://www.youtube.com/watch?v=1aULNaN2YNA)
 - [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
 - [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
 - [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
-- [Connor Price &amp; 4Korners - Marathon [Lyric Video]](https://www.youtube.com/watch?v=uhteUu2Cn_k)
-- [COACH - Business](https://www.youtube.com/watch?v=7ljsMxZwuuA)
+- [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
+- [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
 - [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
 - [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
 - [Eliminate - Them &lpar;feat. Virus Syndicate&rpar;](https://www.youtube.com/watch?v=pKgmhUlOF3k)
@@ -28,6 +27,7 @@
 - [Excision - G Shit &lpar;feat. Sam King&rpar; &lpar;BadKlaat Remix&rpar;](https://www.youtube.com/watch?v=vqiWcgaLNYY)
 - [Excision - G Shit feat Sam King [Official Video]](https://www.youtube.com/watch?v=sWJpG83pk5s)
 - [Excision - Virus [Official Video]](https://www.youtube.com/watch?v=AvUQ2Qjm8uM)
+- [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
