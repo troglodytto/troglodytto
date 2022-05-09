@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "15"
-                feed_list: https://www.youtube.com/feeds/videos.xml?playlist_id=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG
+                feed_list: https://youtube.com/playlist?list=PLuWs5sMPaxNiFdKiAOtP6HYxoYWt8NAC9
