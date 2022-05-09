@@ -13,21 +13,21 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
-- [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
-- [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
-- [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
-- [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
-- [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
-- [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
-- [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
-- [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
-- [Eliminate - Them &lpar;feat. Virus Syndicate&rpar;](https://www.youtube.com/watch?v=pKgmhUlOF3k)
-- [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
-- [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
-- [Excision &amp; Space Laces - Throwin’ Elbows &lpar;Getter &amp; Virtual Riot Remix&rpar;](https://www.youtube.com/watch?v=O2tKErtXQJY)
-- [Excision - Virus [Official Video]](https://www.youtube.com/watch?v=AvUQ2Qjm8uM)
-- [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
+- [Prateek Gandhi- Main Roiyaan | Official Music Video | #MicTestOnKaanPhod](https://www.youtube.com/watch?v=0h0Jsxdw4mM)
+- [Nic D &amp; Connor Price - Nobodies &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=Aqyy5IuiQ6E)
+- [Somen - Easy To Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=l-mjMOUUGq8)
+- [Let Me Down Slowly x Tose Naina &lpar;Gravero Mashup&rpar; | Full Version](https://www.youtube.com/watch?v=L4Gowg710LQ)
+- [Radha Rani - Suprabha KV Song | Slowed And Reverb Lofi Mix](https://www.youtube.com/watch?v=txIHgWr6iac)
+- [Armaan Malik - You &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=GsdYjCLcpN4)
+- [After Dark - Mr.Kitty &lpar;Music Video&rpar; ft. Ana de Armas &amp; Ryan Gosling](https://www.youtube.com/watch?v=Yfc9nrAj2bo)
+- [Connor Price - You Said &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=tWAcddOMTfY)
+- [ILLENIUM feat. Iann Dior- First Time &lpar;Sam Feldt Remix- Official Audio&rpar;](https://www.youtube.com/watch?v=7faIIuWkagQ)
+- [ILLENIUM and Iann Dior- First Time &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=mUlRDt23BWY)
+- [Nothing](https://www.youtube.com/watch?v=PlEN8iAaU9c)
+- [Flavour Fluffy - Whoa!](https://www.youtube.com/watch?v=fLfzsPiq-wM)
+- [RADHA RANI | Suprabha KV | Meethe Ras Se Bharyo Radha Rani Lage](https://www.youtube.com/watch?v=w8Zcr9IhFO0)
+- [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
+- [Apocalypse - Cigarettes After Sex](https://www.youtube.com/watch?v=sElE_BfQ67s)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
