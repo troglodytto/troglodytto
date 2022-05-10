@@ -1,0 +1,69 @@
+apt:
+  - alacritty
+  - bat
+  - build-essential
+  - ccls
+  - cmake
+  - code
+  - curl
+  - docker-ce
+  - docker-compose
+  - elixir
+  - ethereum
+  - emacs
+  - exa
+  - exodus
+  - fzf
+  - ghcup
+  - glow
+  - inotify-tools
+  - inxi
+  - lua
+  - meld
+  - mongodb-compass
+  - nasm
+  - neofetch
+  - neovim
+  - ninja
+  - nginx
+  - nmap
+  - ocs-url
+  - openssl
+  - openssh-client
+  - openssh-server
+  - pgadmin4-desktop
+  - python3.9
+  - slack-desktop
+  - ripgrep
+  - tmux
+  - tree
+  - vlc
+  - zoom
+  - zsh
+  - zsh-autosuggestions
+  - papirus-icon-theme
+
+snap:
+  - flutter
+  
+jetbrains-toolbox:
+  - android-studio
+
+custom:
+ - rustup
+ - ganache
+ - solana
+ - nvm
+ - sdkman
+ - ngrok
+ - dust
+ - trunk
+ - ytop
+ - cloud_sql_proxy
+ - gcloud
+ - go
+ 
+flatpak:
+ - postman
+ - figma
+ - signal
