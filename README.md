@@ -1,4 +1,6 @@
-# Hi 👋
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Piyush
+</h2>
 
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
@@ -14,22 +16,22 @@
 - ### 🦄 **I am working on a Minmal Rust Kernel - [zeno](https://github.com/aether-devweb/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Crissy Criss &amp; FuntCase - Malfunction &lpar;Defectiøn Remix&rpar;](https://www.youtube.com/watch?v=6pu9znwFLdA)
-- [Ravenscoon - Inertia](https://www.youtube.com/watch?v=f7-QnwdZYwA)
-- [Dirtyphonics x ECRAZE x Graphyt x IVORY x Samplifire - Le Club](https://www.youtube.com/watch?v=wUEfgG91V20)
-- [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
-- [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
-- [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
-- [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
-- [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
-- [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
-- [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
-- [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
-- [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
-- [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
-- [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
-- [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
-<!-- BLOG-POST-LIST:END -->
+    - [Crissy Criss &amp; FuntCase - Malfunction &lpar;Defectiøn Remix&rpar;](https://www.youtube.com/watch?v=6pu9znwFLdA)
+    - [Ravenscoon - Inertia](https://www.youtube.com/watch?v=f7-QnwdZYwA)
+    - [Dirtyphonics x ECRAZE x Graphyt x IVORY x Samplifire - Le Club](https://www.youtube.com/watch?v=wUEfgG91V20)
+    - [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
+    - [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
+    - [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
+    - [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
+    - [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
+    - [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
+    - [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
+    - [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
+    - [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
+    - [JACKNIFE - Code Black](https://www.youtube.com/watch?v=2KanfIXBBKQ)
+    - [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
+    - [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
+    <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
 
