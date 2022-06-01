@@ -1,47 +1,412 @@
 apt:
-  - alacritty
-  - bat
-  - build-essential
-  - ccls
-  - cmake
-  - code
-  - curl
-  - docker-ce
-  - docker-compose
-  - elixir
-  - ethereum
-  - emacs
-  - exa
-  - exodus
-  - fzf
-  - ghcup
-  - glow
-  - inotify-tools
-  - inxi
-  - lua
-  - meld
-  - mongodb-compass
-  - nasm
-  - neofetch
-  - neovim
-  - ninja
-  - nginx
-  - nmap
-  - ocs-url
-  - openssl
-  - openssh-client
-  - openssh-server
-  - pgadmin4-desktop
-  - python3.9
-  - slack-desktop
-  - ripgrep
-  - tmux
-  - tree
-  - vlc
-  - zoom
-  - zsh
-  - zsh-autosuggestions
-  - papirus-icon-theme
+- adduser
+- alacritty
+- amd-ppt-bin
+- apt-transport-https
+- apt-utils
+- apt
+- base-files
+- base-passwd
+- bash
+- bat
+- bridge-utils
+- bsdutils
+- bubblemail
+- build-essential
+- ca-certificates
+- ccls
+- chrome-gnome-shell
+- code
+- console-setup-linux
+- console-setup
+- containerd.io
+- coreutils
+- cpu-checker
+- cron
+- curl
+- dash
+- dbus
+- debconf-i18n
+- debconf
+- debianutils
+- diffutils
+- distro-info-data
+- distro-info
+- dmsetup
+- docker-ce-cli
+- docker-ce
+- docker-compose-plugin
+- docker-compose
+- dosfstools
+- dpkg
+- e2fsprogs
+- eject
+- elixir
+- erlang-dialyzer
+- erlang
+- exa
+- ffmpeg
+- findutils
+- fonts-arphic-ukai
+- fonts-arphic-uming
+- fonts-noto-cjk-extra
+- fonts-noto-cjk
+- fonts-noto-core
+- fonts-noto-ui-core
+- fzf
+- g++
+- gcc-11-base
+- gdb
+- gh
+- gimp
+- gir1.2-glib-2.0
+- git
+- gnome-tweaks
+- gnome-user-docs-de
+- gnome-user-docs-es
+- gnome-user-docs-fr
+- gnome-user-docs-it
+- gnome-user-docs-ja
+- gnome-user-docs-pt
+- gnome-user-docs-ru
+- gnome-user-docs-zh-hans
+- gnupg
+- google-chrome-stable
+- google-cloud-cli
+- gpgv
+- grep
+- gzip
+- hostname
+- htop
+- httpie
+- hunspell-ar
+- hunspell-de-at-frami
+- hunspell-de-ch-frami
+- hunspell-de-de-frami
+- hunspell-en-au
+- hunspell-en-ca
+- hunspell-en-gb
+- hunspell-en-us
+- hunspell-en-za
+- hunspell-es
+- hunspell-fr
+- hunspell-it
+- hunspell-pt-br
+- hunspell-pt-pt
+- hunspell-ru
+- hyphen-de
+- hyphen-en-ca
+- hyphen-en-gb
+- hyphen-en-us
+- hyphen-es
+- hyphen-fr
+- hyphen-it
+- hyphen-pt-br
+- hyphen-pt-pt
+- hyphen-ru
+- ibus-chewing
+- ibus-libpinyin
+- ibus-table-cangjie3
+- ibus-table-cangjie5
+- ibus-table-quick-classic
+- ibus-table-wubi
+- init-system-helpers
+- init
+- inotify-tools
+- inxi
+- iproute2
+- iputils-ping
+- isc-dhcp-client
+- isc-dhcp-common
+- kbd
+- kernelstub
+- keyboard-configuration
+- kmod
+- language-pack-ar
+- language-pack-de
+- language-pack-en
+- language-pack-es
+- language-pack-fr
+- language-pack-gnome-ar
+- language-pack-gnome-de
+- language-pack-gnome-en
+- language-pack-gnome-es
+- language-pack-gnome-fr
+- language-pack-gnome-it
+- language-pack-gnome-ja
+- language-pack-gnome-pt
+- language-pack-gnome-ru
+- language-pack-gnome-zh-hans
+- language-pack-gnome-zh-hant
+- language-pack-it
+- language-pack-ja
+- language-pack-pt
+- language-pack-ru
+- language-pack-zh-hans
+- language-pack-zh-hant
+- less
+- libacl1
+- libapparmor1
+- libapt-pkg6.0
+- libargon2-1
+- libatm1
+- libattr1
+- libaudit-common
+- libaudit1
+- libblkid1
+- libboost-all-dev
+- libbpf0
+- libbsd0
+- libbz2-1.0
+- libc-bin
+- libc6
+- libcap-ng0
+- libcap2-bin
+- libcap2
+- libcom-err2
+- libcrypt1
+- libcryptsetup12
+- libdb5.3
+- libdbus-1-3
+- libdebconfclient0
+- libdevmapper1.02.1
+- libdns-export1110
+- libelf1
+- libestr0
+- libexpat1
+- libext2fs2
+- libfastjson4
+- libffi8
+- libfribidi0
+- libgcc-s1
+- libgcrypt20
+- libgirepository-1.0-1
+- libglib2.0-0
+- libglib2.0-data
+- libglu1-mesa-dev
+- libglu1-mesa
+- libgmp10
+- libgmp3-dev
+- libgnutls30
+- libgpg-error0
+- libgssapi-krb5-2
+- libhogweed6
+- libicu67
+- libidn2-0
+- libip4tc2
+- libisc-export1105
+- libjson-c5
+- libk5crypto3
+- libkeyutils1
+- libkmod2
+- libkrb5-3
+- libkrb5support0
+- liblocale-gettext-perl
+- liblz4-1
+- liblzma5
+- libmd0
+- libmnl0
+- libmount1
+- libmpdec3
+- libncurses6
+- libncursesw6
+- libnetplan0
+- libnettle8
+- libnewt0.52
+- libnsl2
+- libnss-systemd
+- libp11-kit0
+- libpam-cap
+- libpam-modules-bin
+- libpam-modules
+- libpam-runtime
+- libpam-systemd
+- libpam0g
+- libpcre2-8-0
+- libpcre3
+- libpop-upgrade-gtk
+- libpopt0
+- libpq-dev
+- libpq5
+- libprocps8
+- libpython3-stdlib
+- libpython3.9-minimal
+- libpython3.9-stdlib
+- libreadline8
+- libreoffice-help-de
+- libreoffice-help-en-gb
+- libreoffice-help-en-us
+- libreoffice-help-es
+- libreoffice-help-fr
+- libreoffice-help-it
+- libreoffice-help-ja
+- libreoffice-help-pt-br
+- libreoffice-help-pt
+- libreoffice-help-ru
+- libreoffice-help-zh-cn
+- libreoffice-help-zh-tw
+- libreoffice-l10n-ar
+- libreoffice-l10n-de
+- libreoffice-l10n-en-gb
+- libreoffice-l10n-en-za
+- libreoffice-l10n-es
+- libreoffice-l10n-fr
+- libreoffice-l10n-it
+- libreoffice-l10n-ja
+- libreoffice-l10n-pt-br
+- libreoffice-l10n-pt
+- libreoffice-l10n-ru
+- libreoffice-l10n-zh-cn
+- libreoffice-l10n-zh-tw
+- libseccomp2
+- libselinux1
+- libsemanage-common
+- libsemanage2
+- libsepol2
+- libslang2
+- libsmartcols1
+- libsqlite3-0
+- libss2
+- libssl3
+- libstdc++6
+- libsystemd0
+- libtasn1-6
+- libtext-charwidth-perl
+- libtext-iconv-perl
+- libtext-wrapi18n-perl
+- libtinfo6
+- libtirpc-common
+- libtirpc3
+- libudev1
+- libunistring2
+- libuuid1
+- libvirt-clients
+- libvirt-daemon-system
+- libxml2
+- libxres-dev
+- libxtables12
+- libxxhash0
+- libyaml-0-2
+- libzstd1
+- linux-system76
+- locales
+- login
+- logrotate
+- logsave
+- lsb-base
+- lsb-release
+- mawk
+- media-types
+- mount
+- mythes-ar
+- mythes-de-ch
+- mythes-de
+- mythes-en-au
+- mythes-en-us
+- mythes-es
+- mythes-fr
+- mythes-it
+- mythes-pt-pt
+- mythes-ru
+- nasm
+- ncurses-base
+- ncurses-bin
+- neofetch
+- neovim
+- netbase
+- netcat-openbsd
+- netplan.io
+- networkd-dispatcher
+- nginx
+- ngrok
+- ninja-build
+- nmap
+- numix-icon-theme-circle
+- numix-icon-theme
+- nvidia-driver-510
+- obs-studio
+- openssl
+- papirus-icon-theme
+- passwd
+- perl-base
+- pgadmin4-desktop
+- pinhole
+- pop-desktop
+- pop-upgrade
+- poppler-data
+- procps
+- python-apt-common
+- python3-apt
+- python3-dbus
+- python3-dev
+- python3-gi
+- python3-minimal
+- python3-netifaces
+- python3-pip
+- python3-pkg-resources
+- python3-setuptools
+- python3-yaml
+- python3.9-minimal
+- python3
+- qemu-system-x86
+- racket
+- readline-common
+- ripgrep
+- rsyslog
+- sed
+- sensible-utils
+- shared-mime-info
+- signal-desktop
+- slack-desktop
+- snapd
+- software-properties-common
+- ssmtp
+- sudo
+- system76-acpi-dkms
+- system76-dkms
+- system76-io-dkms
+- systemd-sysv
+- systemd-timesyncd
+- systemd
+- sysvinit-utils
+- tar
+- termius-app
+- tmux
+- tree
+- tzdata
+- ubuntu-advantage-tools
+- ubuntu-keyring
+- ubuntu-minimal
+- ubuntu-standard
+- ucf
+- udev
+- usrmerge
+- util-linux
+- v4l2loopback-dkms
+- vim-common
+- vim-tiny
+- vlc
+- w3m-img
+- wamerican
+- wbrazilian
+- wbritish
+- wfrench
+- wget
+- whiptail
+- witalian
+- wngerman
+- wogerman
+- wportuguese
+- wspanish
+- wswiss
+- x11proto-xext-dev
+- xdg-user-dirs
+- xkb-data
+- xxd
+- xz-utils
+- zlib1g
+- zoom
+- zsh
 
 snap:
   - flutter
@@ -65,5 +430,3 @@ custom:
  
 flatpak:
  - postman
- - figma
- - signal
