@@ -25,11 +25,11 @@
 - [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
 - [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
 - [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
+- [Dj Kantik - Teriyaki Boyz - Tokyo Drift &amp; Sean Paul - Temperature &lpar;Remix&rpar;](https://www.youtube.com/watch?v=ou0phHbzz-0)
 - [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
 - [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
 - [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
 - [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
-- [MALAA - REVOLT FT. JACKNIFE [PCR010]](https://www.youtube.com/watch?v=s1gbGUEO8uA)
 - [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
 - [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
 <!-- BLOG-POST-LIST:END -->
