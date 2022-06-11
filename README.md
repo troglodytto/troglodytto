@@ -17,21 +17,21 @@
 - ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [DKKAY &amp; STVG - NO REASON](https://www.youtube.com/watch?v=g7maJR840MI)
-- [Crissy Criss &amp; FuntCase - Malfunction &lpar;Defectiøn Remix&rpar;](https://www.youtube.com/watch?v=6pu9znwFLdA)
-- [Ravenscoon - Inertia](https://www.youtube.com/watch?v=f7-QnwdZYwA)
-- [Dirtyphonics x ECRAZE x Graphyt x IVORY x Samplifire - Le Club](https://www.youtube.com/watch?v=wUEfgG91V20)
-- [MUERTE - Blackbelly [DOWNLOAD]](https://www.youtube.com/watch?v=N33u48SQaRg)
-- [Viperactive - Hunted](https://www.youtube.com/watch?v=iPPvK0jkAqM)
-- [Bandlez - Scouts Honor](https://www.youtube.com/watch?v=sYW2mj6gSFw)
-- [Barely Alive &amp; Samplifire - Power Alliance](https://www.youtube.com/watch?v=YLXcffxHVoY)
-- [Dj Kantik - Teriyaki Boyz - Tokyo Drift &amp; Sean Paul - Temperature &lpar;Remix&rpar;](https://www.youtube.com/watch?v=ou0phHbzz-0)
-- [SWARM - Alpha &amp; Omega &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=nsNSwQr4TIo)
-- [RIOT - Jackknife](https://www.youtube.com/watch?v=O6q1TpmnbWc)
-- [Slipknot - Devil in I &lpar;SYN Remix&rpar;](https://www.youtube.com/watch?v=4fK_dGt5ER4)
-- [Fukkk Offf - Bang Your Head &lpar;Naeleck &amp; KATFYR Remix&rpar;](https://www.youtube.com/watch?v=mGcqpkS6_38)
-- [Bossfight - Nock Em](https://www.youtube.com/watch?v=F0PUVKfxkTM)
-- [Headhunterz &amp; KSHMR – Dharma &lpar;Crossnaders Remix&rpar;](https://www.youtube.com/watch?v=cLJmH12j2-Y)
+- [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
+- [BEAUZ - Keep On Dancing &lpar;feat. Heleen&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=5Fde9CYuRgc)
+- [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
+- [STAR SEED - Cayenne &lpar;feat. Zoe Moon&rpar; [NCS Release]](https://www.youtube.com/watch?v=7pswR_SkCrM)
+- [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
+- [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
+- [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
+- [William Black &amp; Fairlane - Butterflies &lpar;Lyrics&rpar; ft. Dia Frampton](https://www.youtube.com/watch?v=-BBCg82L9gk)
+- [OHEY - World Apart &lpar;feat. DNAKM &amp; Zeru&rpar; [Official Lyric Video]](https://www.youtube.com/watch?v=mkIcDdfHySc)
+- [Porter Robinson - Get your Wish &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=4SZEDBFPpgw)
+- [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
+- [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
+- [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
+- [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
+- [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
