@@ -1,6 +1,4 @@
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Piyush
-</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=71C497&vCenter=true&height=100&lines=Hii+%F0%9F%91%8B+I'm+Piyush)
 
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
@@ -17,21 +15,21 @@
 - ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)**
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
-- [BEAUZ - Keep On Dancing &lpar;feat. Heleen&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=5Fde9CYuRgc)
-- [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
-- [STAR SEED - Cayenne &lpar;feat. Zoe Moon&rpar; [NCS Release]](https://www.youtube.com/watch?v=7pswR_SkCrM)
-- [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
-- [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
-- [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
-- [William Black &amp; Fairlane - Butterflies &lpar;Lyrics&rpar; ft. Dia Frampton](https://www.youtube.com/watch?v=-BBCg82L9gk)
-- [OHEY - World Apart &lpar;feat. DNAKM &amp; Zeru&rpar; [Official Lyric Video]](https://www.youtube.com/watch?v=mkIcDdfHySc)
-- [Porter Robinson - Get your Wish &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=4SZEDBFPpgw)
-- [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
-- [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
-- [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
-- [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
-- [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
+  - [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
+  - [BEAUZ - Keep On Dancing &lpar;feat. Heleen&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=5Fde9CYuRgc)
+  - [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
+  - [STAR SEED - Cayenne &lpar;feat. Zoe Moon&rpar; [NCS Release]](https://www.youtube.com/watch?v=7pswR_SkCrM)
+  - [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
+  - [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
+  - [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
+  - [William Black &amp; Fairlane - Butterflies &lpar;Lyrics&rpar; ft. Dia Frampton](https://www.youtube.com/watch?v=-BBCg82L9gk)
+  - [OHEY - World Apart &lpar;feat. DNAKM &amp; Zeru&rpar; [Official Lyric Video]](https://www.youtube.com/watch?v=mkIcDdfHySc)
+  - [Porter Robinson - Get your Wish &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=4SZEDBFPpgw)
+  - [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
+  - [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
+  - [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
+  - [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
+  - [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
@@ -65,10 +63,14 @@
 </p>
 
 
+## Stats
+
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=troglodytto&count_private=true&show_icons=true&hide=issues&theme=vue&custom_title=My%20Github%20Stats&border_color=41b883&border_radius=18"></img>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=troglodytto&show_icons=true&locale=en&layout=compact&hide=php,html,scss&theme=vue&border_color=41b883&border_radius=18"></img>
 </p>
+
+![Typing SVG](https://activity-graph.herokuapp.com/graph?username=troglodytto&theme=github-light&hide_border=true)
 
 ## Connect
 <p align="center">
