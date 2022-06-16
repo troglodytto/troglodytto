@@ -50,7 +50,6 @@
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
     <img height="48" width="48" src="/Phoenix.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
-    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" />    
 </p>
 
 
