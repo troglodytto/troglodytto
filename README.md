@@ -11,8 +11,9 @@
     - 🧠 Biology
     - 🔑 Crypto **ETH | BTC | XRP | ADA | SOL**
         
-- ### 🦄 **I am working on a simple HTTP/1.1 Server - [hyperion](https://github.com/troglodytto/hyperion)**
-- ### 🦄 **And I am working on a minimal x86 Kernel - [zeno](https://github.com/troglodytto/zeno)**
+- ### 🦄 **I am working on**
+    - **[Hyperion](https://github.com/troglodytto/hyperion)** - A Simple HTTP/1.1 Client/Server
+    - **[Zeno](https://github.com/troglodytto/zeno)** - A minimal x86 Kernel
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
     - [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
