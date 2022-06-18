@@ -16,21 +16,21 @@
     - **[Zeno](https://github.com/troglodytto/zeno)** - A minimal x86 Kernel
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-    - [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
-    - [BEAUZ - Keep On Dancing &lpar;feat. Heleen&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=5Fde9CYuRgc)
-    - [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
-    - [STAR SEED - Cayenne &lpar;feat. Zoe Moon&rpar; [NCS Release]](https://www.youtube.com/watch?v=7pswR_SkCrM)
-    - [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
-    - [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
-    - [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
-    - [William Black &amp; Fairlane - Butterflies &lpar;Lyrics&rpar; ft. Dia Frampton](https://www.youtube.com/watch?v=-BBCg82L9gk)
-    - [OHEY - World Apart &lpar;feat. DNAKM &amp; Zeru&rpar; [Official Lyric Video]](https://www.youtube.com/watch?v=mkIcDdfHySc)
-    - [Porter Robinson - Get your Wish &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=4SZEDBFPpgw)
-    - [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
-    - [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
-    - [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
-    - [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
-    - [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
+- [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
+- [SPIRIT LINK &amp; KataribeSan - Not Okay &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=5wqkt25YF6g)
+- [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
+- [BEAUZ - Keep On Dancing &lpar;feat. Heleen&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=5Fde9CYuRgc)
+- [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
+- [STAR SEED - Cayenne &lpar;feat. Zoe Moon&rpar; [NCS Release]](https://www.youtube.com/watch?v=7pswR_SkCrM)
+- [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
+- [EBEN - My Decree &lpar;feat. Micah Martin&rpar;](https://www.youtube.com/watch?v=IVQkcd706-4)
+- [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
+- [Hahlweg &amp; Midoca - Goodbye](https://www.youtube.com/watch?v=R8sMJcyD1Fs)
+- [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
+- [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
+- [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
+- [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
+- [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
