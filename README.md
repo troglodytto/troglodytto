@@ -26,11 +26,11 @@
 - [EBEN - My Decree &lpar;feat. Micah Martin&rpar;](https://www.youtube.com/watch?v=IVQkcd706-4)
 - [Nirvana - Something In The Way&lpar;Full Epic Trailer Version&rpar; | The Batman Trailer Song](https://www.youtube.com/watch?v=sXFiaJr9los)
 - [Hahlweg &amp; Midoca - Goodbye](https://www.youtube.com/watch?v=R8sMJcyD1Fs)
-- [Jason Ross - Chains &lpar;Lyrics&rpar; with RØRY](https://www.youtube.com/watch?v=i7VlHUyhMgQ)
 - [Cosmo Sheldrake - Birthday Suit &lpar;Lyrics&rpar; | backwards, upside down and inside out](https://www.youtube.com/watch?v=_OviGu1uthM)
 - [Rose Ellen Dix &lpar;feat. Mallory Hunter &amp; Jash&rpar;](https://www.youtube.com/watch?v=1YoFc7Ffxl4)
 - [Scarlet Speedster &lpar;feat. Rhea Raj&rpar;](https://www.youtube.com/watch?v=cKHlfZgNyqk)
 - [Godspeed](https://www.youtube.com/watch?v=mQBy3Bn29KA)
+- [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=iNUFIY4Ho_U)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
