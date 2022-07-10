@@ -20,7 +20,6 @@
 - [SPIRIT LINK &amp; KataribeSan - Not Okay &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=5wqkt25YF6g)
 - [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
 - [Ankahi Baatein - Lofi | Prateek Gandhi | AUM Studio | Lyrical Version](https://www.youtube.com/watch?v=KulkryYStEo)
-- [Beautiful Guitar TikTok Chain by haileyknox but its actually good lol](https://www.youtube.com/watch?v=96Iy7mHGnKc)
 - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
 - [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
 - [EBEN - My Decree &lpar;feat. Micah Martin&rpar;](https://www.youtube.com/watch?v=IVQkcd706-4)
@@ -31,6 +30,7 @@
 - [William Black - Deep Blue &lpar;Lyrics&rpar; ft. Monika Santucci](https://www.youtube.com/watch?v=7i0gz1sVs4w)
 - [spring gang feat. Vicki Vox - Through My Veins](https://www.youtube.com/watch?v=ryeT5_raszQ)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=iNUFIY4Ho_U)
+- [[Electro] - Laszlo - Supernova [Monstercat Release]](https://www.youtube.com/watch?v=PKfxmFU3lWY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
