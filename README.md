@@ -18,7 +18,6 @@
     <!-- BLOG-POST-LIST:START -->
 - [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
 - [SPIRIT LINK &amp; KataribeSan - Not Okay &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=5wqkt25YF6g)
-- [Danny Olson &amp; Highlnd - Not Letting Go &lpar;Lyrics&rpar; feat. Micah Martin](https://www.youtube.com/watch?v=sykRL-bql0o)
 - [Ankahi Baatein - Lofi | Prateek Gandhi | AUM Studio | Lyrical Version](https://www.youtube.com/watch?v=KulkryYStEo)
 - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
 - [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
@@ -27,6 +26,7 @@
 - [Neend Nahi Aave | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio |](https://www.youtube.com/watch?v=17V1UmG_Jv4)
 - [Mharo Des | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio |](https://www.youtube.com/watch?v=Q05tlILANjY)
 - [Hahlweg &amp; Midoca - Goodbye](https://www.youtube.com/watch?v=R8sMJcyD1Fs)
+- [I LOVE YOU - Music Video - Aidan Gallagher](https://www.youtube.com/watch?v=fkPFcnDmH-Q)
 - [William Black - Deep Blue &lpar;Lyrics&rpar; ft. Monika Santucci](https://www.youtube.com/watch?v=7i0gz1sVs4w)
 - [spring gang feat. Vicki Vox - Through My Veins](https://www.youtube.com/watch?v=ryeT5_raszQ)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=iNUFIY4Ho_U)
