@@ -18,9 +18,9 @@
     <!-- BLOG-POST-LIST:START -->
 - [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
 - [SPIRIT LINK &amp; KataribeSan - Not Okay &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=5wqkt25YF6g)
+- [O Re Piya - Rahat Fateh Ali Khan &lpar;Gravero &amp; Veerdo Lofi Remake&rpar;](https://www.youtube.com/watch?v=UNkz_ZRm1cg)
 - [Ankahi Baatein - Lofi | Prateek Gandhi | AUM Studio | Lyrical Version](https://www.youtube.com/watch?v=KulkryYStEo)
 - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
-- [WINARTA - One Love &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=HlAdXLBTQZ4)
 - [EBEN - My Decree &lpar;feat. Micah Martin&rpar;](https://www.youtube.com/watch?v=IVQkcd706-4)
 - [Piya Ko Milan | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio](https://www.youtube.com/watch?v=9T_rpAjvPek)
 - [Neend Nahi Aave | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio |](https://www.youtube.com/watch?v=17V1UmG_Jv4)
