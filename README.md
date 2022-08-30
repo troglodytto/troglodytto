@@ -14,6 +14,7 @@
 - ### 🦄 **I am working on**
     - **[Hyperion](https://github.com/troglodytto/hyperion)** - A Simple HTTP/1.1 Client/Server
     - **[Zeno](https://github.com/troglodytto/zeno)** - A minimal x86 Kernel
+    - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
