@@ -18,7 +18,6 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
-- [SPIRIT LINK &amp; KataribeSan - Not Okay &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=5wqkt25YF6g)
 - [O Re Piya - Rahat Fateh Ali Khan &lpar;Gravero &amp; Veerdo Lofi Remake&rpar;](https://www.youtube.com/watch?v=UNkz_ZRm1cg)
 - [Ankahi Baatein - Lofi | Prateek Gandhi | AUM Studio | Lyrical Version](https://www.youtube.com/watch?v=KulkryYStEo)
 - [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
@@ -31,6 +30,7 @@
 - [William Black - Deep Blue &lpar;Lyrics&rpar; ft. Monika Santucci](https://www.youtube.com/watch?v=7i0gz1sVs4w)
 - [spring gang feat. Vicki Vox - Through My Veins](https://www.youtube.com/watch?v=ryeT5_raszQ)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=iNUFIY4Ho_U)
+- [Jackmoon - Buried Desire](https://www.youtube.com/watch?v=7-8XCvpjO18)
 - [[Electro] - Laszlo - Supernova [Monstercat Release]](https://www.youtube.com/watch?v=PKfxmFU3lWY)
 <!-- BLOG-POST-LIST:END -->
 
