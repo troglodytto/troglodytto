@@ -17,21 +17,21 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Jason Ross &amp; MitiS - Take You Home &lpar;Lyrics&rpar; feat. Dia Frampton](https://www.youtube.com/watch?v=Z0Se_Ylh6-0)
 - [O Re Piya - Rahat Fateh Ali Khan &lpar;Gravero &amp; Veerdo Lofi Remake&rpar;](https://www.youtube.com/watch?v=UNkz_ZRm1cg)
-- [Ankahi Baatein - Lofi | Prateek Gandhi | AUM Studio | Lyrical Version](https://www.youtube.com/watch?v=KulkryYStEo)
-- [Tum Aao Na - Prateek Gandhi | AUM Studio | Official Video](https://www.youtube.com/watch?v=RNLaG6VA7lY)
-- [EBEN - My Decree &lpar;feat. Micah Martin&rpar;](https://www.youtube.com/watch?v=IVQkcd706-4)
-- [Piya Ko Milan | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio](https://www.youtube.com/watch?v=9T_rpAjvPek)
-- [Neend Nahi Aave | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio |](https://www.youtube.com/watch?v=17V1UmG_Jv4)
-- [Mharo Des | Jogan Piya | Animated Video | Prateek Gandhi | Aum Studio |](https://www.youtube.com/watch?v=Q05tlILANjY)
-- [Hahlweg &amp; Midoca - Goodbye](https://www.youtube.com/watch?v=R8sMJcyD1Fs)
-- [I LOVE YOU - Music Video - Aidan Gallagher](https://www.youtube.com/watch?v=fkPFcnDmH-Q)
-- [William Black - Deep Blue &lpar;Lyrics&rpar; ft. Monika Santucci](https://www.youtube.com/watch?v=7i0gz1sVs4w)
-- [spring gang feat. Vicki Vox - Through My Veins](https://www.youtube.com/watch?v=ryeT5_raszQ)
-- [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=iNUFIY4Ho_U)
+- [Let Me Down Slowly x Tose Naina &lpar;Gravero Mashup&rpar; | Full Version](https://www.youtube.com/watch?v=L4Gowg710LQ)
+- [Connor Price - City Lights &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=jvzRJE36i9I)
+- [After Dark - Mr.Kitty &lpar;Music Video&rpar; ft. Ana de Armas &amp; Ryan Gosling](https://www.youtube.com/watch?v=Yfc9nrAj2bo)
+- [Connor Price - You Said &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=tWAcddOMTfY)
+- [OHEY - Call My Name](https://www.youtube.com/watch?v=t3o41oBCj9E)
+- [Ahanu &amp; OHEY - Lone Wolf &lpar;feat. EJEAN&rpar;](https://www.youtube.com/watch?v=VHxpB1_Y5Cc)
+- [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
 - [Jackmoon - Buried Desire](https://www.youtube.com/watch?v=7-8XCvpjO18)
-- [[Electro] - Laszlo - Supernova [Monstercat Release]](https://www.youtube.com/watch?v=PKfxmFU3lWY)
+- [Titanium - David Guetta &lpar;feat. Sia&rpar; - Cole Rolland &lpar;Guitar Cover&rpar;](https://www.youtube.com/watch?v=6MgltQGG568)
+- [All We Know &lpar;Virtual Riot Remix&rpar; - The Chainsmokers - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=rhlR8Qj9fXY)
+- [Alone - Alan Walker - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=3giqbT9h0jM)
+- [Faded &lpar;Slushii Remix&rpar; - Alan Walker - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=kwmn3kFI-Xk)
+- [[Dubstep] - Astronaut - Quantum &lpar;Virtual Riot Remix&rpar; [Monstercat EP Release]](https://www.youtube.com/watch?v=wtc9KcMbsio)
+- [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
