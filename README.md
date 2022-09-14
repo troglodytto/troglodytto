@@ -24,13 +24,13 @@
 - [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
 - [OHEY - Call My Name](https://www.youtube.com/watch?v=t3o41oBCj9E)
 - [Ahanu &amp; OHEY - Lone Wolf &lpar;feat. EJEAN&rpar;](https://www.youtube.com/watch?v=VHxpB1_Y5Cc)
+- [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
 - [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
 - [Titanium - David Guetta &lpar;feat. Sia&rpar; - Cole Rolland &lpar;Guitar Cover&rpar;](https://www.youtube.com/watch?v=6MgltQGG568)
 - [All We Know &lpar;Virtual Riot Remix&rpar; - The Chainsmokers - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=rhlR8Qj9fXY)
 - [Alone - Alan Walker - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=3giqbT9h0jM)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
 - [Faded &lpar;Slushii Remix&rpar; - Alan Walker - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=kwmn3kFI-Xk)
-- [[Dubstep] - Astronaut - Quantum &lpar;Virtual Riot Remix&rpar; [Monstercat EP Release]](https://www.youtube.com/watch?v=wtc9KcMbsio)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
 <!-- BLOG-POST-LIST:END -->
 
