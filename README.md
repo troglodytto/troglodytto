@@ -21,6 +21,7 @@
 - [Connor Price - City Lights &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=jvzRJE36i9I)
 - [After Dark - Mr.Kitty &lpar;Music Video&rpar; ft. Ana de Armas &amp; Ryan Gosling](https://www.youtube.com/watch?v=Yfc9nrAj2bo)
 - [Connor Price - You Said &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=tWAcddOMTfY)
+- [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
 - [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
 - [OHEY - Call My Name](https://www.youtube.com/watch?v=t3o41oBCj9E)
 - [Ahanu &amp; OHEY - Lone Wolf &lpar;feat. EJEAN&rpar;](https://www.youtube.com/watch?v=VHxpB1_Y5Cc)
@@ -30,7 +31,6 @@
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
 - [All We Know &lpar;Virtual Riot Remix&rpar; - The Chainsmokers - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=rhlR8Qj9fXY)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
-- [Faded &lpar;Slushii Remix&rpar; - Alan Walker - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=kwmn3kFI-Xk)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
 <!-- BLOG-POST-LIST:END -->
 
