@@ -29,9 +29,9 @@
 - [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
 - [Titanium - David Guetta &lpar;feat. Sia&rpar; - Cole Rolland &lpar;Guitar Cover&rpar;](https://www.youtube.com/watch?v=6MgltQGG568)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
-- [All We Know &lpar;Virtual Riot Remix&rpar; - The Chainsmokers - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=rhlR8Qj9fXY)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
+- [In the House, in a Heartbeat](https://www.youtube.com/watch?v=ST2H8FWDvEA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
