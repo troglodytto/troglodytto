@@ -17,17 +17,17 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Hoist the Colours | The Bass Singers of TikTok](https://www.youtube.com/watch?v=qlrvzLRgzdc)
+- [&quot;HIDE AND SEEK&quot; IN A STAIRWELL &lpar;Full Cover&rpar; 😱 *Tik Tok Viral!*](https://www.youtube.com/watch?v=YVThI_mFNCM)
 - [Let Me Down Slowly x Tose Naina &lpar;Gravero Mashup&rpar; | Full Version](https://www.youtube.com/watch?v=L4Gowg710LQ)
 - [Connor Price - City Lights &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=jvzRJE36i9I)
 - [After Dark - Mr.Kitty &lpar;Music Video&rpar; ft. Ana de Armas &amp; Ryan Gosling](https://www.youtube.com/watch?v=Yfc9nrAj2bo)
 - [Connor Price - You Said &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=tWAcddOMTfY)
 - [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
 - [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
-- [OHEY - Call My Name](https://www.youtube.com/watch?v=t3o41oBCj9E)
 - [Ahanu &amp; OHEY - Lone Wolf &lpar;feat. EJEAN&rpar;](https://www.youtube.com/watch?v=VHxpB1_Y5Cc)
 - [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
 - [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
-- [Titanium - David Guetta &lpar;feat. Sia&rpar; - Cole Rolland &lpar;Guitar Cover&rpar;](https://www.youtube.com/watch?v=6MgltQGG568)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
