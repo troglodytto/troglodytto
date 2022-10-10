@@ -25,12 +25,12 @@
 - [Connor Price - You Said &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=tWAcddOMTfY)
 - [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
 - [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
-- [Ahanu &amp; OHEY - Lone Wolf &lpar;feat. EJEAN&rpar;](https://www.youtube.com/watch?v=VHxpB1_Y5Cc)
 - [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
 - [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
+- [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 58 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
 - [In the House, in a Heartbeat](https://www.youtube.com/watch?v=ST2H8FWDvEA)
 <!-- BLOG-POST-LIST:END -->
 
