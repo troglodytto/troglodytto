@@ -18,15 +18,15 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Hoist the Colours | The Bass Singers of TikTok](https://www.youtube.com/watch?v=qlrvzLRgzdc)
+- [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
+- [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
 - [&quot;HIDE AND SEEK&quot; IN A STAIRWELL &lpar;Full Cover&rpar; 😱 *Tik Tok Viral!*](https://www.youtube.com/watch?v=YVThI_mFNCM)
-- [Let Me Down Slowly x Tose Naina &lpar;Gravero Mashup&rpar; | Full Version](https://www.youtube.com/watch?v=L4Gowg710LQ)
 - [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
 - [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
 - [After Dark - Mr.Kitty &lpar;Music Video&rpar; ft. Ana de Armas &amp; Ryan Gosling](https://www.youtube.com/watch?v=Yfc9nrAj2bo)
 - [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
 - [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
 - [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
-- [WASTED - huken x murkish &lpar;remix of juice wrld&rpar; [original, not nightcore]](https://www.youtube.com/watch?v=xTpfZJ2h3CU)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
 - [Kavinsky - Nightcall &lpar;Drive Original Movie Soundtrack&rpar; &lpar;Official Audio&rpar;](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
