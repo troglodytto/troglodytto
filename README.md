@@ -71,7 +71,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=troglodytto&show_icons=true&locale=en&layout=compact&hide=php,html,scss&theme=vue&border_color=41b883&border_radius=16"></img>
 </p>
 
-![Typing SVG](https://activity-graph.herokuapp.com/graph?username=troglodytto&theme=github-light&hide_border=true)
+![Typing SVG](https://github-readme-activity-graph.cyclic.app/graph?username=troglodytto&theme=github-light&hide_border=true)
 
 ## Connect
 <p align="center">
