@@ -30,7 +30,7 @@
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
 - [Watercolour - Pendulum - Cole Rolland &lpar;Guitar Remix&rpar;](https://www.youtube.com/watch?v=NisseYQzOrc)
-- [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 58 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
+- [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 59 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
 - [In the House, in a Heartbeat](https://www.youtube.com/watch?v=ST2H8FWDvEA)
 <!-- BLOG-POST-LIST:END -->
 
