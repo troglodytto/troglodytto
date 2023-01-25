@@ -25,11 +25,11 @@
 - [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
 - [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
 - [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
+- [Uplifting](https://www.youtube.com/watch?v=Nr39dU5lzss)
 - [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
 - [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
-- [Full Video: Le Le Maza Le | Wanted | Salman Khan, Ayesha Takia | Sajid -Wajid](https://www.youtube.com/watch?v=Q7kv9nuhTB8)
 - [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 59 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
 - [In the House, in a Heartbeat](https://www.youtube.com/watch?v=ST2H8FWDvEA)
 <!-- BLOG-POST-LIST:END -->
