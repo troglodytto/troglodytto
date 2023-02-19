@@ -17,7 +17,6 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Connor Price &amp; Zensery - Drop &lpar;Official Lyric Video&rpar; 🇩🇪 🌍](https://www.youtube.com/watch?v=pUROT2f6azM)
 - [Hoist the Colours | The Bass Singers of TikTok](https://www.youtube.com/watch?v=qlrvzLRgzdc)
 - [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
 - [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
@@ -26,6 +25,7 @@
 - [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
 - [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
 - [CYBERPUNK 2077 Soundtrack I Really Want to Stay At Your House &lpar;Acoustic Cover&rpar;](https://www.youtube.com/watch?v=JVzERlysvts)
+- [Lil Dicky - Earth &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=pvuN_WvF1to)
 - [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Steve Aoki &amp; Louis Tomlinson - Just Hold On &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Vt4Tq89R8u0)
