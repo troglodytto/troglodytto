@@ -17,6 +17,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
 - [Hoist the Colours | The Bass Singers of TikTok](https://www.youtube.com/watch?v=qlrvzLRgzdc)
 - [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
 - [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
@@ -31,7 +32,6 @@
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Let Go](https://www.youtube.com/watch?v=FZfUsZmlvKQ)
 - [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 59 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
-- [In the House, in a Heartbeat](https://www.youtube.com/watch?v=ST2H8FWDvEA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
