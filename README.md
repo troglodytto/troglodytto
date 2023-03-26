@@ -18,7 +18,6 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
-- [Hoist the Colours | The Bass Singers of TikTok](https://www.youtube.com/watch?v=qlrvzLRgzdc)
 - [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
 - [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
 - [Gelida &amp; Otto Palmborg - Drown](https://www.youtube.com/watch?v=HwSQZYSHpI4)
@@ -28,6 +27,7 @@
 - [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
 - [Chaand Baaliyan - Aditya A. &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Xi8Fabcb_MA)
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
+- [Tom&#39;s Diner &lpar;Cover&rpar; - AnnenMayKantereit x Giant Rooks](https://www.youtube.com/watch?v=5r3B7yz6J68)
 - [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Let Go](https://www.youtube.com/watch?v=FZfUsZmlvKQ)
