@@ -30,8 +30,8 @@
 - [Tom&#39;s Diner &lpar;Cover&rpar; - AnnenMayKantereit x Giant Rooks](https://www.youtube.com/watch?v=5r3B7yz6J68)
 - [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
-- [Jai Wolf - Indian Summer &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=qbGZDEFHBmc)
 - [Let Go](https://www.youtube.com/watch?v=FZfUsZmlvKQ)
+- [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 59 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
