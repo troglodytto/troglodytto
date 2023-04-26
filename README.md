@@ -21,17 +21,17 @@
 - [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
 - [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
 - [Gelida &amp; Otto Palmborg - Drown](https://www.youtube.com/watch?v=HwSQZYSHpI4)
-- [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
 - [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
-- [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
 - [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
 - [Chaand Baaliyan - Aditya A. &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Xi8Fabcb_MA)
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
 - [Tom&#39;s Diner &lpar;Cover&rpar; - AnnenMayKantereit x Giant Rooks](https://www.youtube.com/watch?v=5r3B7yz6J68)
 - [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
+- [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
+- [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
 - [Let Go](https://www.youtube.com/watch?v=FZfUsZmlvKQ)
-- [The Animals - House of the Rising Sun &lpar;1964&rpar; HQ/Widescreen ♫ 59 YEARS AGO](https://www.youtube.com/watch?v=4-43lLKaqBQ)
+- [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
