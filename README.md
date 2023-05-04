@@ -30,7 +30,6 @@
 - [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
 - [Vories - Hold You &lpar;feat. Adrian Carter&rpar;](https://www.youtube.com/watch?v=SP466uyc3qw)
 - [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
-- [Let Go](https://www.youtube.com/watch?v=FZfUsZmlvKQ)
 - [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
 <!-- BLOG-POST-LIST:END -->
 
