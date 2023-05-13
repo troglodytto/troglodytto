@@ -17,11 +17,11 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
 - [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
-- [Tokyo Rain](https://www.youtube.com/watch?v=xzAU_SdXoUE)
-- [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=NS9z2QHcZdY)
-- [Gelida &amp; Otto Palmborg - Drown](https://www.youtube.com/watch?v=HwSQZYSHpI4)
 - [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
+- [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
+- [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
 - [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
 - [Chaand Baaliyan - Aditya A. &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Xi8Fabcb_MA)
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
