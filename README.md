@@ -45,11 +45,11 @@
     <img height="48" width="48" src="https://cutt.ly/ohUXfm2" />
     <img height="48" width="48" src="https://cutt.ly/dhUZ9V9" />
     <img height="48" width="48" src="https://cutt.ly/DhUXg0n" />
-    <img height="48" width="48" src="/Docker.svg" />
+    <img height="48" width="48" src="./Docker.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-    <img height="48" width="48" src="/Phoenix.svg" />
+    <img height="48" width="48" src="./Phoenix.svg" />
     <img height="48" width="48" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
 </p>
 
