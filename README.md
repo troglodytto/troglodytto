@@ -24,13 +24,14 @@
 - [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
 - [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
 - [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
-- [Chaand Baaliyan - Aditya A. &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=Xi8Fabcb_MA)
+- [Jaane Wo Kaise Log The Jinke Pyar Ko Pyar Mila - Hemant Kumar Best Sad Song](https://www.youtube.com/watch?v=JZTLMg9IUEs)
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
 - [Tom&#39;s Diner &lpar;Cover&rpar; - AnnenMayKantereit x Giant Rooks](https://www.youtube.com/watch?v=5r3B7yz6J68)
-- [Lost Stories - Mahi &lpar;feat. Kavita Seth&rpar; [Official Audio]](https://www.youtube.com/watch?v=Y62PkyGJnlw)
 - [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
+- [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
 - [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
 - [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
+- [Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song](https://www.youtube.com/watch?v=TFr6G5zveS8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
