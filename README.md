@@ -20,7 +20,6 @@
 - [Na Sata &lpar;Audio Song&rpar;: Highway Love | Streaming Now | Amazon miniTV | New Love Song 2023](https://www.youtube.com/watch?v=uSJyIlXebz8)
 - [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
 - [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
-- [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
 - [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
 - [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
 - [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
@@ -31,6 +30,7 @@
 - [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
 - [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
 - [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
+- [Apparat - Goodbye - Dark &lpar;Netflix&rpar; Theme Song](https://www.youtube.com/watch?v=66VnOdk6oto)
 - [Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song](https://www.youtube.com/watch?v=TFr6G5zveS8)
 <!-- BLOG-POST-LIST:END -->
 
