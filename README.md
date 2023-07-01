@@ -17,7 +17,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Na Sata &lpar;Audio Song&rpar;: Highway Love | Streaming Now | Amazon miniTV | New Love Song 2023](https://www.youtube.com/watch?v=uSJyIlXebz8)
+- [Na Sata &lpar;Audio Song&rpar;: Highway Love | Streaming Now |Amazon miniTV |New Love Song 2023 @saudurmusic](https://www.youtube.com/watch?v=uSJyIlXebz8)
 - [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
 - [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
 - [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
