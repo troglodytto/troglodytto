@@ -18,13 +18,13 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
-- [CALL OF DUTY: MODERN WARFARE 2 - Main Theme Music &lpar;Official Soundtrack&rpar;](https://www.youtube.com/watch?v=NPrqIgVpYrk)
+- [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
+- [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
+- [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
 - [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
 - [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
-- [ELEVEN KINGDOMS - Blood On Ice &lpar;Epic Emotional Vocal and Violin Music&rpar;](https://www.youtube.com/watch?v=5hKVcy1omsY)
 - [Jaane Wo Kaise Log The Jinke Pyar Ko Pyar Mila - Hemant Kumar Best Sad Song](https://www.youtube.com/watch?v=JZTLMg9IUEs)
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
-- [Tom&#39;s Diner &lpar;Cover&rpar; - AnnenMayKantereit x Giant Rooks](https://www.youtube.com/watch?v=5r3B7yz6J68)
 - [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
 - [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
 - [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
