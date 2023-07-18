@@ -18,6 +18,7 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
+- [The Hammer of Thor &lpar;Extended Version&rpar; - God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=RYsEF7B7wZE)
 - [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
 - [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
 - [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
@@ -27,7 +28,6 @@
 - [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
 - [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
 - [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
-- [Anevo - Don&#39;t Shoot Me Down &lpar;feat. Jae-Mi&rpar; [Monstercat Release]](https://www.youtube.com/watch?v=n1MbdC5aP40)
 - [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
 - [Apparat - Goodbye - Dark &lpar;Netflix&rpar; Theme Song](https://www.youtube.com/watch?v=66VnOdk6oto)
 - [Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song](https://www.youtube.com/watch?v=TFr6G5zveS8)
