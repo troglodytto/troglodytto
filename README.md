@@ -17,15 +17,15 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [ＴＨＥ　ＥＮＤ](https://www.youtube.com/watch?v=vpvQfCLWOn8)
 - [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
+- [Sun Maahi x Tu Jaane Na &lpar;Gravero Mashup&rpar; | @ArmaanMalikOfficial](https://www.youtube.com/watch?v=YstfTBmV-hI)
+- [Armaan Malik - Sun Maahi &lpar;Official Music Video&rpar; | Amaal Mallik, Kunaal Vermaa | Always Music Global](https://www.youtube.com/watch?v=OYKFJxUxiYk)
 - [The Hammer of Thor &lpar;Extended Version&rpar; - God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=RYsEF7B7wZE)
-- [Abe Parker - Butterflies &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=03l71gpGpBI)
-- [As They Make Circles](https://www.youtube.com/watch?v=oxH6aaRRbA8)
-- [Abe Parker - Stupid Face &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=uo_k9Yi9eBY)
+- [Pink Blue x Saude Baazi - Mega Mashup &lpar;Gravero x @SushYohanMusic &rpar; | @GULLYGANG](https://www.youtube.com/watch?v=CJNA6EOZmjI)
 - [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
 - [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
 - [Jaane Wo Kaise Log The Jinke Pyar Ko Pyar Mila - Hemant Kumar Best Sad Song](https://www.youtube.com/watch?v=JZTLMg9IUEs)
-- [12 Timelapse - The Art Of Loneliness](https://www.youtube.com/watch?v=cN5AIcS6Gok)
 - [Tails &amp; Inverness - Skeleton &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=bZnR9QwbbxI)
 - [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
 - [[House] - Au5 &amp; Fractal - Dreaming [Monstercat EP Release]](https://www.youtube.com/watch?v=I1sNOxCWp8c)
