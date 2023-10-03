@@ -17,19 +17,20 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [ＴＨＥ　ＥＮＤ](https://www.youtube.com/watch?v=vpvQfCLWOn8)
-- [ALTÉGO - Bling Bling &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=X5nznCkZrHs)
+- [Eunoia &amp; Soar - Still Breathing ft. She Is Jules [Arctic Empire Release] | Melodic Dubstep](https://www.youtube.com/watch?v=Vhqysh1BHCQ)
 - [Sun Maahi x Tu Jaane Na &lpar;Gravero Mashup&rpar; | @ArmaanMalikOfficial](https://www.youtube.com/watch?v=YstfTBmV-hI)
 - [Armaan Malik - Sun Maahi &lpar;Official Music Video&rpar; | Amaal Mallik, Kunaal Vermaa | Always Music Global](https://www.youtube.com/watch?v=OYKFJxUxiYk)
 - [The Hammer of Thor &lpar;Extended Version&rpar; - God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=RYsEF7B7wZE)
 - [Pink Blue x Saude Baazi - Mega Mashup &lpar;Gravero x @SushYohanMusic &rpar; | @GULLYGANG](https://www.youtube.com/watch?v=CJNA6EOZmjI)
 - [Путь к своим](https://www.youtube.com/watch?v=zMQIHQZV308)
-- [Dune &lpar;2021&rpar; - Ultimate Soundtrack Suite](https://www.youtube.com/watch?v=F6I1iw6RdLk)
-- [Dune Official Soundtrack | Paul&#39;s Dream – Hans Zimmer | WaterTower](https://www.youtube.com/watch?v=BdtiYwSP9ko)
-- [Jaane Wo Kaise Log The Jinke Pyar Ko Pyar Mila - Hemant Kumar Best Sad Song](https://www.youtube.com/watch?v=JZTLMg9IUEs)
-- [Bade Achhe Lagte Hai Song with lyrics | बड़े अच्छे लगते है गाने | Balika Badhu | Sachin | Rajni](https://www.youtube.com/watch?v=p5EeJ9bHAOI)
-- [Apparat - Goodbye - Dark &lpar;Netflix&rpar; Theme Song](https://www.youtube.com/watch?v=66VnOdk6oto)
-- [Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Romantic Song](https://www.youtube.com/watch?v=TFr6G5zveS8)
+- [ILLENIUM - Crashing ft. Bahari](https://www.youtube.com/watch?v=Q6jnXN_nTlY)
+- [Halsey - Without Me &lpar;ILLENIUM Remix/Audio&rpar;](https://www.youtube.com/watch?v=xVrNFaeMvP8)
+- [MitiS - Moments &lpar;feat. Adara&rpar;](https://www.youtube.com/watch?v=R19uQyfwqhg)
+- [Said The Sky - All I Got &lpar;Lyrics / Lyric Video&rpar; With Kwesi](https://www.youtube.com/watch?v=X-sIsWrqAaU)
+- [Gryffin, Illenium - Feel Good ft. Daya](https://www.youtube.com/watch?v=gBkWR-WfEeU)
+- [Illenium - Fractures &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=ZCu2gwLj9ok)
+- [ILLENIUM - Reverie ft. King Deco](https://www.youtube.com/watch?v=AcwyvOkS9BA)
+- [Illenium - Afterlife &lpar;feat. ECHOS&rpar;](https://www.youtube.com/watch?v=f4kqIruQcvQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
