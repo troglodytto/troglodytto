@@ -17,10 +17,10 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [a classical mix for a prince building his empire](https://www.youtube.com/watch?v=iDyWWtY-Xaw)
 - [Eunoia &amp; Soar - Still Breathing ft. She Is Jules [Arctic Empire Release] | Melodic Dubstep](https://www.youtube.com/watch?v=Vhqysh1BHCQ)
 - [Sun Maahi x Tu Jaane Na &lpar;Gravero Mashup&rpar; | @ArmaanMalikOfficial](https://www.youtube.com/watch?v=YstfTBmV-hI)
 - [Armaan Malik - Sun Maahi &lpar;Official Music Video&rpar; | Amaal Mallik, Kunaal Vermaa | Always Music Global](https://www.youtube.com/watch?v=OYKFJxUxiYk)
-- [Pink Blue x Saude Baazi - Mega Mashup &lpar;Gravero x @SushYohanMusic &rpar; | @GULLYGANG](https://www.youtube.com/watch?v=CJNA6EOZmjI)
 - [Путь к своим](https://www.youtube.com/watch?v=zMQIHQZV308)
 - [ILLENIUM - Crashing ft. Bahari](https://www.youtube.com/watch?v=Q6jnXN_nTlY)
 - [Halsey - Without Me &lpar;ILLENIUM Remix/Audio&rpar;](https://www.youtube.com/watch?v=xVrNFaeMvP8)
