@@ -19,9 +19,9 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [do you even care? &lpar;playlist&rpar;](https://www.youtube.com/watch?v=WiTCs_lOmGU)
+- [00:00 &lpar;Slowed&rpar;](https://www.youtube.com/watch?v=gMx4CSW5NUE)
 - [a classical mix for a prince building his empire](https://www.youtube.com/watch?v=iDyWWtY-Xaw)
 - [Eunoia &amp; Soar - Still Breathing ft. She Is Jules [Arctic Empire Release] | Melodic Dubstep](https://www.youtube.com/watch?v=Vhqysh1BHCQ)
-- [Armaan Malik - Sun Maahi &lpar;Official Music Video&rpar; | Amaal Mallik, Kunaal Vermaa | Always Music Global](https://www.youtube.com/watch?v=OYKFJxUxiYk)
 - [Путь к своим](https://www.youtube.com/watch?v=zMQIHQZV308)
 - [ILLENIUM - Crashing ft. Bahari](https://www.youtube.com/watch?v=Q6jnXN_nTlY)
 - [Halsey - Without Me &lpar;ILLENIUM Remix/Audio&rpar;](https://www.youtube.com/watch?v=xVrNFaeMvP8)
