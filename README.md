@@ -18,20 +18,20 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [a playlist to romanticize studying physics](https://www.youtube.com/watch?v=NSislM08uWM)
 - [do you even care? &lpar;playlist&rpar;](https://www.youtube.com/watch?v=WiTCs_lOmGU)
 - [00:00 &lpar;Slowed&rpar;](https://www.youtube.com/watch?v=gMx4CSW5NUE)
 - [a classical mix for a prince building his empire](https://www.youtube.com/watch?v=iDyWWtY-Xaw)
-- [Eunoia &amp; Soar - Still Breathing ft. She Is Jules [Arctic Empire Release] | Melodic Dubstep](https://www.youtube.com/watch?v=Vhqysh1BHCQ)
 - [you&#39;re high on mushrooms in the viking age, the gods are everywhere &lpar;playlist&rpar;](https://www.youtube.com/watch?v=5Al0QXzRFF8)
+- [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
 - [you meet an old lover and all the memories are coming back [ playlist ]](https://www.youtube.com/watch?v=iJzJ7d5CK4A)
 - [ILLENIUM - Crashing ft. Bahari](https://www.youtube.com/watch?v=Q6jnXN_nTlY)
 - [Halsey - Without Me &lpar;ILLENIUM Remix/Audio&rpar;](https://www.youtube.com/watch?v=xVrNFaeMvP8)
 - [Seven Lions, Tritonal &amp; Kill The Noise - Horizon &lpar;feat. HALIENE&rpar;](https://www.youtube.com/watch?v=Qg9LZgzyNxc)
+- [Deep Cello Meditation Music: Dark Meditation Music, Relaxing Music, Dark Cello Music for Relaxation](https://www.youtube.com/watch?v=k68thGEDlx8)
 - [MitiS - Moments &lpar;feat. Adara&rpar;](https://www.youtube.com/watch?v=R19uQyfwqhg)
 - [Said The Sky - All I Got &lpar;Lyrics / Lyric Video&rpar; With Kwesi](https://www.youtube.com/watch?v=X-sIsWrqAaU)
 - [Gryffin, Illenium - Feel Good ft. Daya](https://www.youtube.com/watch?v=gBkWR-WfEeU)
-- [Illenium - Fractures &lpar;feat. Nevve&rpar;](https://www.youtube.com/watch?v=ZCu2gwLj9ok)
-- [ILLENIUM - Reverie ft. King Deco](https://www.youtube.com/watch?v=AcwyvOkS9BA)
 - [Illenium - Afterlife &lpar;feat. ECHOS&rpar;](https://www.youtube.com/watch?v=f4kqIruQcvQ)
 <!-- BLOG-POST-LIST:END -->
 
