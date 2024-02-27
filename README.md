@@ -26,13 +26,13 @@
 - [did you just say classical music is boring?! &lpar;playlist&rpar;](https://www.youtube.com/watch?v=o2gGD4ewTNA)
 - [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
 - [you meet an old lover and all the memories are coming back [ playlist ]](https://www.youtube.com/watch?v=iJzJ7d5CK4A)
-- [ILLENIUM - Crashing ft. Bahari](https://www.youtube.com/watch?v=Q6jnXN_nTlY)
 - [Seven Lions, Tritonal &amp; Kill The Noise - Horizon &lpar;feat. HALIENE&rpar;](https://www.youtube.com/watch?v=Qg9LZgzyNxc)
 - [Deep Cello Meditation Music: Dark Meditation Music, Relaxing Music, Dark Cello Music for Relaxation](https://www.youtube.com/watch?v=k68thGEDlx8)
 - [MitiS - Moments &lpar;feat. Adara&rpar;](https://www.youtube.com/watch?v=R19uQyfwqhg)
 - [Said The Sky - All I Got &lpar;Lyrics / Lyric Video&rpar; With Kwesi](https://www.youtube.com/watch?v=X-sIsWrqAaU)
 - [Gryffin, Illenium - Feel Good ft. Daya](https://www.youtube.com/watch?v=gBkWR-WfEeU)
 - [Illenium - Afterlife &lpar;feat. ECHOS&rpar;](https://www.youtube.com/watch?v=f4kqIruQcvQ)
+- [Dmitri Shostakovich - Waltz No. 2](https://www.youtube.com/watch?v=mmCnQDUSO4I)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
