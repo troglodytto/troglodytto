@@ -28,10 +28,10 @@
 - [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
 - [you meet an old lover and all the memories are coming back [ playlist ]](https://www.youtube.com/watch?v=iJzJ7d5CK4A)
 - [3 Hours of Dark Folk - Shamanic - Norse Music by Munknörr](https://www.youtube.com/watch?v=HDS1q0r04Ks)
+- [SLANDER &amp; Said The Sky - Potions &lpar;Lyrics&rpar; William Black Remix](https://www.youtube.com/watch?v=OizdS6LQ-DE)
 - [Seven Lions, Tritonal &amp; Kill The Noise - Horizon &lpar;feat. HALIENE&rpar;](https://www.youtube.com/watch?v=Qg9LZgzyNxc)
 - [Deep Cello Meditation Music: Dark Meditation Music, Relaxing Music, Dark Cello Music for Relaxation](https://www.youtube.com/watch?v=k68thGEDlx8)
 - [Said The Sky - All I Got &lpar;Lyrics / Lyric Video&rpar; With Kwesi](https://www.youtube.com/watch?v=X-sIsWrqAaU)
-- [Illenium - Afterlife &lpar;feat. ECHOS&rpar;](https://www.youtube.com/watch?v=f4kqIruQcvQ)
 - [Dmitri Shostakovich - Waltz No. 2](https://www.youtube.com/watch?v=mmCnQDUSO4I)
 <!-- BLOG-POST-LIST:END -->
 
