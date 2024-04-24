@@ -18,10 +18,13 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [a playlist to romanticize studying physics](https://www.youtube.com/watch?v=NSislM08uWM)
 - [do you even care? &lpar;playlist&rpar;](https://www.youtube.com/watch?v=WiTCs_lOmGU)
 - [00:00 &lpar;Slowed&rpar;](https://www.youtube.com/watch?v=gMx4CSW5NUE)
 - [a classical mix for a prince building his empire](https://www.youtube.com/watch?v=iDyWWtY-Xaw)
 - [Back To You](https://www.youtube.com/watch?v=OJRm1gQzuuk)
+- [you&#39;re high on mushrooms in the viking age, the gods are everywhere &lpar;playlist&rpar;](https://www.youtube.com/watch?v=5Al0QXzRFF8)
+- [did you just say classical music is boring?! &lpar;playlist&rpar;](https://www.youtube.com/watch?v=o2gGD4ewTNA)
 - [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
 - [you meet an old lover and all the memories are coming back [ playlist ]](https://www.youtube.com/watch?v=iJzJ7d5CK4A)
 - [3 Hours of Dark Folk - Shamanic - Norse Music by Munknörr](https://www.youtube.com/watch?v=HDS1q0r04Ks)
