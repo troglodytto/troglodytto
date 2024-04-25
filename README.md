@@ -18,6 +18,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [you&#39;re dancing with someone that doesn&#39;t exist [ dark academia playlist ]](https://www.youtube.com/watch?v=smCCtyPkHDs)
 - [a playlist to romanticize studying physics](https://www.youtube.com/watch?v=NSislM08uWM)
 - [do you even care? &lpar;playlist&rpar;](https://www.youtube.com/watch?v=WiTCs_lOmGU)
 - [00:00 &lpar;Slowed&rpar;](https://www.youtube.com/watch?v=gMx4CSW5NUE)
@@ -29,9 +30,8 @@
 - [you meet an old lover and all the memories are coming back [ playlist ]](https://www.youtube.com/watch?v=iJzJ7d5CK4A)
 - [3 Hours of Dark Folk - Shamanic - Norse Music by Munknörr](https://www.youtube.com/watch?v=HDS1q0r04Ks)
 - [SLANDER &amp; Said The Sky - Potions &lpar;Lyrics&rpar; William Black Remix](https://www.youtube.com/watch?v=OizdS6LQ-DE)
-- [Seven Lions, Tritonal &amp; Kill The Noise - Horizon &lpar;feat. HALIENE&rpar;](https://www.youtube.com/watch?v=Qg9LZgzyNxc)
 - [Deep Cello Meditation Music: Dark Meditation Music, Relaxing Music, Dark Cello Music for Relaxation](https://www.youtube.com/watch?v=k68thGEDlx8)
-- [Said The Sky - All I Got &lpar;Lyrics / Lyric Video&rpar; With Kwesi](https://www.youtube.com/watch?v=X-sIsWrqAaU)
+- [K. 626 Mozart Requiem in D minor, Lacrimosa dies illa](https://www.youtube.com/watch?v=1u2fCJwW8Ys)
 - [Dmitri Shostakovich - Waltz No. 2](https://www.youtube.com/watch?v=mmCnQDUSO4I)
 <!-- BLOG-POST-LIST:END -->
 
