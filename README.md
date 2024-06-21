@@ -20,9 +20,9 @@
     <!-- BLOG-POST-LIST:START -->
 - [you&#39;re dancing with someone that doesn&#39;t exist [ dark academia playlist ]](https://www.youtube.com/watch?v=smCCtyPkHDs)
 - [a playlist to romanticize studying physics](https://www.youtube.com/watch?v=NSislM08uWM)
+- [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
 - [Back To You](https://www.youtube.com/watch?v=OJRm1gQzuuk)
 - [Lost Stories, @JAIDHIR - Leja [Official Lyric Video] | Marigold Soundsystem](https://www.youtube.com/watch?v=ryMgQEbda-M)
-- [you&#39;re high on mushrooms in the viking age, the gods are everywhere &lpar;playlist&rpar;](https://www.youtube.com/watch?v=5Al0QXzRFF8)
 - [did you just say classical music is boring?! &lpar;playlist&rpar;](https://www.youtube.com/watch?v=o2gGD4ewTNA)
 - [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
 - [3 Hours of Dark Folk - Shamanic - Norse Music by Munknörr](https://www.youtube.com/watch?v=HDS1q0r04Ks)
