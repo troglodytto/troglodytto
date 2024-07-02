@@ -19,18 +19,18 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [you&#39;re dancing with someone that doesn&#39;t exist [ dark academia playlist ]](https://www.youtube.com/watch?v=smCCtyPkHDs)
-- [a playlist to romanticize studying physics](https://www.youtube.com/watch?v=NSislM08uWM)
 - [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
 - [Back To You](https://www.youtube.com/watch?v=OJRm1gQzuuk)
 - [Lost Stories, @JAIDHIR - Leja [Official Lyric Video] | Marigold Soundsystem](https://www.youtube.com/watch?v=ryMgQEbda-M)
-- [did you just say classical music is boring?! &lpar;playlist&rpar;](https://www.youtube.com/watch?v=o2gGD4ewTNA)
-- [Most Dramatic Dark Cello Music For Villains | ENIGMA 2 Mix by Gothic Storm](https://www.youtube.com/watch?v=YSC2ESLKPHo)
+- [Bear McCreary - The Hammer of Thor | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=mSenytFVorc)
+- [Bear McCreary - Asgard | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=AOrXnh1mgv0)
+- [Bear McCreary - The Hidden Beast | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=6g1yXSUFAFU)
+- [Bear McCreary - God of War Ragnarök | God of War Ragnarök &lpar;Original Soundtrack&rpar; ft. Eivør](https://www.youtube.com/watch?v=V5Ar0dKnl6Y)
 - [3 Hours of Dark Folk - Shamanic - Norse Music by Munknörr](https://www.youtube.com/watch?v=HDS1q0r04Ks)
 - [Marshmello &amp; Demi Lovato - OK Not To Be OK &lpar;Lost Stories Remix&rpar; [Diwali Visualiser]](https://www.youtube.com/watch?v=Ss2-Ds9IV-g)
 - [Lost Stories - Mai Ni Meriye &lpar;feat. Jonita Gandhi &amp; Ashwin Adwani&rpar; [Official Visualizer]](https://www.youtube.com/watch?v=uuF45i8bOF0)
 - [SLANDER &amp; Said The Sky - Potions &lpar;Lyrics&rpar; William Black Remix](https://www.youtube.com/watch?v=OizdS6LQ-DE)
 - [Hanuman Chalisa - Repeated 19 times for Good Health | Shekhar Ravjiani | Zee Music Devotional](https://www.youtube.com/watch?v=_Cligpt5Qew)
-- [Deep Cello Meditation Music: Dark Meditation Music, Relaxing Music, Dark Cello Music for Relaxation](https://www.youtube.com/watch?v=k68thGEDlx8)
 - [K. 626 Mozart Requiem in D minor, Lacrimosa dies illa](https://www.youtube.com/watch?v=1u2fCJwW8Ys)
 - [Dmitri Shostakovich - Waltz No. 2](https://www.youtube.com/watch?v=mmCnQDUSO4I)
 <!-- BLOG-POST-LIST:END -->
