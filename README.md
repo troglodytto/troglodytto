@@ -18,21 +18,21 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [you&#39;re dancing with someone that doesn&#39;t exist [ dark academia playlist ]](https://www.youtube.com/watch?v=smCCtyPkHDs)
+- [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
 - [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
-- [Lost Stories, @JAIDHIR - Leja [Official Lyric Video] | Marigold Soundsystem](https://www.youtube.com/watch?v=ryMgQEbda-M)
+- [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
+- [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
 - [Bear McCreary - The Hammer of Thor | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=mSenytFVorc)
 - [Bear McCreary - Asgard | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=AOrXnh1mgv0)
 - [Bear McCreary - The Hidden Beast | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=6g1yXSUFAFU)
 - [Bear McCreary - God of War Ragnarök | God of War Ragnarök &lpar;Original Soundtrack&rpar; ft. Eivør](https://www.youtube.com/watch?v=V5Ar0dKnl6Y)
 - [The Marías - Hush](https://www.youtube.com/watch?v=jFy03i_LRO8)
-- [Marshmello &amp; Demi Lovato - OK Not To Be OK &lpar;Lost Stories Remix&rpar; [Diwali Visualiser]](https://www.youtube.com/watch?v=Ss2-Ds9IV-g)
-- [Lost Stories - Mai Ni Meriye &lpar;feat. Jonita Gandhi &amp; Ashwin Adwani&rpar; [Official Visualizer]](https://www.youtube.com/watch?v=uuF45i8bOF0)
+- [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
 - [Hanuman Chalisa - Repeated 19 times for Good Health | Shekhar Ravjiani | Zee Music Devotional](https://www.youtube.com/watch?v=_Cligpt5Qew)
 - [Peaks Pass](https://www.youtube.com/watch?v=dS93aMOwTlc)
 - [Stone Mason](https://www.youtube.com/watch?v=F0TObQIyqRE)
 - [Witch of the Woods](https://www.youtube.com/watch?v=f-ze_jEwK-Y)
-- [K. 626 Mozart Requiem in D minor, Lacrimosa dies illa](https://www.youtube.com/watch?v=1u2fCJwW8Ys)
+- [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
