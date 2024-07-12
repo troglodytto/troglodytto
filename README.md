@@ -20,6 +20,7 @@
     <!-- BLOG-POST-LIST:START -->
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
 - [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
+- [Lost Stories, @JAIDHIR - Taaj &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=jVDlth1HY9g)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
 - [Bear McCreary - The Hammer of Thor | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=mSenytFVorc)
@@ -28,7 +29,6 @@
 - [Bear McCreary - God of War Ragnarök | God of War Ragnarök &lpar;Original Soundtrack&rpar; ft. Eivør](https://www.youtube.com/watch?v=V5Ar0dKnl6Y)
 - [The Marías - Hush](https://www.youtube.com/watch?v=jFy03i_LRO8)
 - [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
-- [Hanuman Chalisa - Repeated 19 times for Good Health | Shekhar Ravjiani | Zee Music Devotional](https://www.youtube.com/watch?v=_Cligpt5Qew)
 - [Peaks Pass](https://www.youtube.com/watch?v=dS93aMOwTlc)
 - [Stone Mason](https://www.youtube.com/watch?v=F0TObQIyqRE)
 - [Witch of the Woods](https://www.youtube.com/watch?v=f-ze_jEwK-Y)
