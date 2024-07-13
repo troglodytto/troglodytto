@@ -20,8 +20,8 @@
     <!-- BLOG-POST-LIST:START -->
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
 - [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
-- [Lost Stories, @JAIDHIR - Taaj &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=jVDlth1HY9g)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
+- [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
 - [Bear McCreary - The Hammer of Thor | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=mSenytFVorc)
 - [Bear McCreary - Asgard | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=AOrXnh1mgv0)
