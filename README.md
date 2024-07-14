@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=71C497&vCenter=true&height=100&lines=Hii+%F0%9F%91%8B+I'm+Piyush)
 
+
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
 - ### **🏫 I'm a Computer Science student.**
@@ -11,7 +12,6 @@
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
     - 🔑 Crypto **ETH | BTC | XRP | ADA | SOL**
-        
 - ### 🦄 **I am working on**
     - **[Hyperion](https://github.com/troglodytto/hyperion)** - A Simple HTTP/1.1 Client/Server
     - **[Zeno](https://github.com/troglodytto/zeno)** - A minimal x86 Kernel
@@ -91,4 +91,13 @@
   <a href="https://gitlab.com/troglodytto">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="48" />
   </a>
+</p>
+
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Garlic_bread">
+        <img 
+            height="96" 
+            src="https://github.com/user-attachments/assets/49bb1270-1755-4dc8-8003-b3df39ae5eca"
+        />
+    </a>
 </p>
