@@ -6,8 +6,8 @@
 
 - ### **🏫 I'm a Computer Science student.**
 - ### 🚀 **I am a Senior Software Engineer at [Kroolo](https://kroolo.com/)**
-- ### ⚡ **I work as a Software Engineer at [Rivi](https://rivi.co/)**
-- ### 💼 **I am a Associate Software Engineer at [Decathlon](https://www.decathlon.in/)**
+- ### ⚡ **I used to work as a Software Engineer at [Rivi](https://rivi.co/)**
+- ### 💼 **I was a Associate Software Engineer at [Decathlon](https://www.decathlon.in/)**
 - ### 🤔 **I'm interested in**
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
