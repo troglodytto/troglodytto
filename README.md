@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=71C497&vCenter=true&height=100&lines=Hii+%F0%9F%91%8B+I'm+Piyush)
 
+<h3 align="center">♛ ♜ ♞</h3>
 
 <img align='right' src="https://cutt.ly/lnfmbqL" width="240">
 
