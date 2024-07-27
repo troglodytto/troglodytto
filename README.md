@@ -20,7 +20,6 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
-- [Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]](https://www.youtube.com/watch?v=isMS4918XqY)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
@@ -34,6 +33,7 @@
 - [Stone Mason](https://www.youtube.com/watch?v=F0TObQIyqRE)
 - [Witch of the Woods](https://www.youtube.com/watch?v=f-ze_jEwK-Y)
 - [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
+- [IN THE SHADOWS by AMY STROUP](https://www.youtube.com/watch?v=TynHJ0_amDY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
