@@ -20,11 +20,10 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
+- [JAWAN: Chaleya &lpar;Hindi&rpar; | Shah Rukh Khan | Nayanthara | Atlee | Anirudh | Arijit S, Shilpa R | Kumaar](https://www.youtube.com/watch?v=VAdGW7QDJiU)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
-- [Bear McCreary - The Hammer of Thor | God of War Ragnarök &lpar;Original Soundtrack&rpar;](https://www.youtube.com/watch?v=mSenytFVorc)
-- [Bear McCreary - God of War Ragnarök | God of War Ragnarök &lpar;Original Soundtrack&rpar; ft. Eivør](https://www.youtube.com/watch?v=V5Ar0dKnl6Y)
 - [Cannons - Evening Star &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=oh85XVlf4pI)
 - [The Marías - Hush](https://www.youtube.com/watch?v=jFy03i_LRO8)
 - [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
@@ -34,6 +33,7 @@
 - [Witch of the Woods](https://www.youtube.com/watch?v=f-ze_jEwK-Y)
 - [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
 - [IN THE SHADOWS by AMY STROUP](https://www.youtube.com/watch?v=TynHJ0_amDY)
+- [Inteha Ho Gayi Intezaar Ki - Sharaabi 720p HD](https://www.youtube.com/watch?v=cKWdSUUwgFY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
