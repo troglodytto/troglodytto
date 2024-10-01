@@ -20,20 +20,20 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
-- [JAWAN: Chaleya &lpar;Hindi&rpar; | Shah Rukh Khan | Nayanthara | Atlee | Anirudh | Arijit S, Shilpa R | Kumaar](https://www.youtube.com/watch?v=VAdGW7QDJiU)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
 - [Cannons - Evening Star &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=oh85XVlf4pI)
 - [The Marías - Hush](https://www.youtube.com/watch?v=jFy03i_LRO8)
+- [Dabin - Hope It Hurts &lpar;feat. Essenger&rpar;](https://www.youtube.com/watch?v=1c4UeYKm8u4)
+- [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
 - [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
+- [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=N1HcS29QNHQ)
 - [Max Richter - Richter: On The Nature Of Daylight](https://www.youtube.com/watch?v=InyT9Gyoz_o)
 - [Peaks Pass](https://www.youtube.com/watch?v=dS93aMOwTlc)
 - [Stone Mason](https://www.youtube.com/watch?v=F0TObQIyqRE)
-- [Witch of the Woods](https://www.youtube.com/watch?v=f-ze_jEwK-Y)
 - [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
 - [IN THE SHADOWS by AMY STROUP](https://www.youtube.com/watch?v=TynHJ0_amDY)
-- [Inteha Ho Gayi Intezaar Ki - Sharaabi 720p HD](https://www.youtube.com/watch?v=cKWdSUUwgFY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
