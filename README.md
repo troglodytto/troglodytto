@@ -28,10 +28,10 @@
 - [Dabin - Hope It Hurts &lpar;feat. Essenger&rpar;](https://www.youtube.com/watch?v=1c4UeYKm8u4)
 - [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
 - [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
+- [Arcade](https://www.youtube.com/watch?v=YSSMnyJ7ZAA)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=N1HcS29QNHQ)
 - [Max Richter - Richter: On The Nature Of Daylight](https://www.youtube.com/watch?v=InyT9Gyoz_o)
 - [Peaks Pass](https://www.youtube.com/watch?v=dS93aMOwTlc)
-- [Stone Mason](https://www.youtube.com/watch?v=F0TObQIyqRE)
 - [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
 - [IN THE SHADOWS by AMY STROUP](https://www.youtube.com/watch?v=TynHJ0_amDY)
 <!-- BLOG-POST-LIST:END -->
