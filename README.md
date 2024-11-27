@@ -19,6 +19,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Surfboard Life](https://www.youtube.com/watch?v=jefklYiJc4o)
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
 - [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
@@ -27,7 +28,6 @@
 - [Dabin - Hope It Hurts &lpar;feat. Essenger&rpar;](https://www.youtube.com/watch?v=1c4UeYKm8u4)
 - [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
 - [Unfound - Dreamlight](https://www.youtube.com/watch?v=HecLH80yeiM)
-- [Ritviz - Sage [Official Music Video]](https://www.youtube.com/watch?v=_kUrW9SEaJc)
 - [Arcade](https://www.youtube.com/watch?v=YSSMnyJ7ZAA)
 - [Flight](https://www.youtube.com/watch?v=ob-73lHbwe4)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=N1HcS29QNHQ)
