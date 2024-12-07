@@ -20,8 +20,8 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Surfboard Life](https://www.youtube.com/watch?v=jefklYiJc4o)
+- [Flawed Mangoes - Dramamine &lpar;Visualizer&rpar;](https://www.youtube.com/watch?v=UeSDvg5xsWI)
 - [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
-- [Lost Stories, @JAIDHIR - Dori &lpar;Acoustic&rpar; [Official Visualiser] I Marigold Soundsystem &lpar;Deluxe&rpar;](https://www.youtube.com/watch?v=ihiQ4TsUFh4)
 - [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
 - [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
 - [Cannons - Evening Star &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=oh85XVlf4pI)
