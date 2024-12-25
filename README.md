@@ -19,21 +19,21 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Surfboard Life](https://www.youtube.com/watch?v=jefklYiJc4o)
 - [Flawed Mangoes - Dramamine &lpar;Visualizer&rpar;](https://www.youtube.com/watch?v=UeSDvg5xsWI)
-- [Lost Stories, Rupali Moghe - Preet | Jogan / Preet EP [Official Visualiser]](https://www.youtube.com/watch?v=yjzyz5NHEQM)
-- [Lost Stories,  @JAIDHIR  - Taaj [Official Lyric Video] I Marigold Soundsystem](https://www.youtube.com/watch?v=IjcE8SxupX8)
-- [Snap x Baarishen - Mashup &lpar;Full Version&rpar; | Gravero &amp; TP](https://www.youtube.com/watch?v=V_cZa8Ice2w)
-- [Cannons - Evening Star &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=oh85XVlf4pI)
 - [Dabin - Hope It Hurts &lpar;feat. Essenger&rpar;](https://www.youtube.com/watch?v=1c4UeYKm8u4)
 - [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
 - [Unfound - Dreamlight](https://www.youtube.com/watch?v=HecLH80yeiM)
+- [I Will Find Him](https://www.youtube.com/watch?v=v4nGinuYwYk)
 - [Arcade](https://www.youtube.com/watch?v=YSSMnyJ7ZAA)
+- [What Are You Going to Do When You Are Not Saving the World?](https://www.youtube.com/watch?v=e20GZ0bMWj4)
 - [Flight](https://www.youtube.com/watch?v=ob-73lHbwe4)
 - [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=N1HcS29QNHQ)
-- [Max Richter - Richter: On The Nature Of Daylight](https://www.youtube.com/watch?v=InyT9Gyoz_o)
-- [Ritviz - Udd Gaye [Official Audio]](https://www.youtube.com/watch?v=v2-9rIL_f4w)
-- [IN THE SHADOWS by AMY STROUP](https://www.youtube.com/watch?v=TynHJ0_amDY)
+- [Call Of Duty: Modern Warfare 2 OST - Chain Of Comnand](https://www.youtube.com/watch?v=RqB_4MwqLAE)
+- [Call Of Duty: Modern Warfare 2 OST - Code Of Conduct](https://www.youtube.com/watch?v=3f74ND7K2DU)
+- [Call Of Duty: Modern Warfare 2 OST - Espirit De Corps](https://www.youtube.com/watch?v=KOFTy6cafu4)
+- [Call Of Duty: Modern Warfare 2 OST - Infiltration](https://www.youtube.com/watch?v=NjHaXQNVmBA)
+- [Call Of Duty: Modern Warfare 2 OST - Guerrilla Tactics](https://www.youtube.com/watch?v=NcvU0i5GgHE)
+- [Call Of Duty: Modern Warfare 2 OST - Extraction Point](https://www.youtube.com/watch?v=5ZfRu48qu5g)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
