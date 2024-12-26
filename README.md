@@ -19,21 +19,21 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
-- [Flawed Mangoes - Dramamine &lpar;Visualizer&rpar;](https://www.youtube.com/watch?v=UeSDvg5xsWI)
-- [Dabin - Hope It Hurts &lpar;feat. Essenger&rpar;](https://www.youtube.com/watch?v=1c4UeYKm8u4)
-- [Champagne Drip &amp; Lucii - Me and You](https://www.youtube.com/watch?v=mE9DBBq-Re4)
-- [Unfound - Dreamlight](https://www.youtube.com/watch?v=HecLH80yeiM)
-- [I Will Find Him](https://www.youtube.com/watch?v=v4nGinuYwYk)
-- [Arcade](https://www.youtube.com/watch?v=YSSMnyJ7ZAA)
-- [What Are You Going to Do When You Are Not Saving the World?](https://www.youtube.com/watch?v=e20GZ0bMWj4)
-- [Flight](https://www.youtube.com/watch?v=ob-73lHbwe4)
-- [Champagne Drip - Kaleidoscope &lpar;feat. Crystalline&rpar;](https://www.youtube.com/watch?v=N1HcS29QNHQ)
-- [Call Of Duty: Modern Warfare 2 OST - Chain Of Comnand](https://www.youtube.com/watch?v=RqB_4MwqLAE)
-- [Call Of Duty: Modern Warfare 2 OST - Code Of Conduct](https://www.youtube.com/watch?v=3f74ND7K2DU)
-- [Call Of Duty: Modern Warfare 2 OST - Espirit De Corps](https://www.youtube.com/watch?v=KOFTy6cafu4)
-- [Call Of Duty: Modern Warfare 2 OST - Infiltration](https://www.youtube.com/watch?v=NjHaXQNVmBA)
-- [Call Of Duty: Modern Warfare 2 OST - Guerrilla Tactics](https://www.youtube.com/watch?v=NcvU0i5GgHE)
-- [Call Of Duty: Modern Warfare 2 OST - Extraction Point](https://www.youtube.com/watch?v=5ZfRu48qu5g)
+- [&#39;Signal to Noise&#39; [Cinematic Classical CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=x43OJXk8idI)
+- [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
+- [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
+- [&#39;Discovery&#39; [Epic Cinematic CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=V1S1IfoX8Yg)
+- [Aria Math](https://www.youtube.com/watch?v=KOIEo_74L-Q)
+- [Slushii - Dreaming Of You](https://www.youtube.com/watch?v=aAngdXj_f2g)
+- [Summer Was Fun &amp; Laura Brehm - Prism](https://www.youtube.com/watch?v=kp0WIOiehug)
+- [8 Graves - Burning Alive &lpar;lyrics&rpar;](https://www.youtube.com/watch?v=xzNjLuoe-nw)
+- [8 Graves - Numb](https://www.youtube.com/watch?v=kZa0HGNHKe4)
+- [8 Graves - Bury Me Low](https://www.youtube.com/watch?v=En8JdFUvKZk)
+- [Apparat - Goodbye](https://www.youtube.com/watch?v=SjliSRyTjB8)
+- [Illenium &amp; Said The Sky X Porter Robinson - Where&#39;d You Go X Divinity [Nick Gunner Mashup]](https://www.youtube.com/watch?v=Xpd2nSVjwlc)
+- [Mire Kay - Industry &lpar;Audio&rpar; [DARK - 1X02 - SOUNDTRACK]](https://www.youtube.com/watch?v=GtTPRLKLoCE)
+- [Seven Lions &amp; Echos - Cold Skin &lpar;MitiS Remix&rpar;](https://www.youtube.com/watch?v=LXbu4kstjyU)
+- [Virtual Riot - Init](https://www.youtube.com/watch?v=4b4sl-TRRzo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
