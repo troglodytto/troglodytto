@@ -23,6 +23,7 @@
 - [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
 - [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
 - [&#39;Discovery&#39; [Epic Cinematic CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=V1S1IfoX8Yg)
+- [Jason Ross - Letting Go &lpar;Lyrics&rpar; ft. RUNN](https://www.youtube.com/watch?v=_FgcZsybzGk)
 - [Aria Math](https://www.youtube.com/watch?v=KOIEo_74L-Q)
 - [Slushii - Dreaming Of You](https://www.youtube.com/watch?v=aAngdXj_f2g)
 - [Summer Was Fun &amp; Laura Brehm - Prism](https://www.youtube.com/watch?v=kp0WIOiehug)
@@ -32,7 +33,6 @@
 - [Apparat - Goodbye](https://www.youtube.com/watch?v=SjliSRyTjB8)
 - [Illenium &amp; Said The Sky X Porter Robinson - Where&#39;d You Go X Divinity [Nick Gunner Mashup]](https://www.youtube.com/watch?v=Xpd2nSVjwlc)
 - [Mire Kay - Industry &lpar;Audio&rpar; [DARK - 1X02 - SOUNDTRACK]](https://www.youtube.com/watch?v=GtTPRLKLoCE)
-- [Seven Lions &amp; Echos - Cold Skin &lpar;MitiS Remix&rpar;](https://www.youtube.com/watch?v=LXbu4kstjyU)
 - [Virtual Riot - Init](https://www.youtube.com/watch?v=4b4sl-TRRzo)
 <!-- BLOG-POST-LIST:END -->
 
