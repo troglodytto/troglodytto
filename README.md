@@ -19,6 +19,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Lyrical: Dil Ye Bekarar Kyun Hai | Players | Abhishek B, Sonam Kapoor | Pritam | Mohit C, Shreya G](https://www.youtube.com/watch?v=zjnDDyyxQVc)
 - [&#39;Signal to Noise&#39; [Cinematic Classical CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=x43OJXk8idI)
 - [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
 - [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
@@ -26,7 +27,6 @@
 - [Jason Ross - Letting Go &lpar;Lyrics&rpar; ft. RUNN](https://www.youtube.com/watch?v=_FgcZsybzGk)
 - [Aria Math](https://www.youtube.com/watch?v=KOIEo_74L-Q)
 - [Slushii - Dreaming Of You](https://www.youtube.com/watch?v=aAngdXj_f2g)
-- [Summer Was Fun &amp; Laura Brehm - Prism](https://www.youtube.com/watch?v=kp0WIOiehug)
 - [8 Graves - Burning Alive &lpar;lyrics&rpar;](https://www.youtube.com/watch?v=xzNjLuoe-nw)
 - [8 Graves - Numb](https://www.youtube.com/watch?v=kZa0HGNHKe4)
 - [8 Graves - Bury Me Low](https://www.youtube.com/watch?v=En8JdFUvKZk)
