@@ -19,16 +19,16 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Power Of Special Grade Curse](https://www.youtube.com/watch?v=CuT4JKt3p7Y)
+- [Feelings Of Regret](https://www.youtube.com/watch?v=i2gVQdwKjkI)
+- [Ryomen Sukuna](https://www.youtube.com/watch?v=fI_nqyKdA54)
+- [Curse Womb Must Die](https://www.youtube.com/watch?v=SK24j5yCOLY)
 - [&#39;Signal to Noise&#39; [Cinematic Classical CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=x43OJXk8idI)
 - [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
 - [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
 - [&#39;Discovery&#39; [Epic Cinematic CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=V1S1IfoX8Yg)
 - [Jason Ross - Letting Go &lpar;Lyrics&rpar; ft. RUNN](https://www.youtube.com/watch?v=_FgcZsybzGk)
 - [Aria Math](https://www.youtube.com/watch?v=KOIEo_74L-Q)
-- [Slushii - Dreaming Of You](https://www.youtube.com/watch?v=aAngdXj_f2g)
-- [Summer Was Fun &amp; Laura Brehm - Prism](https://www.youtube.com/watch?v=kp0WIOiehug)
-- [8 Graves - Burning Alive &lpar;lyrics&rpar;](https://www.youtube.com/watch?v=xzNjLuoe-nw)
-- [8 Graves - Numb](https://www.youtube.com/watch?v=kZa0HGNHKe4)
 - [8 Graves - Bury Me Low](https://www.youtube.com/watch?v=En8JdFUvKZk)
 - [Apparat - Goodbye](https://www.youtube.com/watch?v=SjliSRyTjB8)
 - [Illenium &amp; Said The Sky X Porter Robinson - Where&#39;d You Go X Divinity [Nick Gunner Mashup]](https://www.youtube.com/watch?v=Xpd2nSVjwlc)
