@@ -24,7 +24,6 @@
 - [Ryomen Sukuna](https://www.youtube.com/watch?v=fI_nqyKdA54)
 - [Impatience](https://www.youtube.com/watch?v=3-HJnt5qgsI)
 - [Curse Womb Must Die](https://www.youtube.com/watch?v=SK24j5yCOLY)
-- [&#39;Signal to Noise&#39; [Cinematic Classical CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=x43OJXk8idI)
 - [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
 - [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
 - [&#39;Discovery&#39; [Epic Cinematic CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=V1S1IfoX8Yg)
@@ -34,6 +33,7 @@
 - [Illenium &amp; Said The Sky X Porter Robinson - Where&#39;d You Go X Divinity [Nick Gunner Mashup]](https://www.youtube.com/watch?v=Xpd2nSVjwlc)
 - [Mire Kay - Industry &lpar;Audio&rpar; [DARK - 1X02 - SOUNDTRACK]](https://www.youtube.com/watch?v=GtTPRLKLoCE)
 - [Virtual Riot - Init](https://www.youtube.com/watch?v=4b4sl-TRRzo)
+- [American Authors - Best Day Of My Life](https://www.youtube.com/watch?v=Y66j_BUCBMY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Pandora's Box 🔥
