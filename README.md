@@ -19,16 +19,16 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Radical Face - One Last Dream](https://www.youtube.com/watch?v=Hm2uX6mL84M)
 - [Power Of Special Grade Curse](https://www.youtube.com/watch?v=CuT4JKt3p7Y)
 - [Feelings Of Regret](https://www.youtube.com/watch?v=i2gVQdwKjkI)
 - [Ryomen Sukuna](https://www.youtube.com/watch?v=fI_nqyKdA54)
 - [Impatience](https://www.youtube.com/watch?v=3-HJnt5qgsI)
 - [Curse Womb Must Die](https://www.youtube.com/watch?v=SK24j5yCOLY)
+- [Radical Face - The Missing Road](https://www.youtube.com/watch?v=_IPWyM29GG0)
 - [Seven Lions, William Black, Dabin &amp; SLANDER - First Time Vs. Deep Blue Vs. Alive&lpar;Nick Gunner Mashup&rpar;](https://www.youtube.com/watch?v=mjSqjDO9_yI)
 - [William Black - Ruins &lpar;Syence Remix&rpar; ft. Micah Martin](https://www.youtube.com/watch?v=MhLbxfEzScA)
-- [&#39;Discovery&#39; [Epic Cinematic CC-BY] - Scott Buckley](https://www.youtube.com/watch?v=V1S1IfoX8Yg)
 - [Jason Ross - Letting Go &lpar;Lyrics&rpar; ft. RUNN](https://www.youtube.com/watch?v=_FgcZsybzGk)
-- [Aria Math](https://www.youtube.com/watch?v=KOIEo_74L-Q)
 - [Apparat - Goodbye](https://www.youtube.com/watch?v=SjliSRyTjB8)
 - [Illenium &amp; Said The Sky X Porter Robinson - Where&#39;d You Go X Divinity [Nick Gunner Mashup]](https://www.youtube.com/watch?v=Xpd2nSVjwlc)
 - [Mire Kay - Industry &lpar;Audio&rpar; [DARK - 1X02 - SOUNDTRACK]](https://www.youtube.com/watch?v=GtTPRLKLoCE)
