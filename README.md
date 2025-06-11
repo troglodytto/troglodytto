@@ -19,6 +19,7 @@
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
+- [Ed Sheeran - Sapphire &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=JgDNFQ2RaLQ)
 - [joki &quot;alice&quot; &lpar;visualizer&rpar;](https://www.youtube.com/watch?v=-cluVjbwDLk)
 - [Chrystal - The Days &lpar;Notion Remix&rpar; &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=V18f4ohF4jk)
 - [CHRYSTAL - THE DAYS  &lpar;NOTION REMIX&rpar;](https://www.youtube.com/watch?v=t-knFuqQdGc)
@@ -26,7 +27,6 @@
 - [Want To Love &lpar;Just Raw&rpar;](https://www.youtube.com/watch?v=rDAAs3Ka3Mo)
 - [RAVANA RUDRA VEENA by Divine Music](https://www.youtube.com/watch?v=jYnubAMWWs0)
 - [Radical Face - One Last Dream](https://www.youtube.com/watch?v=Hm2uX6mL84M)
-- [Impatience](https://www.youtube.com/watch?v=3-HJnt5qgsI)
 - [The Weeknd - Save Your Tears &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=XXYlFuWEuKI)
 - [Radical Face - The Missing Road](https://www.youtube.com/watch?v=_IPWyM29GG0)
 - [Convex - 4U &lpar;feat. Jex Jordyn&rpar; | Electronic | NCS - Copyright Free Music](https://www.youtube.com/watch?v=dMnWZ8tAUkU)
