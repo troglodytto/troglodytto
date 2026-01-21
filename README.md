@@ -25,6 +25,7 @@
 - [CHRYSTAL - THE DAYS  &lpar;NOTION REMIX&rpar;](https://www.youtube.com/watch?v=t-knFuqQdGc)
 - [Chime &amp; DNAKM - Make &#39;em Proud &lpar;Music Video&rpar;](https://www.youtube.com/watch?v=iVAamocy_OI)
 - [Want To Love &lpar;Just Raw&rpar;](https://www.youtube.com/watch?v=rDAAs3Ka3Mo)
+- [Traditional Ganesh Aarti By Lalbaugchaa Raajaa Parichay Sai Bhajan Mandal &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=0iTb6b8F5to)
 - [RAVANA RUDRA VEENA by Divine Music](https://www.youtube.com/watch?v=jYnubAMWWs0)
 - [Radical Face - One Last Dream](https://www.youtube.com/watch?v=Hm2uX6mL84M)
 - [The Weeknd - Save Your Tears &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=XXYlFuWEuKI)
@@ -32,7 +33,6 @@
 - [Convex - 4U &lpar;feat. Jex Jordyn&rpar; | Electronic | NCS - Copyright Free Music](https://www.youtube.com/watch?v=dMnWZ8tAUkU)
 - [It&#39;s So Overt It&#39;s Covert](https://www.youtube.com/watch?v=EPvi3zoVxK0)
 - [Coldplay - A Sky Full Of Stars &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=VPRjCeoBqrI)
-- [American Authors - Best Day Of My Life](https://www.youtube.com/watch?v=Y66j_BUCBMY)
 - [Daft Punk - One More Time &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=FGBhQbmPwH8)
 <!-- BLOG-POST-LIST:END -->
 
