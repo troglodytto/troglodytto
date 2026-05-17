@@ -20,7 +20,6 @@
 - ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
     <!-- BLOG-POST-LIST:START -->
 - [Ed Sheeran - Sapphire &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=JgDNFQ2RaLQ)
-- [joki &quot;alice&quot; &lpar;visualizer&rpar;](https://www.youtube.com/watch?v=-cluVjbwDLk)
 - [Chrystal - The Days &lpar;Notion Remix&rpar; &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=V18f4ohF4jk)
 - [CHRYSTAL - THE DAYS  &lpar;NOTION REMIX&rpar;](https://www.youtube.com/watch?v=t-knFuqQdGc)
 - [Chime &amp; DNAKM - Make &#39;em Proud &lpar;Music Video&rpar;](https://www.youtube.com/watch?v=iVAamocy_OI)
