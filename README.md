@@ -17,23 +17,15 @@
     - **[Hyperion](https://github.com/troglodytto/hyperion)** - A Simple HTTP/1.1 Client/Server
     - **[Zeno](https://github.com/troglodytto/zeno)** - A minimal x86 Kernel
     - **[Oxytorrent](https://github.com/troglodytto/oxytorrent)** - A simple torrent client written in Rust
-- ### 🎵 **Here's some [music](https://youtube.com/playlist?list=PLuWs5sMPaxNj2aS1MtLMgcUsNuldIeynG) 👈 that I like**
-    <!-- BLOG-POST-LIST:START -->
-- [Ed Sheeran - Sapphire &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=JgDNFQ2RaLQ)
-- [Chrystal - The Days &lpar;Notion Remix&rpar; &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=V18f4ohF4jk)
-- [CHRYSTAL - THE DAYS  &lpar;NOTION REMIX&rpar;](https://www.youtube.com/watch?v=t-knFuqQdGc)
-- [Chime &amp; DNAKM - Make &#39;em Proud &lpar;Music Video&rpar;](https://www.youtube.com/watch?v=iVAamocy_OI)
-- [Want To Love &lpar;Just Raw&rpar;](https://www.youtube.com/watch?v=rDAAs3Ka3Mo)
-- [Traditional Ganesh Aarti By Lalbaugchaa Raajaa Parichay Sai Bhajan Mandal &lpar;Official Lyric Video&rpar;](https://www.youtube.com/watch?v=0iTb6b8F5to)
-- [RAVANA RUDRA VEENA by Divine Music](https://www.youtube.com/watch?v=jYnubAMWWs0)
-- [Radical Face - One Last Dream](https://www.youtube.com/watch?v=Hm2uX6mL84M)
-- [The Weeknd - Save Your Tears &lpar;Official Music Video&rpar;](https://www.youtube.com/watch?v=XXYlFuWEuKI)
-- [Radical Face - The Missing Road](https://www.youtube.com/watch?v=_IPWyM29GG0)
-- [Convex - 4U &lpar;feat. Jex Jordyn&rpar; | Electronic | NCS - Copyright Free Music](https://www.youtube.com/watch?v=dMnWZ8tAUkU)
-- [It&#39;s So Overt It&#39;s Covert](https://www.youtube.com/watch?v=EPvi3zoVxK0)
-- [Coldplay - A Sky Full Of Stars &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=VPRjCeoBqrI)
-- [Daft Punk - One More Time &lpar;Official Video&rpar;](https://www.youtube.com/watch?v=FGBhQbmPwH8)
-<!-- BLOG-POST-LIST:END -->
+- ### 🎵 **What I listen to, on [Spotify](https://open.spotify.com/user/qkr5jlyvoo4c35vhptmnohftw)**
+
+<table width="100%">
+<tr><td width="50%"><a href="https://open.spotify.com/playlist/03IuhUWLUpxoONvlvVZklA"><b>&#10022; Exterminate</b></a><br><sub>Riddim and heavy dubstep</sub></td><td width="50%"><a href="https://open.spotify.com/playlist/7wDj61jPRxP5p2bYthXPuS"><b>&#10022; Trancendence</b></a><br><sub>Melodic bass, the euphoric end</sub></td></tr>
+<tr><td width="50%"><a href="https://open.spotify.com/playlist/2SHKPMoOB8DDxpsaswN1YI"><b>&#10022; Brainbridge</b></a><br><sub>Mid-tempo and experimental bass</sub></td><td width="50%"><a href="https://open.spotify.com/playlist/5TPNh7Rkx9yzO2jmwE8c3y"><b>&#10022; Symphony</b></a><br><sub>Film and game scores</sub></td></tr>
+<tr><td width="50%"><a href="https://open.spotify.com/playlist/1hGiv7IByMuNK1jDFdjHhQ"><b>&#10022; Daylight</b></a><br><sub>Pop and indie, for daylight</sub></td><td width="50%"><a href="https://open.spotify.com/playlist/0jaeSvwfAWFM9curJuyIpE"><b>&#10022; Classical</b></a><br><sub>Orchestral, the standard repertoire</sub></td></tr>
+<tr><td width="50%"><a href="https://open.spotify.com/playlist/1WaNNXemjGdd7hHVQnthXS"><b>&#10022; War against the City</b></a><br><sub>Arcane and League, plus harder vocal tracks</sub></td><td width="50%"><a href="https://open.spotify.com/playlist/04QKyvWM8YIL2UumG4Vixj"><b>&#10022; Hollow</b></a><br><sub>Darker electronic, vocal and instrumental</sub></td></tr>
+<tr><td width="50%"><a href="https://open.spotify.com/playlist/3Ei6GHW9PXX6DW85wNBgxr"><b>&#10022; Abyss</b></a><br><sub>Ambient and lo-fi, for working</sub></td><td width="50%"><a href="https://open.spotify.com/playlist/64P3hOQeaOBl46Q1yIHQJf"><b>&#10022; Neon</b></a><br><sub>Synthwave and retrowave</sub></td></tr>
+</table>
 
 ## Pandora's Box 🔥
 
